@@ -113,6 +113,35 @@ Optional (only for Solar Assistant scripts):
 | `solarassistant_email` | Optional | `you@example.com` | Your Solar Assistant account email |
 | `cloudProxy` | Optional | `https://name.za.solar-assistant.io` | Solar Assistant cloud URL |
 
+### How To Find `inverter_ip` (Router or AP Mode)
+
+You can get your inverter/dongle IP in two common ways:
+
+#### Option A: From your router (recommended)
+
+1. Log into your home router admin page (often `192.168.0.1` or `192.168.1.1`).
+2. Open the DHCP clients / connected devices list.
+3. Look for your LuxPower dongle/inverter device:
+   - Match by device name if shown, or
+   - Match by MAC address from the dongle sticker.
+4. Note the assigned IP address (example: `192.168.10.67`).
+5. Put that value in `.env` as `inverter_ip=...`.
+
+Tip: Reserve this IP in your router (DHCP reservation) so it does not change.
+
+#### Option B: Via dongle AP mode (fallback)
+
+Use this when the dongle is not yet connected to your Wi-Fi or you cannot find it on the router.
+
+1. Go near the inverter/dongle and put the Wi-Fi dongle into AP/setup mode (button press depends on model).
+2. On your phone/laptop, connect to the dongle setup Wi-Fi (often named like `AP_...`, `WiFi_...`, or installer SSID).
+3. Open the setup page in a browser (commonly `192.168.10.1` or `192.168.4.1`).
+4. In the network/status page, read the current STA/LAN IP (the IP on your home Wi-Fi).
+5. Enter that IP in `.env` as `inverter_ip=...`.
+6. Reconnect your phone/laptop back to your normal home Wi-Fi.
+
+If AP mode only shows setup values and no LAN IP, connect dongle to Wi-Fi first, then use Option A on the router to get the final IP.
+
 ### 5) Start The Dashboard
 
 Run:
