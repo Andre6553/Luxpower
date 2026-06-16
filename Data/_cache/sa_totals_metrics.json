@@ -1,0 +1,89 @@
+{
+  "host": "192.168.10.79",
+  "topics": {
+    "total/daily/load_energy": {
+      "status": 401,
+      "contentType": "application/json; charset=utf-8",
+      "data": {
+        "error": "Unauthorized"
+      }
+    },
+    "total/daily/solar_energy": {
+      "status": 401,
+      "contentType": "application/json; charset=utf-8",
+      "data": {
+        "error": "Unauthorized"
+      }
+    },
+    "total/daily/battery_charge_energy": {
+      "status": 401,
+      "contentType": "application/json; charset=utf-8",
+      "data": {
+        "error": "Unauthorized"
+      }
+    },
+    "total/daily/battery_discharge_energy": {
+      "status": 401,
+      "contentType": "application/json; charset=utf-8",
+      "data": {
+        "error": "Unauthorized"
+      }
+    },
+    "total/daily/grid_import_energy": {
+      "status": 401,
+      "contentType": "application/json; charset=utf-8",
+      "data": {
+        "error": "Unauthorized"
+      }
+    },
+    "total/daily/grid_export_energy": {
+      "status": 401,
+      "contentType": "application/json; charset=utf-8",
+      "data": {
+        "error": "Unauthorized"
+      }
+    },
+    "total/monthly/load_energy": {
+      "status": 401,
+      "contentType": "application/json; charset=utf-8",
+      "data": {
+        "error": "Unauthorized"
+      }
+    },
+    "total/monthly/solar_energy": {
+      "status": 401,
+      "contentType": "application/json; charset=utf-8",
+      "data": {
+        "error": "Unauthorized"
+      }
+    },
+    "total/monthly/battery_charge_energy": {
+      "status": 401,
+      "contentType": "application/json; charset=utf-8",
+      "data": {
+        "error": "Unauthorized"
+      }
+    },
+    "total/monthly/battery_discharge_energy": {
+      "status": 401,
+      "contentType": "application/json; charset=utf-8",
+      "data": {
+        "error": "Unauthorized"
+      }
+    },
+    "total/monthly/grid_import_energy": {
+      "status": 401,
+      "contentType": "application/json; charset=utf-8",
+      "data": {
+        "error": "Unauthorized"
+      }
+    },
+    "total/monthly/grid_export_energy": {
+      "status": 401,
+      "contentType": "application/json; charset=utf-8",
+      "data": {
+        "error": "Unauthorized"
+      }
+    }
+  }
+}

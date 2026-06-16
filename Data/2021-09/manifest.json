@@ -1,0 +1,28 @@
+{
+  "fetchedAtUtc": "2026-05-28T16:51:48.849153+00:00",
+  "source": "cloud",
+  "baseUrl": "https://af.luxpowertek.com",
+  "station": {
+    "plantId": 54045,
+    "name": "Andre Huis"
+  },
+  "inverterSerial": "2453530335",
+  "parallel": false,
+  "year": 2021,
+  "month": 9,
+  "files": {
+    "energy_daily_csv": "energy_daily.csv",
+    "energy_by_type_json": "energy_by_type.json",
+    "events_csv": "events.csv",
+    "daily_charts_dir": "daily_charts/"
+  },
+  "energyTypes": {
+    "eInvDay": "solar_kwh",
+    "eToUserDay": "load_kwh",
+    "eToGridDay": "export_kwh",
+    "eAcChargeDay": "ac_charge_kwh",
+    "eBatChargeDay": "battery_charge_kwh",
+    "eBatDischargeDay": "battery_discharge_kwh"
+  },
+  "notes": "Energy values in CSV are kWh (API raw / 10). Charts are time-series points from dayLine."
+}

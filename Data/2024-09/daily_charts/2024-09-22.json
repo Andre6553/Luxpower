@@ -1,0 +1,281 @@
+{
+  "date": "2024-09-22",
+  "series": {
+    "ppv": {
+      "unit": "",
+      "maxValueText": "",
+      "avgValueText": "",
+      "points": []
+    },
+    "ppv1": {
+      "unit": "W",
+      "maxValueText": "0",
+      "avgValueText": "0",
+      "points": [
+        {
+          "time": "2024-09-22 02:35:01",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 2,
+          "minute": 35,
+          "second": 1,
+          "value": 0.0
+        },
+        {
+          "time": "2024-09-22 21:10:07",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 21,
+          "minute": 10,
+          "second": 7,
+          "value": 0.0
+        }
+      ]
+    },
+    "ppv2": {
+      "unit": "W",
+      "maxValueText": "0",
+      "avgValueText": "0",
+      "points": [
+        {
+          "time": "2024-09-22 02:35:01",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 2,
+          "minute": 35,
+          "second": 1,
+          "value": 0.0
+        },
+        {
+          "time": "2024-09-22 21:10:07",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 21,
+          "minute": 10,
+          "second": 7,
+          "value": 0.0
+        }
+      ]
+    },
+    "vpv1": {
+      "unit": "V",
+      "maxValueText": "28.3",
+      "avgValueText": "28",
+      "points": [
+        {
+          "time": "2024-09-22 02:35:01",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 2,
+          "minute": 35,
+          "second": 1,
+          "value": 27.6
+        },
+        {
+          "time": "2024-09-22 21:10:07",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 21,
+          "minute": 10,
+          "second": 7,
+          "value": 28.3
+        }
+      ]
+    },
+    "vpv2": {
+      "unit": "V",
+      "maxValueText": "0",
+      "avgValueText": "0",
+      "points": [
+        {
+          "time": "2024-09-22 02:35:01",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 2,
+          "minute": 35,
+          "second": 1,
+          "value": 0.0
+        },
+        {
+          "time": "2024-09-22 21:10:07",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 21,
+          "minute": 10,
+          "second": 7,
+          "value": 0.0
+        }
+      ]
+    },
+    "vBat": {
+      "unit": "V",
+      "maxValueText": "52.4",
+      "avgValueText": "51.8",
+      "points": [
+        {
+          "time": "2024-09-22 02:35:01",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 2,
+          "minute": 35,
+          "second": 1,
+          "value": 51.2
+        },
+        {
+          "time": "2024-09-22 21:10:07",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 21,
+          "minute": 10,
+          "second": 7,
+          "value": 52.4
+        }
+      ]
+    },
+    "soc": {
+      "unit": "%",
+      "maxValueText": "69",
+      "avgValueText": "48",
+      "points": [
+        {
+          "time": "2024-09-22 02:35:01",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 2,
+          "minute": 35,
+          "second": 1,
+          "value": 27.0
+        },
+        {
+          "time": "2024-09-22 21:10:07",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 21,
+          "minute": 10,
+          "second": 7,
+          "value": 69.0
+        }
+      ]
+    },
+    "pToUser": {
+      "unit": "W",
+      "maxValueText": "0",
+      "avgValueText": "0",
+      "points": [
+        {
+          "time": "2024-09-22 02:35:01",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 2,
+          "minute": 35,
+          "second": 1,
+          "value": 0.0
+        },
+        {
+          "time": "2024-09-22 21:10:07",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 21,
+          "minute": 10,
+          "second": 7,
+          "value": 0.0
+        }
+      ]
+    },
+    "pToGrid": {
+      "unit": "W",
+      "maxValueText": "0",
+      "avgValueText": "0",
+      "points": [
+        {
+          "time": "2024-09-22 02:35:01",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 2,
+          "minute": 35,
+          "second": 1,
+          "value": 0.0
+        },
+        {
+          "time": "2024-09-22 21:10:07",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 21,
+          "minute": 10,
+          "second": 7,
+          "value": 0.0
+        }
+      ]
+    },
+    "pCharge": {
+      "unit": "W",
+      "maxValueText": "0",
+      "avgValueText": "0",
+      "points": [
+        {
+          "time": "2024-09-22 02:35:01",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 2,
+          "minute": 35,
+          "second": 1,
+          "value": 0.0
+        },
+        {
+          "time": "2024-09-22 21:10:07",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 21,
+          "minute": 10,
+          "second": 7,
+          "value": 0.0
+        }
+      ]
+    },
+    "pDischarge": {
+      "unit": "",
+      "maxValueText": "840",
+      "avgValueText": "760.5",
+      "points": [
+        {
+          "time": "2024-09-22 02:35:01",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 2,
+          "minute": 35,
+          "second": 1,
+          "value": 681.0
+        },
+        {
+          "time": "2024-09-22 21:10:07",
+          "year": 2024,
+          "month": 8,
+          "day": 22,
+          "hour": 21,
+          "minute": 10,
+          "second": 7,
+          "value": 840.0
+        }
+      ]
+    }
+  }
+}

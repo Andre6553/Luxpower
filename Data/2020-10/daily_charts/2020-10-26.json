@@ -1,0 +1,71 @@
+{
+  "date": "2020-10-26",
+  "series": {
+    "ppv": {
+      "unit": "",
+      "maxValueText": "",
+      "avgValueText": "",
+      "points": []
+    },
+    "ppv1": {
+      "unit": "W",
+      "maxValueText": "",
+      "avgValueText": "",
+      "points": []
+    },
+    "ppv2": {
+      "unit": "W",
+      "maxValueText": "",
+      "avgValueText": "",
+      "points": []
+    },
+    "vpv1": {
+      "unit": "V",
+      "maxValueText": "",
+      "avgValueText": "",
+      "points": []
+    },
+    "vpv2": {
+      "unit": "V",
+      "maxValueText": "",
+      "avgValueText": "",
+      "points": []
+    },
+    "vBat": {
+      "unit": "V",
+      "maxValueText": "",
+      "avgValueText": "",
+      "points": []
+    },
+    "soc": {
+      "unit": "%",
+      "maxValueText": "",
+      "avgValueText": "",
+      "points": []
+    },
+    "pToUser": {
+      "unit": "W",
+      "maxValueText": "",
+      "avgValueText": "",
+      "points": []
+    },
+    "pToGrid": {
+      "unit": "W",
+      "maxValueText": "",
+      "avgValueText": "",
+      "points": []
+    },
+    "pCharge": {
+      "unit": "W",
+      "maxValueText": "",
+      "avgValueText": "",
+      "points": []
+    },
+    "pDischarge": {
+      "unit": "",
+      "maxValueText": "",
+      "avgValueText": "",
+      "points": []
+    }
+  }
+}

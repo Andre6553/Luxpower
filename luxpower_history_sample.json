@@ -1,0 +1,1169 @@
+{
+  "readOnly": true,
+  "serialNum": "2453530335",
+  "station": "Andre Huis",
+  "dayLine_ppv": {
+    "success": true,
+    "xAxis": "time",
+    "yAxis": "pToUser",
+    "avgValue": 93.29486846923828,
+    "avgValueText": "93.3",
+    "maxValueText": "573",
+    "minValueText": "0",
+    "unit": "W",
+    "data": [
+      {
+        "time": "2026-05-28 00:00:54",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 0,
+        "minute": 0,
+        "second": 54,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 00:06:51",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 0,
+        "minute": 6,
+        "second": 51,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 00:12:46",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 0,
+        "minute": 12,
+        "second": 46,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 00:18:46",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 0,
+        "minute": 18,
+        "second": 46,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 00:24:46",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 0,
+        "minute": 24,
+        "second": 46,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 00:30:47",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 0,
+        "minute": 30,
+        "second": 47,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 00:36:40",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 0,
+        "minute": 36,
+        "second": 40,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 00:42:40",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 0,
+        "minute": 42,
+        "second": 40,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 00:48:42",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 0,
+        "minute": 48,
+        "second": 42,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 00:56:35",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 0,
+        "minute": 56,
+        "second": 35,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 01:02:36",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 1,
+        "minute": 2,
+        "second": 36,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 01:16:31",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 1,
+        "minute": 16,
+        "second": 31,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 01:32:30",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 1,
+        "minute": 32,
+        "second": 30,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 01:38:24",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 1,
+        "minute": 38,
+        "second": 24,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 01:54:25",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 1,
+        "minute": 54,
+        "second": 25,
+        "value": 54.0
+      },
+      {
+        "time": "2026-05-28 02:00:25",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 2,
+        "minute": 0,
+        "second": 25,
+        "value": 66.0
+      },
+      {
+        "time": "2026-05-28 02:10:18",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 2,
+        "minute": 10,
+        "second": 18,
+        "value": 48.0
+      },
+      {
+        "time": "2026-05-28 02:16:20",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 2,
+        "minute": 16,
+        "second": 20,
+        "value": 14.0
+      },
+      {
+        "time": "2026-05-28 02:22:18",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 2,
+        "minute": 22,
+        "second": 18,
+        "value": 63.0
+      },
+      {
+        "time": "2026-05-28 02:36:06",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 2,
+        "minute": 36,
+        "second": 6,
+        "value": 13.0
+      },
+      {
+        "time": "2026-05-28 02:48:06",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 2,
+        "minute": 48,
+        "second": 6,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 02:56:00",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 2,
+        "minute": 56,
+        "second": 0,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 03:02:00",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 3,
+        "minute": 2,
+        "second": 0,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 03:13:54",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 3,
+        "minute": 13,
+        "second": 54,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 03:19:54",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 3,
+        "minute": 19,
+        "second": 54,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 03:31:54",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 3,
+        "minute": 31,
+        "second": 54,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 03:37:54",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 3,
+        "minute": 37,
+        "second": 54,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 03:53:48",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 3,
+        "minute": 53,
+        "second": 48,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 03:59:42",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 3,
+        "minute": 59,
+        "second": 42,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 04:13:42",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 4,
+        "minute": 13,
+        "second": 42,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 04:19:36",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 4,
+        "minute": 19,
+        "second": 36,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 04:33:38",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 4,
+        "minute": 33,
+        "second": 38,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 04:39:37",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 4,
+        "minute": 39,
+        "second": 37,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 04:55:25",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 4,
+        "minute": 55,
+        "second": 25,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 05:01:30",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 5,
+        "minute": 1,
+        "second": 30,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 05:07:17",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 5,
+        "minute": 7,
+        "second": 17,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 05:13:17",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 5,
+        "minute": 13,
+        "second": 17,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 05:19:15",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 5,
+        "minute": 19,
+        "second": 15,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 05:25:12",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 5,
+        "minute": 25,
+        "second": 12,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 05:31:12",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 5,
+        "minute": 31,
+        "second": 12,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 05:37:09",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 5,
+        "minute": 37,
+        "second": 9,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 05:43:06",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 5,
+        "minute": 43,
+        "second": 6,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 05:49:06",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 5,
+        "minute": 49,
+        "second": 6,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 05:55:05",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 5,
+        "minute": 55,
+        "second": 5,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 06:01:01",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 6,
+        "minute": 1,
+        "second": 1,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 06:07:00",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 6,
+        "minute": 7,
+        "second": 0,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 06:12:59",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 6,
+        "minute": 12,
+        "second": 59,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 06:18:56",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 6,
+        "minute": 18,
+        "second": 56,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 06:24:55",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 6,
+        "minute": 24,
+        "second": 55,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 06:30:53",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 6,
+        "minute": 30,
+        "second": 53,
+        "value": 573.0
+      },
+      {
+        "time": "2026-05-28 06:36:52",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 6,
+        "minute": 36,
+        "second": 52,
+        "value": 560.0
+      },
+      {
+        "time": "2026-05-28 06:42:49",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 6,
+        "minute": 42,
+        "second": 49,
+        "value": 563.0
+      },
+      {
+        "time": "2026-05-28 06:48:48",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 6,
+        "minute": 48,
+        "second": 48,
+        "value": 537.0
+      },
+      {
+        "time": "2026-05-28 06:54:47",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 6,
+        "minute": 54,
+        "second": 47,
+        "value": 548.0
+      },
+      {
+        "time": "2026-05-28 07:00:43",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 7,
+        "minute": 0,
+        "second": 43,
+        "value": 458.0
+      },
+      {
+        "time": "2026-05-28 07:06:42",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 7,
+        "minute": 6,
+        "second": 42,
+        "value": 456.0
+      },
+      {
+        "time": "2026-05-28 07:12:42",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 7,
+        "minute": 12,
+        "second": 42,
+        "value": 290.0
+      },
+      {
+        "time": "2026-05-28 07:18:38",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 7,
+        "minute": 18,
+        "second": 38,
+        "value": 314.0
+      },
+      {
+        "time": "2026-05-28 07:24:38",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 7,
+        "minute": 24,
+        "second": 38,
+        "value": 313.0
+      },
+      {
+        "time": "2026-05-28 07:30:35",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 7,
+        "minute": 30,
+        "second": 35,
+        "value": 301.0
+      },
+      {
+        "time": "2026-05-28 07:36:33",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 7,
+        "minute": 36,
+        "second": 33,
+        "value": 382.0
+      },
+      {
+        "time": "2026-05-28 07:42:31",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 7,
+        "minute": 42,
+        "second": 31,
+        "value": 335.0
+      },
+      {
+        "time": "2026-05-28 07:48:31",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 7,
+        "minute": 48,
+        "second": 31,
+        "value": 195.0
+      },
+      {
+        "time": "2026-05-28 07:54:28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 7,
+        "minute": 54,
+        "second": 28,
+        "value": 245.0
+      },
+      {
+        "time": "2026-05-28 08:00:26",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 8,
+        "minute": 0,
+        "second": 26,
+        "value": 168.0
+      },
+      {
+        "time": "2026-05-28 08:06:25",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 8,
+        "minute": 6,
+        "second": 25,
+        "value": 150.0
+      },
+      {
+        "time": "2026-05-28 08:12:24",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 8,
+        "minute": 12,
+        "second": 24,
+        "value": 231.0
+      },
+      {
+        "time": "2026-05-28 08:18:21",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 8,
+        "minute": 18,
+        "second": 21,
+        "value": 172.0
+      },
+      {
+        "time": "2026-05-28 08:24:31",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 8,
+        "minute": 24,
+        "second": 31,
+        "value": 93.0
+      },
+      {
+        "time": "2026-05-28 08:30:22",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 8,
+        "minute": 30,
+        "second": 22,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 08:36:21",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 8,
+        "minute": 36,
+        "second": 21,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 08:48:30",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 8,
+        "minute": 48,
+        "second": 30,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 08:54:11",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 8,
+        "minute": 54,
+        "second": 11,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 09:22:07",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 9,
+        "minute": 22,
+        "second": 7,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 09:36:22",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 9,
+        "minute": 36,
+        "second": 22,
+        "value": 135.0
+      },
+      {
+        "time": "2026-05-28 09:44:17",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 9,
+        "minute": 44,
+        "second": 17,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 09:50:18",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 9,
+        "minute": 50,
+        "second": 18,
+        "value": 0.0
+      },
+      {
+        "time": "2026-05-28 09:56:21",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "hour": 9,
+        "minute": 56,
+        "second": 21,
+        "value": 0.0
+      }
+    ]
+  },
+  "dayColumn_eInvDay": {
+    "success": true,
+    "invDataMapSize": 10,
+    "data": [
+      {
+        "hour": 0,
+        "energy": 4
+      },
+      {
+        "hour": 1,
+        "energy": 3
+      },
+      {
+        "hour": 2,
+        "energy": 2
+      },
+      {
+        "hour": 3,
+        "energy": 4
+      },
+      {
+        "hour": 4,
+        "energy": 3
+      },
+      {
+        "hour": 5,
+        "energy": 4
+      },
+      {
+        "hour": 6,
+        "energy": 2
+      },
+      {
+        "hour": 7,
+        "energy": 1
+      },
+      {
+        "hour": 8,
+        "energy": 3
+      },
+      {
+        "hour": 9,
+        "energy": 6
+      },
+      {
+        "hour": 10,
+        "energy": 0
+      },
+      {
+        "hour": 11,
+        "energy": 0
+      },
+      {
+        "hour": 12,
+        "energy": 0
+      },
+      {
+        "hour": 13,
+        "energy": 0
+      },
+      {
+        "hour": 14,
+        "energy": 0
+      },
+      {
+        "hour": 15,
+        "energy": 0
+      },
+      {
+        "hour": 16,
+        "energy": 0
+      },
+      {
+        "hour": 17,
+        "energy": 0
+      },
+      {
+        "hour": 18,
+        "energy": 0
+      },
+      {
+        "hour": 19,
+        "energy": 0
+      },
+      {
+        "hour": 20,
+        "energy": 0
+      },
+      {
+        "hour": 21,
+        "energy": 0
+      },
+      {
+        "hour": 22,
+        "energy": 0
+      },
+      {
+        "hour": 23,
+        "energy": 0
+      }
+    ]
+  },
+  "monthColumn_eInvDay": {
+    "success": true,
+    "dayMax": 31,
+    "data": [
+      {
+        "day": 1,
+        "energy": 85
+      },
+      {
+        "day": 2,
+        "energy": 84
+      },
+      {
+        "day": 3,
+        "energy": 110
+      },
+      {
+        "day": 4,
+        "energy": 132
+      },
+      {
+        "day": 5,
+        "energy": 95
+      },
+      {
+        "day": 6,
+        "energy": 9
+      },
+      {
+        "day": 7,
+        "energy": 99
+      },
+      {
+        "day": 8,
+        "energy": 111
+      },
+      {
+        "day": 9,
+        "energy": 105
+      },
+      {
+        "day": 10,
+        "energy": 127
+      },
+      {
+        "day": 11,
+        "energy": 24
+      },
+      {
+        "day": 12,
+        "energy": 2
+      },
+      {
+        "day": 13,
+        "energy": 189
+      },
+      {
+        "day": 14,
+        "energy": 145
+      },
+      {
+        "day": 15,
+        "energy": 154
+      },
+      {
+        "day": 16,
+        "energy": 127
+      },
+      {
+        "day": 17,
+        "energy": 139
+      },
+      {
+        "day": 18,
+        "energy": 91
+      },
+      {
+        "day": 19,
+        "energy": 1
+      },
+      {
+        "day": 20,
+        "energy": 62
+      },
+      {
+        "day": 21,
+        "energy": 102
+      },
+      {
+        "day": 22,
+        "energy": 108
+      },
+      {
+        "day": 23,
+        "energy": 148
+      },
+      {
+        "day": 24,
+        "energy": 138
+      },
+      {
+        "day": 25,
+        "energy": 171
+      },
+      {
+        "day": 26,
+        "energy": 126
+      },
+      {
+        "day": 27,
+        "energy": 101
+      },
+      {
+        "day": 28,
+        "energy": 33
+      },
+      {
+        "day": 29,
+        "energy": 0
+      },
+      {
+        "day": 30,
+        "energy": 0
+      },
+      {
+        "day": 31,
+        "energy": 0
+      }
+    ]
+  },
+  "yearColumn_eInvDay": {
+    "success": true,
+    "year": 2026,
+    "data": [
+      {
+        "month": 1,
+        "energy": 47
+      },
+      {
+        "month": 2,
+        "energy": 1634
+      },
+      {
+        "month": 3,
+        "energy": 51
+      },
+      {
+        "month": 4,
+        "energy": 3105
+      },
+      {
+        "month": 5,
+        "energy": 2818
+      },
+      {
+        "month": 6,
+        "energy": 0
+      },
+      {
+        "month": 7,
+        "energy": 0
+      },
+      {
+        "month": 8,
+        "energy": 0
+      },
+      {
+        "month": 9,
+        "energy": 0
+      },
+      {
+        "month": 10,
+        "energy": 0
+      },
+      {
+        "month": 11,
+        "energy": 0
+      },
+      {
+        "month": 12,
+        "energy": 0
+      }
+    ]
+  },
+  "events": {
+    "success": true,
+    "total": 500,
+    "rows": [
+      {
+        "recordId": 22768997,
+        "plantName": "Andre Huis",
+        "serialNum": "2453530335",
+        "datalogSn": "BA24401521",
+        "eventTypeText": "Notice",
+        "eventType": "WARNING",
+        "eventText": "EPS Over load",
+        "event": "W028",
+        "startTime": "2026-05-24 11:59:23",
+        "renormalTime": "2026-05-24 12:01:23",
+        "faultDuration": "0.03",
+        "startSlashTime": "2026/05/24 11:59:23",
+        "renormalSlashTime": "2026/05/24 12:01:23",
+        "status": "CLOSE"
+      },
+      {
+        "recordId": 22716563,
+        "plantName": "Andre Huis",
+        "serialNum": "2453530335",
+        "datalogSn": "BA24401521",
+        "eventTypeText": "Notice",
+        "eventType": "WARNING",
+        "eventText": "EPS Over load",
+        "event": "W028",
+        "startTime": "2026-05-23 12:04:16",
+        "renormalTime": "2026-05-23 12:06:16",
+        "faultDuration": "0.03",
+        "startSlashTime": "2026/05/23 12:04:16",
+        "renormalSlashTime": "2026/05/23 12:06:16",
+        "status": "CLOSE"
+      },
+      {
+        "recordId": 22716303,
+        "plantName": "Andre Huis",
+        "serialNum": "2453530335",
+        "datalogSn": "BA24401521",
+        "eventTypeText": "Notice",
+        "eventType": "WARNING",
+        "eventText": "EPS Over load",
+        "event": "W028",
+        "startTime": "2026-05-23 11:58:20",
+        "renormalTime": "2026-05-23 12:00:19",
+        "faultDuration": "0.03",
+        "startSlashTime": "2026/05/23 11:58:20",
+        "renormalSlashTime": "2026/05/23 12:00:19",
+        "status": "CLOSE"
+      },
+      {
+        "recordId": 22483105,
+        "plantName": "Andre Huis",
+        "serialNum": "2453530335",
+        "datalogSn": "BA24401521",
+        "eventTypeText": "Notice",
+        "eventType": "WARNING",
+        "eventText": "Battery voltage low",
+        "event": "W026",
+        "startTime": "2026-05-19 12:41:31",
+        "renormalTime": "2026-05-19 19:59:35",
+        "faultDuration": "7.30",
+        "startSlashTime": "2026/05/19 12:41:31",
+        "renormalSlashTime": "2026/05/19 19:59:35",
+        "status": "CLOSE"
+      },
+      {
+        "recordId": 22170775,
+        "plantName": "Andre Huis",
+        "serialNum": "2453530335",
+        "datalogSn": "BA24401521",
+        "eventTypeText": "Notice",
+        "eventType": "WARNING",
+        "eventText": "EPS Over load",
+        "event": "W028",
+        "startTime": "2026-05-13 15:09:53",
+        "renormalTime": "2026-05-13 15:13:52",
+        "faultDuration": "0.07",
+        "startSlashTime": "2026/05/13 15:09:53",
+        "renormalSlashTime": "2026/05/13 15:13:52",
+        "status": "CLOSE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "ok": true,
+  "mode": "year",
+  "source": "luxpower",
+  "year": 2026,
+  "label": "2026",
+  "monthMax": 12,
+  "months": [
+    {
+      "month": 1,
+      "solarKwh": 704.3,
+      "batteryDischargeKwh": 264.8,
+      "importToUserKwh": 12.3,
+      "consumptionKwh": 569.7
+    },
+    {
+      "month": 2,
+      "solarKwh": 570.3,
+      "batteryDischargeKwh": 227.4,
+      "importToUserKwh": 67.2,
+      "consumptionKwh": 506.6
+    },
+    {
+      "month": 3,
+      "solarKwh": 586.1,
+      "batteryDischargeKwh": 243.8,
+      "importToUserKwh": 1.1,
+      "consumptionKwh": 462.4
+    },
+    {
+      "month": 4,
+      "solarKwh": 517.6,
+      "batteryDischargeKwh": 210.8,
+      "importToUserKwh": 58.7,
+      "consumptionKwh": 447.3
+    },
+    {
+      "month": 5,
+      "solarKwh": 372.2,
+      "batteryDischargeKwh": 154.0,
+      "importToUserKwh": 102.8,
+      "consumptionKwh": 385.5
+    },
+    {
+      "month": 6,
+      "solarKwh": 0.0,
+      "batteryDischargeKwh": 0.0,
+      "importToUserKwh": 0.0,
+      "consumptionKwh": 0.0
+    },
+    {
+      "month": 7,
+      "solarKwh": 0.0,
+      "batteryDischargeKwh": 0.0,
+      "importToUserKwh": 0.0,
+      "consumptionKwh": 0.0
+    },
+    {
+      "month": 8,
+      "solarKwh": 0.0,
+      "batteryDischargeKwh": 0.0,
+      "importToUserKwh": 0.0,
+      "consumptionKwh": 0.0
+    },
+    {
+      "month": 9,
+      "solarKwh": 0.0,
+      "batteryDischargeKwh": 0.0,
+      "importToUserKwh": 0.0,
+      "consumptionKwh": 0.0
+    },
+    {
+      "month": 10,
+      "solarKwh": 0.0,
+      "batteryDischargeKwh": 0.0,
+      "importToUserKwh": 0.0,
+      "consumptionKwh": 0.0
+    },
+    {
+      "month": 11,
+      "solarKwh": 0.0,
+      "batteryDischargeKwh": 0.0,
+      "importToUserKwh": 0.0,
+      "consumptionKwh": 0.0
+    },
+    {
+      "month": 12,
+      "solarKwh": 0.0,
+      "batteryDischargeKwh": 0.0,
+      "importToUserKwh": 0.0,
+      "consumptionKwh": 0.0
+    }
+  ]
+}

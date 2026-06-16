@@ -1,0 +1,1281 @@
+{
+  "date": "2023-10-14",
+  "series": {
+    "ppv": {
+      "unit": "",
+      "maxValueText": "",
+      "avgValueText": "",
+      "points": []
+    },
+    "ppv1": {
+      "unit": "W",
+      "maxValueText": "0",
+      "avgValueText": "0",
+      "points": [
+        {
+          "time": "2023-10-14 21:36:48",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 21,
+          "minute": 36,
+          "second": 48,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:15:12",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 15,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:35:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 35,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:53:05",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 53,
+          "second": 5,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:09:37",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 9,
+          "second": 37,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:22:22",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 22,
+          "second": 22,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:29:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 29,
+          "second": 42,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:35:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 35,
+          "second": 42,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:40:43",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 40,
+          "second": 43,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:47:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 47,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:52:45",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 52,
+          "second": 45,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:57:52",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 57,
+          "second": 52,
+          "value": 0.0
+        }
+      ]
+    },
+    "ppv2": {
+      "unit": "W",
+      "maxValueText": "0",
+      "avgValueText": "0",
+      "points": [
+        {
+          "time": "2023-10-14 21:36:48",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 21,
+          "minute": 36,
+          "second": 48,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:15:12",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 15,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:35:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 35,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:53:05",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 53,
+          "second": 5,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:09:37",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 9,
+          "second": 37,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:22:22",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 22,
+          "second": 22,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:29:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 29,
+          "second": 42,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:35:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 35,
+          "second": 42,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:40:43",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 40,
+          "second": 43,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:47:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 47,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:52:45",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 52,
+          "second": 45,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:57:52",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 57,
+          "second": 52,
+          "value": 0.0
+        }
+      ]
+    },
+    "vpv1": {
+      "unit": "V",
+      "maxValueText": "0",
+      "avgValueText": "0",
+      "points": [
+        {
+          "time": "2023-10-14 21:36:48",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 21,
+          "minute": 36,
+          "second": 48,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:15:12",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 15,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:35:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 35,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:53:05",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 53,
+          "second": 5,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:09:37",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 9,
+          "second": 37,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:22:22",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 22,
+          "second": 22,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:29:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 29,
+          "second": 42,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:35:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 35,
+          "second": 42,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:40:43",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 40,
+          "second": 43,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:47:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 47,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:52:45",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 52,
+          "second": 45,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:57:52",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 57,
+          "second": 52,
+          "value": 0.0
+        }
+      ]
+    },
+    "vpv2": {
+      "unit": "V",
+      "maxValueText": "0",
+      "avgValueText": "0",
+      "points": [
+        {
+          "time": "2023-10-14 21:36:48",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 21,
+          "minute": 36,
+          "second": 48,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:15:12",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 15,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:35:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 35,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:53:05",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 53,
+          "second": 5,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:09:37",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 9,
+          "second": 37,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:22:22",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 22,
+          "second": 22,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:29:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 29,
+          "second": 42,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:35:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 35,
+          "second": 42,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:40:43",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 40,
+          "second": 43,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:47:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 47,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:52:45",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 52,
+          "second": 45,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:57:52",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 57,
+          "second": 52,
+          "value": 0.0
+        }
+      ]
+    },
+    "vBat": {
+      "unit": "V",
+      "maxValueText": "52.6",
+      "avgValueText": "52.6",
+      "points": [
+        {
+          "time": "2023-10-14 21:36:48",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 21,
+          "minute": 36,
+          "second": 48,
+          "value": 52.6
+        },
+        {
+          "time": "2023-10-14 22:15:12",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 15,
+          "second": 12,
+          "value": 52.6
+        },
+        {
+          "time": "2023-10-14 22:35:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 35,
+          "second": 46,
+          "value": 52.6
+        },
+        {
+          "time": "2023-10-14 22:53:05",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 53,
+          "second": 5,
+          "value": 52.6
+        },
+        {
+          "time": "2023-10-14 23:09:37",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 9,
+          "second": 37,
+          "value": 52.6
+        },
+        {
+          "time": "2023-10-14 23:22:22",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 22,
+          "second": 22,
+          "value": 52.6
+        },
+        {
+          "time": "2023-10-14 23:29:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 29,
+          "second": 42,
+          "value": 52.6
+        },
+        {
+          "time": "2023-10-14 23:35:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 35,
+          "second": 42,
+          "value": 52.6
+        },
+        {
+          "time": "2023-10-14 23:40:43",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 40,
+          "second": 43,
+          "value": 52.6
+        },
+        {
+          "time": "2023-10-14 23:47:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 47,
+          "second": 46,
+          "value": 52.6
+        },
+        {
+          "time": "2023-10-14 23:52:45",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 52,
+          "second": 45,
+          "value": 52.6
+        },
+        {
+          "time": "2023-10-14 23:57:52",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 57,
+          "second": 52,
+          "value": 52.6
+        }
+      ]
+    },
+    "soc": {
+      "unit": "%",
+      "maxValueText": "99",
+      "avgValueText": "99",
+      "points": [
+        {
+          "time": "2023-10-14 21:36:48",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 21,
+          "minute": 36,
+          "second": 48,
+          "value": 99.0
+        },
+        {
+          "time": "2023-10-14 22:15:12",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 15,
+          "second": 12,
+          "value": 99.0
+        },
+        {
+          "time": "2023-10-14 22:35:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 35,
+          "second": 46,
+          "value": 99.0
+        },
+        {
+          "time": "2023-10-14 22:53:05",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 53,
+          "second": 5,
+          "value": 99.0
+        },
+        {
+          "time": "2023-10-14 23:09:37",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 9,
+          "second": 37,
+          "value": 99.0
+        },
+        {
+          "time": "2023-10-14 23:22:22",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 22,
+          "second": 22,
+          "value": 99.0
+        },
+        {
+          "time": "2023-10-14 23:29:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 29,
+          "second": 42,
+          "value": 99.0
+        },
+        {
+          "time": "2023-10-14 23:35:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 35,
+          "second": 42,
+          "value": 99.0
+        },
+        {
+          "time": "2023-10-14 23:40:43",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 40,
+          "second": 43,
+          "value": 99.0
+        },
+        {
+          "time": "2023-10-14 23:47:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 47,
+          "second": 46,
+          "value": 99.0
+        },
+        {
+          "time": "2023-10-14 23:52:45",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 52,
+          "second": 45,
+          "value": 99.0
+        },
+        {
+          "time": "2023-10-14 23:57:52",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 57,
+          "second": 52,
+          "value": 99.0
+        }
+      ]
+    },
+    "pToUser": {
+      "unit": "W",
+      "maxValueText": "597",
+      "avgValueText": "559.3",
+      "points": [
+        {
+          "time": "2023-10-14 21:36:48",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 21,
+          "minute": 36,
+          "second": 48,
+          "value": 581.0
+        },
+        {
+          "time": "2023-10-14 22:15:12",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 15,
+          "second": 12,
+          "value": 585.0
+        },
+        {
+          "time": "2023-10-14 22:35:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 35,
+          "second": 46,
+          "value": 581.0
+        },
+        {
+          "time": "2023-10-14 22:53:05",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 53,
+          "second": 5,
+          "value": 581.0
+        },
+        {
+          "time": "2023-10-14 23:09:37",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 9,
+          "second": 37,
+          "value": 577.0
+        },
+        {
+          "time": "2023-10-14 23:22:22",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 22,
+          "second": 22,
+          "value": 575.0
+        },
+        {
+          "time": "2023-10-14 23:29:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 29,
+          "second": 42,
+          "value": 597.0
+        },
+        {
+          "time": "2023-10-14 23:35:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 35,
+          "second": 42,
+          "value": 589.0
+        },
+        {
+          "time": "2023-10-14 23:40:43",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 40,
+          "second": 43,
+          "value": 526.0
+        },
+        {
+          "time": "2023-10-14 23:47:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 47,
+          "second": 46,
+          "value": 488.0
+        },
+        {
+          "time": "2023-10-14 23:52:45",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 52,
+          "second": 45,
+          "value": 580.0
+        },
+        {
+          "time": "2023-10-14 23:57:52",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 57,
+          "second": 52,
+          "value": 452.0
+        }
+      ]
+    },
+    "pToGrid": {
+      "unit": "W",
+      "maxValueText": "0",
+      "avgValueText": "0",
+      "points": [
+        {
+          "time": "2023-10-14 21:36:48",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 21,
+          "minute": 36,
+          "second": 48,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:15:12",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 15,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:35:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 35,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:53:05",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 53,
+          "second": 5,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:09:37",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 9,
+          "second": 37,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:22:22",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 22,
+          "second": 22,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:29:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 29,
+          "second": 42,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:35:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 35,
+          "second": 42,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:40:43",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 40,
+          "second": 43,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:47:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 47,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:52:45",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 52,
+          "second": 45,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:57:52",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 57,
+          "second": 52,
+          "value": 0.0
+        }
+      ]
+    },
+    "pCharge": {
+      "unit": "W",
+      "maxValueText": "0",
+      "avgValueText": "0",
+      "points": [
+        {
+          "time": "2023-10-14 21:36:48",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 21,
+          "minute": 36,
+          "second": 48,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:15:12",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 15,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:35:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 35,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:53:05",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 53,
+          "second": 5,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:09:37",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 9,
+          "second": 37,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:22:22",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 22,
+          "second": 22,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:29:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 29,
+          "second": 42,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:35:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 35,
+          "second": 42,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:40:43",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 40,
+          "second": 43,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:47:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 47,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:52:45",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 52,
+          "second": 45,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 23:57:52",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 57,
+          "second": 52,
+          "value": 0.0
+        }
+      ]
+    },
+    "pDischarge": {
+      "unit": "",
+      "maxValueText": "17",
+      "avgValueText": "9.1",
+      "points": [
+        {
+          "time": "2023-10-14 21:36:48",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 21,
+          "minute": 36,
+          "second": 48,
+          "value": 10.0
+        },
+        {
+          "time": "2023-10-14 22:15:12",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 15,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2023-10-14 22:35:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 35,
+          "second": 46,
+          "value": 10.0
+        },
+        {
+          "time": "2023-10-14 22:53:05",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 22,
+          "minute": 53,
+          "second": 5,
+          "value": 7.0
+        },
+        {
+          "time": "2023-10-14 23:09:37",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 9,
+          "second": 37,
+          "value": 12.0
+        },
+        {
+          "time": "2023-10-14 23:22:22",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 22,
+          "second": 22,
+          "value": 10.0
+        },
+        {
+          "time": "2023-10-14 23:29:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 29,
+          "second": 42,
+          "value": 8.0
+        },
+        {
+          "time": "2023-10-14 23:35:42",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 35,
+          "second": 42,
+          "value": 8.0
+        },
+        {
+          "time": "2023-10-14 23:40:43",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 40,
+          "second": 43,
+          "value": 5.0
+        },
+        {
+          "time": "2023-10-14 23:47:46",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 47,
+          "second": 46,
+          "value": 17.0
+        },
+        {
+          "time": "2023-10-14 23:52:45",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 52,
+          "second": 45,
+          "value": 11.0
+        },
+        {
+          "time": "2023-10-14 23:57:52",
+          "year": 2023,
+          "month": 9,
+          "day": 14,
+          "hour": 23,
+          "minute": 57,
+          "second": 52,
+          "value": 11.0
+        }
+      ]
+    }
+  }
+}

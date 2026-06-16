@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <symbol id="icon-sun" viewBox="0 0 48 48">
+    <circle cx="24" cy="24" r="9" fill="#f4b73f"/>
+    <g stroke="#f4b73f" stroke-width="2.5" stroke-linecap="round">
+      <line x1="24" y1="6" x2="24" y2="11"/><line x1="24" y1="37" x2="24" y2="42"/>
+      <line x1="6" y1="24" x2="11" y2="24"/><line x1="37" y1="24" x2="42" y2="24"/>
+      <line x1="11.5" y1="11.5" x2="15.2" y2="15.2"/><line x1="32.8" y1="32.8" x2="36.5" y2="36.5"/>
+      <line x1="11.5" y1="36.5" x2="15.2" y2="32.8"/><line x1="32.8" y1="15.2" x2="36.5" y2="11.5"/>
+    </g>
+  </symbol>
+  <symbol id="icon-pv" viewBox="0 0 64 48">
+    <rect x="4" y="14" width="56" height="30" rx="2" fill="#8fc31f" stroke="#7cb342" stroke-width="1.5"/>
+    <path d="M4 14 L32 2 L60 14" fill="none" stroke="#689f38" stroke-width="2"/>
+    <line x1="20" y1="14" x2="20" y2="44" stroke="#689f38" stroke-width="1.2"/>
+    <line x1="36" y1="14" x2="36" y2="44" stroke="#689f38" stroke-width="1.2"/>
+    <line x1="4" y1="26" x2="60" y2="26" stroke="#689f38" stroke-width="1.2"/>
+    <line x1="4" y1="35" x2="60" y2="35" stroke="#689f38" stroke-width="1.2"/>
+  </symbol>
+  <symbol id="icon-tower" viewBox="0 0 48 64">
+    <path d="M24 4 L14 24 H20 L16 58 H32 L28 24 H34 Z" fill="none" stroke="#8fc31f" stroke-width="3" stroke-linejoin="round"/>
+    <line x1="17" y1="30" x2="31" y2="30" stroke="#8fc31f" stroke-width="2.5"/>
+    <line x1="15" y1="38" x2="33" y2="38" stroke="#8fc31f" stroke-width="2.5"/>
+    <line x1="16" y1="46" x2="32" y2="46" stroke="#8fc31f" stroke-width="2.5"/>
+  </symbol>
+  <symbol id="icon-house" viewBox="0 0 56 56">
+    <path d="M8 26 L28 10 L48 26 V48 H8 Z" fill="#8fc31f"/>
+    <rect x="22" y="34" width="12" height="14" fill="#fff" opacity="0.85"/>
+    <path d="M28 22 L34 36 H22 Z" fill="#fff"/>
+  </symbol>
+  <symbol id="icon-eps" viewBox="0 0 72 40">
+    <rect x="4" y="10" width="26" height="18" rx="3" fill="none" stroke="#8fc31f" stroke-width="2.5"/>
+    <circle cx="17" cy="19" r="5" fill="none" stroke="#8fc31f" stroke-width="2"/>
+    <rect x="42" y="8" width="16" height="22" rx="2" fill="none" stroke="#8fc31f" stroke-width="2.5"/>
+    <rect x="46" y="12" width="4" height="8" fill="#8fc31f"/><rect x="52" y="12" width="4" height="8" fill="#8fc31f"/>
+  </symbol>
+</svg>

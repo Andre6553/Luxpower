@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Andre Huis — Energy Monitor</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Exo:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+</head>
+<body>
+  <svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+    <symbol id="icon-sun" viewBox="0 0 48 48"><circle cx="24" cy="24" r="9" fill="#f4b73f"/><g stroke="#f4b73f" stroke-width="2.5" stroke-linecap="round"><line x1="24" y1="6" x2="24" y2="11"/><line x1="24" y1="37" x2="24" y2="42"/><line x1="6" y1="24" x2="11" y2="24"/><line x1="37" y1="24" x2="42" y2="24"/><line x1="11.5" y1="11.5" x2="15.2" y2="15.2"/><line x1="32.8" y1="32.8" x2="36.5" y2="36.5"/><line x1="11.5" y1="36.5" x2="15.2" y2="32.8"/><line x1="32.8" y1="15.2" x2="36.5" y2="11.5"/></g></symbol>
+    <symbol id="icon-pv" viewBox="0 0 64 48"><rect x="4" y="14" width="56" height="30" rx="2" fill="#8fc31f" stroke="#7cb342" stroke-width="1.5"/><path d="M4 14 L32 2 L60 14" fill="none" stroke="#689f38" stroke-width="2"/><line x1="20" y1="14" x2="20" y2="44" stroke="#689f38" stroke-width="1.2"/><line x1="36" y1="14" x2="36" y2="44" stroke="#689f38" stroke-width="1.2"/><line x1="4" y1="26" x2="60" y2="26" stroke="#689f38" stroke-width="1.2"/><line x1="4" y1="35" x2="60" y2="35" stroke="#689f38" stroke-width="1.2"/></symbol>
+    <symbol id="icon-tower" viewBox="0 0 48 64"><path d="M24 4 L14 24 H20 L16 58 H32 L28 24 H34 Z" fill="none" stroke="#8fc31f" stroke-width="3" stroke-linejoin="round"/><line x1="17" y1="30" x2="31" y2="30" stroke="#8fc31f" stroke-width="2.5"/><line x1="15" y1="38" x2="33" y2="38" stroke="#8fc31f" stroke-width="2.5"/><line x1="16" y1="46" x2="32" y2="46" stroke="#8fc31f" stroke-width="2.5"/></symbol>
+    <symbol id="icon-house" viewBox="0 0 56 56"><path d="M8 26 L28 10 L48 26 V48 H8 Z" fill="#8fc31f"/><path d="M26 30 L32 42 H24 Z" fill="#fff"/><path d="M28 24 L34 38 H22 Z" fill="#fff" opacity="0.9"/></symbol>
+    <symbol id="icon-eps" viewBox="0 0 72 48"><circle cx="36" cy="24" r="20" fill="none" stroke="#8fc31f" stroke-width="2.5"/><text x="36" y="29" text-anchor="middle" font-size="13" font-weight="700" fill="#8fc31f" font-family="Segoe UI,Arial,sans-serif">EPS</text><rect x="52" y="14" width="14" height="20" rx="2" fill="none" stroke="#8fc31f" stroke-width="2"/><rect x="55" y="18" width="3" height="6" fill="#8fc31f"/><rect x="60" y="18" width="3" height="6" fill="#8fc31f"/></symbol>
+  </svg>
+
+  <div class="sa-shell">
+    <header class="sa-site-header">
+      <div class="sa-brand">
+        <span class="sa-logo-mark" aria-hidden="true"></span>
+        <span class="sa-brand-text">Andre Huis</span>
+      </div>
+      <nav class="sa-main-nav" aria-label="main">
+        <button type="button" class="sa-nav-item active" data-tab="live">
+          <span class="sa-nav-icon" aria-hidden="true">▦</span>
+          Dashboard
+        </button>
+        <button type="button" class="sa-nav-item" data-tab="charts">
+          <span class="sa-nav-icon" aria-hidden="true">⌁</span>
+          Charts
+        </button>
+        <button type="button" class="sa-nav-item" data-tab="totals">
+          <span class="sa-nav-icon" aria-hidden="true">∑</span>
+          Totals
+        </button>
+        <button type="button" class="sa-nav-item" data-tab="system">
+          <span class="sa-nav-icon" aria-hidden="true">☀</span>
+          My system
+        </button>
+        <button type="button" class="sa-nav-item" data-tab="settings">
+          <span class="sa-nav-icon" aria-hidden="true">⚙</span>
+          Settings
+        </button>
+      </nav>
+      <span class="sa-layout-note">Chart layout inspired by SolarAssistant</span>
+    </header>
+
+  <div class="lux-page">
+
+    <div id="panelLive" class="lux-panel">
+    <header class="lux-header">
+      <div class="lux-header-left">
+        <h1>System Information</h1>
+        <span class="lux-time" id="timestamp">--</span>
+        <div class="lux-sync-actions">
+          <button type="button" class="lux-btn lux-btn-green lux-btn-sm" id="syncMonthBtn" title="Re-download the current month from LuxPower cloud">
+            Sync this month
+          </button>
+          <button type="button" class="lux-btn lux-btn-green lux-btn-sm lux-btn-outline" id="syncAllBtn" title="Download all history — skips months already marked complete">
+            Sync all data
+          </button>
+        </div>
+      </div>
+      <div class="lux-header-right">
+        <span class="lux-notice" id="statusBadge"><i class="dot"></i> Notice</span>
+        <button type="button" class="lux-circle-btn" title="Help">?</button>
+        <button type="button" class="lux-refresh-btn" id="refreshBtn" title="Refresh"></button>
+      </div>
+    </header>
+
+    <div id="syncProgressPanel" class="lux-sync-panel hidden" aria-live="polite">
+      <div class="lux-sync-head">
+        <strong id="syncProgressTitle">Syncing LuxPower cloud data</strong>
+        <span id="syncProgressPercent">0%</span>
+      </div>
+      <div class="lux-sync-bar-track" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" id="syncProgressTrack">
+        <div id="syncProgressBar" class="lux-sync-bar-fill"></div>
+      </div>
+      <p id="syncProgressMessage" class="lux-sync-message">Waiting to start…</p>
+    </div>
+
+    <section class="lux-diagram">
+      <svg class="lux-wiring" viewBox="0 0 1000 480" preserveAspectRatio="none" aria-hidden="true">
+        <!-- Grey tracks: PV↓ hub ←bat | hub→grid | hub↓load (off-grid) | hub→load (grid on, horizontal bus) -->
+        <path class="track" d="M500 92 V208" />
+        <path class="track" d="M228 252 H562" />
+        <path class="track" d="M562 252 H930" />
+        <path class="track" d="M562 252 V380 H880 V398" />
+        <path class="track" d="M562 252 H880 V398" />
+        <!-- Flow paths -->
+        <path id="pipePv" class="flow-path" d="M500 92 V208" />
+        <path id="pipeBat" class="flow-path" d="M228 252 H562" />
+        <path id="pipeGrid" class="flow-path" d="M562 252 H930" />
+        <path id="pipeInvToLoad" class="flow-path" d="M562 252 V380 H880 V398" />
+        <path id="pipeBusToLoad" class="flow-path" d="M562 252 H880 V398" />
+      </svg>
+
+      <div class="lux-nodes">
+        <div class="node node-pv">
+          <div class="pv-icons">
+            <svg class="lux-icon"><use href="#icon-sun"/></svg>
+            <svg class="lux-icon lux-icon-pv"><use href="#icon-pv"/></svg>
+          </div>
+          <div class="pv-metrics">
+            <div class="pv-row"><span class="pv-label">PV1</span><b id="pv1Power">-- W</b><span id="pv1Volt">-- V</span></div>
+            <div class="pv-row"><span class="pv-label">PV2</span><b id="pv2Power">-- W</b><span id="pv2Volt">-- V</span></div>
+          </div>
+        </div>
+
+        <div class="node node-battery">
+          <div class="bat-text">
+            <div class="val-lg"><b id="batPower">-- W</b></div>
+            <div class="val-md"><b id="batSoc">--%</b> <span id="batVolt">-- Vdc</span></div>
+            <div class="bms">
+              <div>BMS Limit Charge: <span id="bmsChg">--</span> A</div>
+              <div>BMS Limit Discharge: <span id="bmsDis">--</span> A</div>
+              <div>BMS Charge: <span id="bmsChargeOk">--</span></div>
+              <div>BMS Discharge: <span id="bmsDisOk">--</span></div>
+              <div>BMS Force Charge: <span id="bmsForce">OFF</span></div>
+            </div>
+          </div>
+          <div class="bat-icon">
+            <div class="bat-segments" id="batterySegments">
+              <span></span><span></span><span></span><span></span><span></span>
+            </div>
+          </div>
+        </div>
+
+        <div class="node node-inverter">
+          <div class="inv-glow" id="inverterGlow"></div>
+          <div class="inv-body">
+            <div class="inv-screen"></div>
+          </div>
+        </div>
+
+        <div class="node node-grid">
+          <svg class="lux-icon lux-icon-tower"><use href="#icon-tower"/></svg>
+          <div class="grid-text">
+            <div class="val-lg"><b id="gridPower">-- W</b></div>
+            <div class="val-md"><span id="gridVolt">-- Vac</span> <span id="gridFreq">-- Hz</span></div>
+            <div class="val-sm">GEN Dry Contact: <span id="genContact">OFF</span></div>
+          </div>
+        </div>
+
+        <div class="node node-load">
+          <div class="load-text">
+            <div class="val-lg"><b id="loadPower">-- W</b></div>
+            <div class="val-sm">Consumption Power</div>
+          </div>
+          <svg class="lux-icon lux-icon-house"><use href="#icon-house"/></svg>
+        </div>
+
+        <div class="node node-eps">
+          <svg class="lux-icon lux-icon-eps"><use href="#icon-eps"/></svg>
+          <div class="eps-text">
+            <div class="val-sm" id="epsStatus">StandBy</div>
+            <div class="val-sm">Backup Power(EPS)</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="lux-forecast-wrap" id="luxForecastSection" hidden>
+      <div class="lux-forecast-grid">
+        <article class="lux-weather-card" id="luxWeatherCard" hidden>
+          <div class="lux-weather-main">
+            <div class="lux-weather-icon" aria-hidden="true">⛅</div>
+            <div>
+              <p class="lux-weather-conditions" id="forecastConditions">—</p>
+              <p class="lux-weather-temps" id="forecastTemps">—</p>
+              <p class="lux-weather-location" id="forecastLocation">—</p>
+            </div>
+          </div>
+          <div class="lux-yield-cards">
+            <div class="lux-yield-card">
+              <span class="lux-yield-label">Today Yield</span>
+              <strong id="forecastTodayYield">—</strong>
+              <span class="lux-yield-date" id="forecastTodayDate">—</span>
+            </div>
+            <div class="lux-yield-card">
+              <span class="lux-yield-label">Tomorrow Yield</span>
+              <strong id="forecastTomorrowYield">—</strong>
+              <span class="lux-yield-date" id="forecastTomorrowDate">—</span>
+            </div>
+          </div>
+        </article>
+        <article class="lux-forecast-chart-card">
+          <h2 class="lux-forecast-title">Solar Generation Forecast</h2>
+          <canvas id="solarForecastChart"></canvas>
+        </article>
+      </div>
+      <p class="lux-forecast-error" id="forecastError" hidden></p>
+      <p class="lux-forecast-note">LuxPower AI forecast · Mossel Bay weather · hourly predicted solar energy</p>
+    </section>
+
+    <footer class="lux-footer">
+      <div class="lux-actions">
+        <button type="button" class="lux-btn lux-btn-green">GEN Quick Start</button>
+        <button type="button" class="lux-btn lux-btn-green">Start Quick Charge ▾</button>
+      </div>
+      <span class="lux-source" id="sourceNote">Dongle Modbus · 192.168.10.67 · refresh 6s</span>
+      <span class="lux-error" id="errorNote"></span>
+    </footer>
+    </div>
+
+    <div id="panelCharts" class="lux-panel hidden">
+      <div class="sa-charts-toolbar">
+        <div class="sa-toolbar-left">
+          <h2 class="sa-charts-title">Charts</h2>
+          <p class="sa-charts-sub" id="chartsStation">Andre Huis · chart layout reference: SolarAssistant</p>
+        </div>
+        <div class="sa-toolbar-right">
+          <label class="sa-range-label">
+            Data source
+            <select id="chartsSourceSelect">
+              <option value="dongle" selected>Dongle live (today)</option>
+              <option value="luxpower">LuxPower cloud (history day)</option>
+            </select>
+          </label>
+          <label class="sa-range-label" id="dayPickerWrap">
+            Day
+            <select id="historyDaySelect"></select>
+          </label>
+        </div>
+      </div>
+      <p class="sa-data-badge" id="chartsDataBadge">Dongle Modbus · building chart buffer</p>
+      <p class="history-error" id="historyError" hidden></p>
+
+      <section class="lux-energy-overview" id="energyOverviewWrap">
+        <div class="lux-energy-head">
+          <div class="lux-energy-head-left">
+            <h3 class="lux-energy-title" id="energyOverviewTitle">Energy Overview</h3>
+            <div class="lux-energy-legend">
+              <span><i style="background:#70ad47"></i>Solar Production</span>
+              <span><i style="background:#4472c4"></i>Battery Discharged</span>
+              <span><i style="background:#84592b"></i>Import to User</span>
+              <span><i style="background:#ed7d31"></i>Consumption</span>
+            </div>
+          </div>
+          <div class="lux-energy-head-right">
+            <div class="lux-energy-mode-group">
+              <button type="button" class="lux-energy-mode active" data-mode="month">Month</button>
+              <button type="button" class="lux-energy-mode" data-mode="year">Year</button>
+              <button type="button" class="lux-energy-mode" data-mode="total">Total</button>
+            </div>
+            <div class="lux-energy-month-nav" id="energyOverviewMonthNav">
+              <button type="button" class="lux-energy-nav-btn" id="energyOverviewPrev" aria-label="Previous month">‹</button>
+              <span class="lux-energy-period" id="energyOverviewPeriod">2026-05</span>
+              <button type="button" class="lux-energy-nav-btn" id="energyOverviewNext" aria-label="Next month">›</button>
+            </div>
+          </div>
+        </div>
+        <div class="lux-energy-chart-shell">
+          <canvas id="energyOverviewCanvas"></canvas>
+        </div>
+        <p class="lux-energy-error" id="energyOverviewError" hidden></p>
+        <p class="lux-energy-note" id="energyOverviewNote"></p>
+      </section>
+
+      <div class="sa-chart-stack" id="saChartStack"></div>
+      <p class="sa-charts-footnote" id="chartsFootnote">All chart panels shown like SolarAssistant · data from dongle Modbus (LuxPower cloud optional for past days)</p>
+    </div>
+
+    <div id="panelTotals" class="lux-panel hidden">
+      <div class="sa-totals-page" id="totalsWrap">
+        <div class="page-header">
+          <div class="toolbar">
+            <a href="https://solar-assistant.io/help/historic-data/totals" target="_blank" rel="noopener" class="icon-button" title="Help">?</a>
+          </div>
+        </div>
+
+        <section class="card totals-card" aria-labelledby="dailyTotalsCaption">
+          <div class="card-header">
+            <div class="totals-header-main">
+              <h3 id="dailyTotalsCaption">Last 30 days</h3>
+              <p class="totals-range-label" id="dailyTotalsRange">—</p>
+            </div>
+            <div class="toolbar totals-toolbar">
+              <label class="totals-picker-label">
+                End date
+                <input type="date" id="dailyTotalsPicker" />
+              </label>
+              <button type="button" class="icon-button" id="dailyTotalsPrev" aria-label="Previous 30 days">‹</button>
+              <button type="button" class="icon-button" id="dailyTotalsNext" aria-label="Next 30 days">›</button>
+            </div>
+          </div>
+          <div class="chart-table">
+            <div class="card-section">
+              <div class="chart-shell"><canvas id="dailyTotalsChart"></canvas></div>
+            </div>
+            <div class="card-section totals-table-wrap">
+              <table class="table padded center border totals-table" aria-labelledby="dailyTotalsCaption">
+                <thead>
+                  <tr>
+                    <th><span class="show-sm">kWh</span></th>
+                    <th class="number">Load</th>
+                    <th class="number">Solar PV</th>
+                    <th class="number">Battery charged</th>
+                    <th class="number">Battery discharged</th>
+                    <th class="number">Grid used</th>
+                    <th class="number">Grid exported</th>
+                  </tr>
+                </thead>
+                <tbody id="dailyTotalsTable"></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        <section class="card totals-card" aria-labelledby="monthlyTotalsCaption">
+          <div class="card-header">
+            <div class="totals-header-main">
+              <h3 id="monthlyTotalsCaption">Last 12 months</h3>
+              <p class="totals-range-label" id="monthlyTotalsRange">—</p>
+            </div>
+            <div class="toolbar totals-toolbar">
+              <label class="totals-picker-label">
+                End month
+                <select id="monthlyTotalsPicker"></select>
+              </label>
+              <button type="button" class="icon-button" id="monthlyTotalsPrev" aria-label="Previous 12 months">‹</button>
+              <button type="button" class="icon-button" id="monthlyTotalsNext" aria-label="Next 12 months">›</button>
+            </div>
+          </div>
+          <div class="chart-table">
+            <div class="card-section">
+              <div class="chart-shell"><canvas id="monthlyTotalsChart"></canvas></div>
+            </div>
+            <div class="card-section totals-table-wrap">
+              <table class="table padded center border totals-table" aria-labelledby="monthlyTotalsCaption">
+                <thead>
+                  <tr>
+                    <th><span class="show-sm">kWh</span></th>
+                    <th class="number">Load</th>
+                    <th class="number">Solar PV</th>
+                    <th class="number">Battery charged</th>
+                    <th class="number">Battery discharged</th>
+                    <th class="number">Grid used</th>
+                    <th class="number">Grid exported</th>
+                  </tr>
+                </thead>
+                <tbody id="monthlyTotalsTable"></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        <section class="card totals-card" aria-labelledby="monthCompareCaption">
+          <div class="card-header">
+            <div class="totals-header-main">
+              <h3 id="monthCompareCaption">Same month across years</h3>
+              <p class="totals-range-label" id="monthCompareRange">—</p>
+            </div>
+            <div class="toolbar totals-toolbar">
+              <label class="totals-picker-label">
+                Compare month
+                <input type="month" id="monthComparePicker" />
+              </label>
+            </div>
+          </div>
+          <div class="chart-table">
+            <div class="card-section">
+              <div class="chart-shell"><canvas id="monthCompareChart"></canvas></div>
+            </div>
+            <div class="card-section totals-table-wrap">
+              <table class="table padded center border totals-table" aria-labelledby="monthCompareCaption">
+                <thead>
+                  <tr>
+                    <th><span class="show-sm">kWh</span></th>
+                    <th class="number">Load</th>
+                    <th class="number">Solar PV</th>
+                    <th class="number">Battery charged</th>
+                    <th class="number">Battery discharged</th>
+                    <th class="number">Grid used</th>
+                    <th class="number">Grid exported</th>
+                  </tr>
+                </thead>
+                <tbody id="monthCompareTable"></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        <section class="card totals-note-card">
+          <div class="card-section font-small" role="note">
+            <p>The following affects the numbers you see above:</p>
+            <ul>
+              <li>The power used by the inverter(s) themself are not included in the total load, but is supplied from either grid or solar PV.</li>
+              <li>A battery doesn't discharge the same amount of kWh it took to charge it due to battery efficiency.</li>
+              <li>Depending on your inverter model, measurements might not be perfectly accurate. Some are far from it.</li>
+            </ul>
+          </div>
+        </section>
+
+        <p class="history-error" id="totalsError" hidden></p>
+        <p class="sa-charts-footnote" id="totalsSourceNote"></p>
+      </div>
+    </div>
+
+    <div id="panelSystem" class="lux-panel hidden">
+      <header class="sys-header">
+        <div>
+          <h1>My system</h1>
+          <p class="sys-subtitle">Your inverter and solar panel details — saved on this PC for reference and future features.</p>
+        </div>
+        <div class="sys-header-actions">
+          <button type="button" class="lux-btn lux-btn-green" id="sysSaveBtn">Save</button>
+        </div>
+      </header>
+      <p class="sys-status" id="sysStatus" aria-live="polite"></p>
+      <p class="history-error" id="sysError" hidden></p>
+      <p class="sys-updated" id="sysUpdatedAt"></p>
+
+      <form class="sys-form" id="sysForm" onsubmit="return false">
+        <section class="sys-card">
+          <h2>Inverter</h2>
+          <div class="sys-grid">
+            <label class="sys-field sys-field-wide">
+              <span>Inverter name / model</span>
+              <input type="text" id="sysInvName" autocomplete="off" placeholder="e.g. LuxPower LXP 5K" />
+            </label>
+            <label class="sys-field">
+              <span>AC power rating (kW)</span>
+              <input type="number" id="sysInvPowerKw" min="0" step="0.1" placeholder="5" />
+            </label>
+            <label class="sys-field">
+              <span>Max VOC (V)</span>
+              <input type="number" id="sysInvMaxVoc" min="0" step="1" placeholder="500" />
+            </label>
+            <label class="sys-field">
+              <span>MPPT voltage min (V)</span>
+              <input type="number" id="sysInvMpptMin" min="0" step="1" placeholder="120" />
+            </label>
+            <label class="sys-field">
+              <span>MPPT voltage max (V)</span>
+              <input type="number" id="sysInvMpptMax" min="0" step="1" placeholder="450" />
+            </label>
+            <label class="sys-field">
+              <span>Number of MPPT strings</span>
+              <input type="number" id="sysInvStrings" min="0" step="1" placeholder="2" />
+            </label>
+            <label class="sys-field">
+              <span>Max charge current (A)</span>
+              <input type="number" id="sysInvMaxChargeA" min="0" step="1" placeholder="100" />
+            </label>
+          </div>
+        </section>
+
+        <section class="sys-card">
+          <h2>Solar panels</h2>
+          <fieldset class="sys-yesno">
+            <legend>Solar panels installed?</legend>
+            <label><input type="radio" name="sysSolarInstalled" id="sysSolarYes" value="yes" checked /> Yes</label>
+            <label><input type="radio" name="sysSolarInstalled" id="sysSolarNo" value="no" /> No</label>
+          </fieldset>
+
+          <div id="sysSolarFields" class="sys-solar-fields">
+            <label class="sys-field">
+              <span>MPPT strings in use (1–4)</span>
+              <input type="number" id="sysStringCount" min="1" max="4" step="1" placeholder="2" />
+            </label>
+
+            <div id="sysStringLabelsBlock" class="sys-panel-block">
+              <h3 class="sys-block-title">Each string (inverter name &amp; panel direction)</h3>
+              <p class="sys-hint">Name each MPPT like on the inverter (PV1, PV2). Set which way the panels face — used in Analyze System.</p>
+              <div id="sysStringLabels" class="sys-string-setup"></div>
+            </div>
+
+            <div id="sysTiltHistoryBlock" class="sys-panel-block">
+              <h3 class="sys-block-title">Tilt change history</h3>
+              <p class="sys-hint">If you change a tilt angle, set <strong>Change effective from</strong> to the day you adjusted it, then Save. Analyze System compares production before vs after.</p>
+              <div id="sysTiltHistory"></div>
+            </div>
+
+            <fieldset class="sys-brand-mode">
+              <legend>Panel brand on your strings</legend>
+              <label>
+                <input type="radio" name="sysBrandMode" id="sysBrandSame" value="same" checked />
+                Same brand on all strings
+              </label>
+              <label>
+                <input type="radio" name="sysBrandMode" id="sysBrandDifferent" value="different" />
+                Different brand per string (up to 4)
+              </label>
+            </fieldset>
+
+            <div id="sysSameBrandBlock" class="sys-panel-block">
+              <h3 class="sys-block-title">Panel details (all strings)</h3>
+              <div class="sys-grid">
+                <label class="sys-field sys-field-wide">
+                  <span>Panel brand / model</span>
+                  <input type="text" id="sysSharedBrand" autocomplete="off" placeholder="e.g. JA Solar JAM60" />
+                </label>
+                <label class="sys-field">
+                  <span>Panel max power (W)</span>
+                  <input type="number" id="sysSharedMaxW" min="0" step="1" placeholder="460" />
+                </label>
+                <label class="sys-field">
+                  <span>Max power current Imp (A)</span>
+                  <input type="number" id="sysSharedImp" min="0" step="0.01" placeholder="10.9" />
+                </label>
+                <label class="sys-field">
+                  <span>Max open-circuit voltage Voc (V)</span>
+                  <input type="number" id="sysSharedVoc" min="0" step="0.1" placeholder="50.1" />
+                </label>
+                <label class="sys-field">
+                  <span>Panels per string (each MPPT)</span>
+                  <input type="number" id="sysSharedPanelsPerString" min="0" step="1" placeholder="6" />
+                </label>
+              </div>
+            </div>
+
+            <div id="sysDiffBrandBlock" class="sys-panel-block hidden">
+              <p class="sys-hint">Enter panel specs for each MPPT string (string 1 = MPPT 1, etc.).</p>
+              <div id="sysStringCards" class="sys-string-cards"></div>
+            </div>
+
+            <label class="sys-field sys-field-wide sys-notes-field">
+              <span>Notes (optional)</span>
+              <textarea id="sysNotes" rows="3" placeholder="Roof orientation, shading, which string faces north/west, etc."></textarea>
+            </label>
+          </div>
+        </section>
+      </form>
+
+      <section class="sys-card sys-analyze-card" id="sysAnalyzeSection">
+        <h2>Analyze System</h2>
+        <p class="sys-hint sys-analyze-intro">
+          Compare your PV strings against battery SOC using saved LuxPower history and your system profile above.
+        </p>
+        <p class="sys-analyze-note" id="sysAnalyzeHistoryNote">Checking history…</p>
+
+        <div class="sys-analyze-controls">
+          <label class="sys-field">
+            <span>Begin date</span>
+            <input type="date" id="sysAnalyzeStart" />
+          </label>
+          <label class="sys-field">
+            <span>End date</span>
+            <input type="date" id="sysAnalyzeEnd" />
+          </label>
+          <button type="button" class="lux-btn lux-btn-green" id="sysAnalyzeBtn">Start analyze</button>
+        </div>
+        <p class="sys-status" id="sysAnalyzeStatus" aria-live="polite"></p>
+
+        <div id="sysAnalyzeResults" class="sys-analyze-results hidden">
+          <div class="sys-analyze-insights" id="sysAnalyzeInsights" hidden></div>
+          <div class="sys-analyze-tilt" id="sysAnalyzeTilt" hidden></div>
+          <div class="sys-analyze-yoy" id="sysAnalyzeYoy" hidden></div>
+          <div class="sys-analyze-stats" id="sysAnalyzeStats"></div>
+          <div class="sys-analyze-charts">
+            <article class="sys-analyze-chart sys-analyze-chart-wide">
+              <h3 class="sys-block-title">Typical day — power &amp; SOC by hour</h3>
+              <p class="sys-hint">Average across all days in range. See when each string produces and when SOC is highest.</p>
+              <div class="sys-analyze-canvas-wrap"><canvas id="sysChartHourly"></canvas></div>
+            </article>
+            <article class="sys-analyze-chart">
+              <h3 class="sys-block-title">Daily production (kWh)</h3>
+              <div class="sys-analyze-canvas-wrap"><canvas id="sysChartDaily"></canvas></div>
+            </article>
+            <article class="sys-analyze-chart">
+              <h3 class="sys-block-title">Total energy share</h3>
+              <div class="sys-analyze-canvas-wrap sys-analyze-canvas-square"><canvas id="sysChartShare"></canvas></div>
+            </article>
+            <article class="sys-analyze-chart sys-analyze-chart-wide" id="sysChartYoyArticle" hidden>
+              <h3 class="sys-block-title">Same period in other years</h3>
+              <p class="sys-hint" id="sysChartYoyHint"></p>
+              <div class="sys-analyze-canvas-wrap"><canvas id="sysChartYoy"></canvas></div>
+            </article>
+            <article class="sys-analyze-chart sys-analyze-chart-wide">
+              <h3 class="sys-block-title">When does SOC peak?</h3>
+              <p class="sys-hint">How many days reached their highest SOC in each hour.</p>
+              <div class="sys-analyze-canvas-wrap"><canvas id="sysChartSocPeak"></canvas></div>
+            </article>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <div id="panelSettings" class="lux-panel hidden">
+      <header class="rs-header">
+        <div class="rs-header-left">
+          <h1>Remote Set</h1>
+          <p class="rs-subtitle">LuxPower cloud — same maintenance API as <a href="https://af.luxpowertek.com/WManage/web/maintain/remoteSetOffGrid" target="_blank" rel="noopener">official portal</a></p>
+        </div>
+        <div class="rs-header-actions">
+          <span class="rs-station" id="settingsStationLabel">—</span>
+          <span class="rs-serial" id="settingsSerialLabel">SN —</span>
+          <button type="button" class="lux-btn lux-btn-green" id="settingsReadBtn">Read</button>
+        </div>
+      </header>
+
+      <p class="rs-warning" role="note">
+        Writes change your real inverter. Each field has its own <strong>Set</strong> button — confirm before applying.
+      </p>
+      <p class="rs-status" id="settingsStatus" aria-live="polite"></p>
+      <p class="history-error" id="settingsError" hidden></p>
+
+      <div id="settingsSections" class="rs-sections"></div>
+    </div>
+  </div>
+  </div>
+  <script>window.HISTORY_YEAR = /*__HISTORY_YEAR__*/2026;</script>
+  <script>window.__HISTORY_BOOTSTRAP__ = /*__HISTORY_BOOTSTRAP__*/null;</script>
+  <script src="chart.umd.min.js?v=20260528b"></script>
+  <script src="forecast.js?v=20260528b"></script>
+  <script src="totals.js?v=20260528j"></script>
+  <script src="energy_overview.js?v=20260528e"></script>
+  <script src="charts.js?v=20260529h"></script>
+  <script src="settings.js?v=20260528u"></script>
+  <script src="system_profile.js?v=20260530c"></script>
+  <script src="system_analyze.js?v=20260530d"></script>
+  <script src="app.js?v=20260529a"></script>
+</body>
+</html>

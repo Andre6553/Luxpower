@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#000000">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta content="Il0dFAk2BwRwMQ5TPjdwMFoRHDBcXAUyf6wvaqaE8R81PR8q7UDJ9hCj" name="csrf-token">
+    <title>SolarAssistant</title>
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link href="https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet" type="text/css">
+    </noscript>
+    <link phx-track-static rel="stylesheet" href="/css/app-80b4f62554b554943605afbb7e28114b.css?vsn=d">
+    <link rel="manifest" href="/manifest.json">
+
+    <script defer phx-track-static type="text/javascript" src="/js/app-11f982411422442cb152fbe5f521b606.js?vsn=d"></script>
+    <script defer phx-track-static type="text/javascript" src="/js/vendor/echarts.min-c5ef426b883db4257694b21b88257a57.js?vsn=d"></script>
+</head>
+    <body class="with-header light-theme" data-gateway-timezone="Africa/Johannesburg" data-time-format="24-hour" data-date-ordering="ymd">
+        <div class="header">
+            <div class="container">
+                <div class="logo icon-logo"></div>
+                <div role="navigation" aria-label="main" class="menu">
+
+                        <a href="/" data-phx-link="redirect" data-phx-link-state="push" class="menu-item">
+                            <div class="item-img icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24" width="24">
+  <path d="M1.5 16.5h8s1 0 1 1v5s0 1 -1 1h-8s-1 0 -1 -1v-5s0 -1 1 -1" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="m22.5 23.5 -8 0s-1 0 -1 -1l0 -11s0 -1 1 -1l8 0s1 0 1 1l0 11s0 1 -1 1" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="m22.5 7.5 -8 0s-1 0 -1 -1l0 -5s0 -1 1 -1l8 0s1 0 1 1l0 5s0 1 -1 1" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="M1.5 0.5h8s1 0 1 1v11s0 1 -1 1h-8s-1 0 -1 -1v-11s0 -1 1 -1" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+</svg></div>
+                            <span class="item-caption">Dashboard</span>
+                        </a>
+
+                        <a href="#charts" data-iframe="/grafana/d/sa-charts?kiosk=tv&amp;theme=light" class="menu-item">
+                            <div class="item-img icon"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" height="24" width="24">
+  <path d="M4.5 20a0.5 0.5 0 0 0 -0.5 -0.5H2a0.5 0.5 0 0 0 -0.5 0.5v3.5h3Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="M10.5 15a0.5 0.5 0 0 0 -0.5 -0.5H8a0.5 0.5 0 0 0 -0.5 0.5v8.5h3Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="M16.5 18a0.5 0.5 0 0 0 -0.5 -0.5h-2a0.5 0.5 0 0 0 -0.5 0.5v5.5h3Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="M22.5 10a0.5 0.5 0 0 0 -0.5 -0.5h-2a0.5 0.5 0 0 0 -0.5 0.5v13.5h3Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="m0.504 23.5 23 0" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="M3.918 8.586 6.59 5.914" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="m9.732 5.508 2.544 1.484" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="m15.577 6.764 3.854 -3.028" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="M19.004 2.5a2 2 0 1 0 4 0 2 2 0 1 0 -4 0Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="M12.004 8a2 2 0 1 0 4 0 2 2 0 1 0 -4 0Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="M6.004 4.5a2 2 0 1 0 4 0 2 2 0 1 0 -4 0Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="M0.504 10a2 2 0 1 0 4 0 2 2 0 1 0 -4 0Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+</svg></div>
+                            <span class="item-caption">Charts</span>
+                        </a>
+
+                        <a href="/totals" data-phx-link="redirect" data-phx-link-state="push" class="menu-item">
+                            <div class="item-img icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24" width="24">
+  <path d="M21 0.5H4.176a1 1 0 0 0 -0.664 1.748l10.149 9a1 1 0 0 1 0 1.5l-10.149 9a1 1 0 0 0 0.664 1.752H21" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+</svg></div>
+                            <span class="item-caption">Totals</span>
+                        </a>
+
+                        <a href="/power" data-phx-link="redirect" data-phx-link-state="push" class="menu-item">
+                            <div class="item-img icon"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" height="24" width="24">
+  <path d="m20 9.498 -10 14 2 -9 -8 0 10 -14 -2 9 8 0z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+</svg></div>
+                            <span class="item-caption">Power</span>
+                        </a>
+
+                    <a href="/configuration" data-phx-link="redirect" data-phx-link-state="push" class="menu-item">
+                        <div class="item-img icon"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" height="24" width="24">
+  <path d="M20.254 13.5H22.5a1 1 0 0 0 1 -1v-1a1 1 0 0 0 -1 -1h-2.247a11.8 11.8 0 0 0 -1 -2.922l1.589 -1.588a1 1 0 0 0 0 -1.414l-1.418 -1.414a1 1 0 0 0 -1.414 0l-1.59 1.589a11.769 11.769 0 0 0 -2.92 -1V1.5a1 1 0 0 0 -1 -1h-1a1 1 0 0 0 -1 1v2.249a11.777 11.777 0 0 0 -2.921 1l-1.59 -1.587a1 1 0 0 0 -1.414 0L3.16 4.577a1 1 0 0 0 0 1.414L4.75 7.58a11.821 11.821 0 0 0 -1 2.921H1.5a1 1 0 0 0 -1 1v1a1 1 0 0 0 1 1h2.246a11.821 11.821 0 0 0 1 2.921l-1.59 1.59a1 1 0 0 0 0 1.414l1.419 1.414a1 1 0 0 0 1.414 0l1.589 -1.59a11.8 11.8 0 0 0 2.922 1v2.25a1 1 0 0 0 1 1h1a1 1 0 0 0 1 -1v-2.245a11.8 11.8 0 0 0 2.92 -1l1.591 1.589a1 1 0 0 0 1.414 0l1.414 -1.414a1 1 0 0 0 0 -1.414l-1.589 -1.59a11.821 11.821 0 0 0 1.004 -2.926Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="M7.5 12.001a4.5 4.5 0 1 0 9 0 4.5 4.5 0 1 0 -9 0Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+</svg></div>
+                        <span class="item-caption">Configuration</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <main role="main" id="main" class="main">
+<div id="phx-GLO_UXMm8V6POA9h" data-phx-main data-phx-session="SFMyNTY.g2gDaAJhBXQAAAAIdwJpZG0AAAAUcGh4LUdMT19VWE1tOFY2UE9BOWh3B3Nlc3Npb250AAAAAHcEdmlld3cpRWxpeGlyLlNvbGFyQXNzaXN0YW50V2ViLkxpdmUuVG90YWxzLlNob3d3CnBhcmVudF9waWR3A25pbHcIcm9vdF9waWR3A25pbHcGcm91dGVydx9FbGl4aXIuU29sYXJBc3Npc3RhbnRXZWIuUm91dGVydwxsaXZlX3Nlc3Npb25oAncEdXNlcm4IAM2aY65-TbMYdwlyb290X3ZpZXd3KUVsaXhpci5Tb2xhckFzc2lzdGFudFdlYi5MaXZlLlRvdGFscy5TaG93bgYAsv_fbp4BYgABUYA.Gt_E-XO3vRe6cepSBhFiZsLf8nte36AnUyNiFehzhJM" data-phx-static="SFMyNTY.g2gDaAJhBXQAAAADdwJpZG0AAAAUcGh4LUdMT19VWE1tOFY2UE9BOWh3BWZsYXNodAAAAAB3CmFzc2lnbl9uZXdqbgYAs__fbp4BYgABUYA.p5I1EfOnhLsuki-hUZsdH5eQz4vgrMfO3hLGM75iRjg"><div class="content has-page-header totals-page">
+  <div class="page-header">
+    <div class="toolbar">
+      <a href="https://solar-assistant.io/help/historic-data/totals" target="_blank" class="icon-button"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="24" width="24">
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M8.25 9.74202c-0.00104 -0.70758 0.19803 -1.40103 0.57422 -2.00031 0.37619 -0.59929 0.91417 -1.07999 1.55188 -1.38662 0.6377 -0.30662 1.3491 -0.42668 2.0521 -0.34631 0.703 0.08037 1.3689 0.35789 1.9209 0.80053 0.5521 0.44264 0.9677 1.03236 1.1989 1.70109 0.2312 0.66873 0.2687 1.38921 0.1079 2.0783 -0.1607 0.6891 -0.513 1.3187 -1.0162 1.8161 -0.5032 0.4975 -1.1368 0.8425 -1.8277 0.9952 -0.2266 0.0447 -0.431 0.166 -0.5789 0.3435 -0.1478 0.1776 -0.2301 0.4005 -0.2331 0.6315v1.113" stroke-width="1"></path>
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M12 23.501c6.3513 0 11.5 -5.1487 11.5 -11.5S18.3513 0.500977 12 0.500977C5.64873 0.500977 0.5 5.6497 0.5 12.001s5.14873 11.5 11.5 11.5Z" stroke-width="1"></path>
+  <path stroke="currentColor" d="M12.002 18.4919c-0.1381 0 -0.25 -0.1119 -0.25 -0.25 0 -0.138 0.1119 -0.25 0.25 -0.25" stroke-width="1"></path>
+  <path stroke="currentColor" d="M12.002 18.4919c0.1381 0 0.25 -0.1119 0.25 -0.25 0 -0.138 -0.1119 -0.25 -0.25 -0.25" stroke-width="1"></path>
+</svg></a>
+    </div>
+  </div>
+  <div class="card" role="figure" aria-labelledby="daily-table">
+      <div class="card-header">
+        <h3 id="daily-table" role="caption">
+
+Last 30 days
+
+        </h3>
+        <div class="toolbar">
+          <button class="icon-button" phx-click="prev-daily"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24" width="24">
+  <path d="m23.5 12 -23 0" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="M7.25 18.5 0.5 12l6.75 -6.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+</svg></button>
+          <button class="icon-button" phx-click="next-daily" disabled><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24" width="24">
+  <path d="m0.5 12 23 0" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="M16.75 5.5 23.5 12l-6.75 6.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+</svg></button>
+        </div>
+      </div>
+      <div class="chart-table">
+        <div class="card-section">
+          <div id="daily-totals-chart" class="chart" phx-update="ignore" phx-hook="DailyTotalsChart"></div>
+        </div>
+        <div class="card-section" style="overflow-y: auto">
+          <table class="table padded center border" style="table-layout: fixed" aria-labelledby="daily-table">
+            <thead>
+            <tr>
+                <th style="width: 4.5em">
+                  <span class="show-sm">kWh</span>
+                </th>
+                <th class="number" scope="row">
+                    <span>Load</span>
+                </th>
+                <th class="number" scope="row">
+                    <span>Solar PV</span>
+                </th>
+                <th class="number" scope="row">
+                    <span>Battery charged</span>
+                </th>
+                <th class="number" scope="row">
+                    <span>Battery discharged</span>
+                </th>
+                <th class="number" scope="row">
+                    <span>Grid used</span>
+                </th>
+                <th class="number" scope="row">
+                    <span>Grid exported</span>
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+          </table>
+        </div>
+      </div>
+  </div>
+  <div class="card" role="figure" aria-labelledby="monthly-table">
+      <div class="card-header">
+        <h3 id="monthly-table" role="caption">
+
+Last 12 months
+
+        </h3>
+        <div class="toolbar">
+          <button class="icon-button" phx-click="prev-monthly"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24" width="24">
+  <path d="m23.5 12 -23 0" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="M7.25 18.5 0.5 12l6.75 -6.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+</svg></button>
+          <button class="icon-button" phx-click="next-monthly" disabled><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24" width="24">
+  <path d="m0.5 12 23 0" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="M16.75 5.5 23.5 12l-6.75 6.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+</svg></button>
+        </div>
+      </div>
+      <div class="chart-table">
+        <div class="card-section">
+          <div id="weekly-totals-chart" class="chart" phx-update="ignore" phx-hook="WeeklyTotalsChart"></div>
+        </div>
+        <div class="card-section" style="overflow-y: auto">
+          <table class="table padded center border" style="table-layout: fixed" aria-labelledby="monthly-table">
+            <thead>
+            <tr>
+                <th style="width: 4.5em">
+                  <span class="show-sm">kWh</span>
+                </th>
+                <th class="number" scope="row">
+                    <span>Load</span>
+                </th>
+                <th class="number" scope="row">
+                    <span>Solar PV</span>
+                </th>
+                <th class="number" scope="row">
+                    <span>Battery charged</span>
+                </th>
+                <th class="number" scope="row">
+                    <span>Battery discharged</span>
+                </th>
+                <th class="number" scope="row">
+                    <span>Grid used</span>
+                </th>
+                <th class="number" scope="row">
+                    <span>Grid exported</span>
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+          </table>
+        </div>
+      </div>
+  </div>
+  <div class="card">
+      <div class="card-section font-small" role="note">
+          <p>The following affects the numbers you see above:</p>
+          <ul>
+              <li>The power used by the inverter(s) themself are not included in the total load, but is supplied from either grid or solar PV.</li>
+              <li>A battery doesn&#39;t discharge the same amount of kWh it took to charge it due to battery efficiency.</li>
+              <li>Depending on your inverter model, measurements might not be perfectly accurate. Some are far from it.</li>
+          </ul>
+      </div>
+  </div>
+</div>
+<div class="flash">
+    <p class="alert forward" role="alert" phx-click="lv:clear-flash" phx-value-key="info"></p>
+    <p class="alert negative" role="alert" phx-click="lv:clear-flash" phx-value-key="error"></p>
+</div></div>
+        </main>
+    </body>
+</html>

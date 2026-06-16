@@ -1,0 +1,7681 @@
+{
+  "date": "2025-02-04",
+  "series": {
+    "ppv": {
+      "unit": "",
+      "maxValueText": "",
+      "avgValueText": "",
+      "points": []
+    },
+    "ppv1": {
+      "unit": "W",
+      "maxValueText": "2189",
+      "avgValueText": "124.9",
+      "points": [
+        {
+          "time": "2025-02-04 00:45:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 45,
+          "second": 30,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 00:51:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 51,
+          "second": 29,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 03:06:48",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 6,
+          "second": 48,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 03:12:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 12,
+          "second": 45,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 03:18:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 18,
+          "second": 43,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 05:02:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 5,
+          "minute": 2,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 06:37:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 6,
+          "minute": 37,
+          "second": 42,
+          "value": 129.0
+        },
+        {
+          "time": "2025-02-04 07:23:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 23,
+          "second": 30,
+          "value": 317.0
+        },
+        {
+          "time": "2025-02-04 07:33:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 33,
+          "second": 26,
+          "value": 423.0
+        },
+        {
+          "time": "2025-02-04 09:58:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 9,
+          "minute": 58,
+          "second": 42,
+          "value": 2189.0
+        },
+        {
+          "time": "2025-02-04 12:34:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 34,
+          "second": 12,
+          "value": 691.0
+        },
+        {
+          "time": "2025-02-04 12:53:49",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 53,
+          "second": 49,
+          "value": 631.0
+        },
+        {
+          "time": "2025-02-04 12:59:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 59,
+          "second": 46,
+          "value": 652.0
+        },
+        {
+          "time": "2025-02-04 13:05:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 13,
+          "minute": 5,
+          "second": 46,
+          "value": 689.0
+        },
+        {
+          "time": "2025-02-04 14:51:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 14,
+          "minute": 51,
+          "second": 11,
+          "value": 304.0
+        },
+        {
+          "time": "2025-02-04 15:19:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 15,
+          "minute": 19,
+          "second": 3,
+          "value": 318.0
+        },
+        {
+          "time": "2025-02-04 16:42:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 42,
+          "second": 38,
+          "value": 181.0
+        },
+        {
+          "time": "2025-02-04 16:48:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 48,
+          "second": 35,
+          "value": 234.0
+        },
+        {
+          "time": "2025-02-04 16:54:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 54,
+          "second": 33,
+          "value": 292.0
+        },
+        {
+          "time": "2025-02-04 17:00:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 0,
+          "second": 33,
+          "value": 231.0
+        },
+        {
+          "time": "2025-02-04 17:06:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 6,
+          "second": 30,
+          "value": 486.0
+        },
+        {
+          "time": "2025-02-04 17:12:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 12,
+          "second": 28,
+          "value": 330.0
+        },
+        {
+          "time": "2025-02-04 17:18:27",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 18,
+          "second": 27,
+          "value": 365.0
+        },
+        {
+          "time": "2025-02-04 17:52:16",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 52,
+          "second": 16,
+          "value": 362.0
+        },
+        {
+          "time": "2025-02-04 18:46:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 46,
+          "second": 30,
+          "value": 83.0
+        },
+        {
+          "time": "2025-02-04 18:52:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 52,
+          "second": 28,
+          "value": 85.0
+        },
+        {
+          "time": "2025-02-04 18:58:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 58,
+          "second": 26,
+          "value": 81.0
+        },
+        {
+          "time": "2025-02-04 19:04:24",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 4,
+          "second": 24,
+          "value": 65.0
+        },
+        {
+          "time": "2025-02-04 19:10:23",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 10,
+          "second": 23,
+          "value": 58.0
+        },
+        {
+          "time": "2025-02-04 19:16:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 16,
+          "second": 22,
+          "value": 61.0
+        },
+        {
+          "time": "2025-02-04 19:22:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 22,
+          "second": 18,
+          "value": 48.0
+        },
+        {
+          "time": "2025-02-04 19:28:17",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 28,
+          "second": 17,
+          "value": 26.0
+        },
+        {
+          "time": "2025-02-04 19:34:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 34,
+          "second": 15,
+          "value": 37.0
+        },
+        {
+          "time": "2025-02-04 19:40:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 40,
+          "second": 15,
+          "value": 35.0
+        },
+        {
+          "time": "2025-02-04 19:46:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 46,
+          "second": 12,
+          "value": 28.0
+        },
+        {
+          "time": "2025-02-04 19:52:09",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 52,
+          "second": 9,
+          "value": 29.0
+        },
+        {
+          "time": "2025-02-04 19:58:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 58,
+          "second": 8,
+          "value": 24.0
+        },
+        {
+          "time": "2025-02-04 20:04:07",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 4,
+          "second": 7,
+          "value": 11.0
+        },
+        {
+          "time": "2025-02-04 20:10:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 10,
+          "second": 5,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:16:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 16,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:22:01",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 22,
+          "second": 1,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:27:59",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 27,
+          "second": 59,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:33:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 33,
+          "second": 58,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:39:55",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 39,
+          "second": 55,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:45:53",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 45,
+          "second": 53,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:51:54",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 51,
+          "second": 54,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:57:52",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 57,
+          "second": 52,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:05:50",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 5,
+          "second": 50,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:11:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 11,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:17:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 17,
+          "second": 45,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:23:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 23,
+          "second": 43,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:29:41",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 29,
+          "second": 41,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:35:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 35,
+          "second": 38,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:41:36",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 41,
+          "second": 36,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:47:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 47,
+          "second": 35,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:53:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 53,
+          "second": 33,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:59:32",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 59,
+          "second": 32,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:05:31",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 5,
+          "second": 31,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:11:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 11,
+          "second": 29,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:17:25",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 17,
+          "second": 25,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:23:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 23,
+          "second": 26,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:29:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 29,
+          "second": 22,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:35:21",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 35,
+          "second": 21,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:41:19",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 41,
+          "second": 19,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:47:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 47,
+          "second": 18,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:53:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 53,
+          "second": 15,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:59:13",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 59,
+          "second": 13,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:05:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 5,
+          "second": 11,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:13:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 13,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:19:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 19,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:25:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 25,
+          "second": 5,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:31:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 31,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:37:02",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 37,
+          "second": 2,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:43:00",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 43,
+          "second": 0,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:48:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 48,
+          "second": 58,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:54:56",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 54,
+          "second": 56,
+          "value": 0.0
+        }
+      ]
+    },
+    "ppv2": {
+      "unit": "W",
+      "maxValueText": "1593",
+      "avgValueText": "126.3",
+      "points": [
+        {
+          "time": "2025-02-04 00:45:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 45,
+          "second": 30,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 00:51:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 51,
+          "second": 29,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 03:06:48",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 6,
+          "second": 48,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 03:12:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 12,
+          "second": 45,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 03:18:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 18,
+          "second": 43,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 05:02:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 5,
+          "minute": 2,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 06:37:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 6,
+          "minute": 37,
+          "second": 42,
+          "value": 136.0
+        },
+        {
+          "time": "2025-02-04 07:23:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 23,
+          "second": 30,
+          "value": 308.0
+        },
+        {
+          "time": "2025-02-04 07:33:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 33,
+          "second": 26,
+          "value": 382.0
+        },
+        {
+          "time": "2025-02-04 09:58:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 9,
+          "minute": 58,
+          "second": 42,
+          "value": 1593.0
+        },
+        {
+          "time": "2025-02-04 12:34:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 34,
+          "second": 12,
+          "value": 702.0
+        },
+        {
+          "time": "2025-02-04 12:53:49",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 53,
+          "second": 49,
+          "value": 638.0
+        },
+        {
+          "time": "2025-02-04 12:59:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 59,
+          "second": 46,
+          "value": 661.0
+        },
+        {
+          "time": "2025-02-04 13:05:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 13,
+          "minute": 5,
+          "second": 46,
+          "value": 697.0
+        },
+        {
+          "time": "2025-02-04 14:51:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 14,
+          "minute": 51,
+          "second": 11,
+          "value": 307.0
+        },
+        {
+          "time": "2025-02-04 15:19:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 15,
+          "minute": 19,
+          "second": 3,
+          "value": 318.0
+        },
+        {
+          "time": "2025-02-04 16:42:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 42,
+          "second": 38,
+          "value": 56.0
+        },
+        {
+          "time": "2025-02-04 16:48:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 48,
+          "second": 35,
+          "value": 240.0
+        },
+        {
+          "time": "2025-02-04 16:54:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 54,
+          "second": 33,
+          "value": 296.0
+        },
+        {
+          "time": "2025-02-04 17:00:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 0,
+          "second": 33,
+          "value": 233.0
+        },
+        {
+          "time": "2025-02-04 17:06:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 6,
+          "second": 30,
+          "value": 491.0
+        },
+        {
+          "time": "2025-02-04 17:12:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 12,
+          "second": 28,
+          "value": 334.0
+        },
+        {
+          "time": "2025-02-04 17:18:27",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 18,
+          "second": 27,
+          "value": 373.0
+        },
+        {
+          "time": "2025-02-04 17:52:16",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 52,
+          "second": 16,
+          "value": 883.0
+        },
+        {
+          "time": "2025-02-04 18:46:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 46,
+          "second": 30,
+          "value": 108.0
+        },
+        {
+          "time": "2025-02-04 18:52:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 52,
+          "second": 28,
+          "value": 115.0
+        },
+        {
+          "time": "2025-02-04 18:58:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 58,
+          "second": 26,
+          "value": 102.0
+        },
+        {
+          "time": "2025-02-04 19:04:24",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 4,
+          "second": 24,
+          "value": 86.0
+        },
+        {
+          "time": "2025-02-04 19:10:23",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 10,
+          "second": 23,
+          "value": 85.0
+        },
+        {
+          "time": "2025-02-04 19:16:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 16,
+          "second": 22,
+          "value": 77.0
+        },
+        {
+          "time": "2025-02-04 19:22:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 22,
+          "second": 18,
+          "value": 66.0
+        },
+        {
+          "time": "2025-02-04 19:28:17",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 28,
+          "second": 17,
+          "value": 42.0
+        },
+        {
+          "time": "2025-02-04 19:34:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 34,
+          "second": 15,
+          "value": 58.0
+        },
+        {
+          "time": "2025-02-04 19:40:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 40,
+          "second": 15,
+          "value": 49.0
+        },
+        {
+          "time": "2025-02-04 19:46:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 46,
+          "second": 12,
+          "value": 46.0
+        },
+        {
+          "time": "2025-02-04 19:52:09",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 52,
+          "second": 9,
+          "value": 52.0
+        },
+        {
+          "time": "2025-02-04 19:58:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 58,
+          "second": 8,
+          "value": 42.0
+        },
+        {
+          "time": "2025-02-04 20:04:07",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 4,
+          "second": 7,
+          "value": 25.0
+        },
+        {
+          "time": "2025-02-04 20:10:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 10,
+          "second": 5,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:16:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 16,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:22:01",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 22,
+          "second": 1,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:27:59",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 27,
+          "second": 59,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:33:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 33,
+          "second": 58,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:39:55",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 39,
+          "second": 55,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:45:53",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 45,
+          "second": 53,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:51:54",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 51,
+          "second": 54,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:57:52",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 57,
+          "second": 52,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:05:50",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 5,
+          "second": 50,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:11:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 11,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:17:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 17,
+          "second": 45,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:23:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 23,
+          "second": 43,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:29:41",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 29,
+          "second": 41,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:35:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 35,
+          "second": 38,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:41:36",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 41,
+          "second": 36,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:47:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 47,
+          "second": 35,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:53:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 53,
+          "second": 33,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:59:32",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 59,
+          "second": 32,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:05:31",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 5,
+          "second": 31,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:11:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 11,
+          "second": 29,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:17:25",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 17,
+          "second": 25,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:23:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 23,
+          "second": 26,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:29:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 29,
+          "second": 22,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:35:21",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 35,
+          "second": 21,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:41:19",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 41,
+          "second": 19,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:47:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 47,
+          "second": 18,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:53:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 53,
+          "second": 15,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:59:13",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 59,
+          "second": 13,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:05:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 5,
+          "second": 11,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:13:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 13,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:19:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 19,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:25:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 25,
+          "second": 5,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:31:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 31,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:37:02",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 37,
+          "second": 2,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:43:00",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 43,
+          "second": 0,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:48:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 48,
+          "second": 58,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:54:56",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 54,
+          "second": 56,
+          "value": 0.0
+        }
+      ]
+    },
+    "vpv1": {
+      "unit": "V",
+      "maxValueText": "276.9",
+      "avgValueText": "115.5",
+      "points": [
+        {
+          "time": "2025-02-04 00:45:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 45,
+          "second": 30,
+          "value": 30.4
+        },
+        {
+          "time": "2025-02-04 00:51:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 51,
+          "second": 29,
+          "value": 29.7
+        },
+        {
+          "time": "2025-02-04 03:06:48",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 6,
+          "second": 48,
+          "value": 41.2
+        },
+        {
+          "time": "2025-02-04 03:12:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 12,
+          "second": 45,
+          "value": 41.3
+        },
+        {
+          "time": "2025-02-04 03:18:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 18,
+          "second": 43,
+          "value": 42.1
+        },
+        {
+          "time": "2025-02-04 05:02:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 5,
+          "minute": 2,
+          "second": 12,
+          "value": 45.2
+        },
+        {
+          "time": "2025-02-04 06:37:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 6,
+          "minute": 37,
+          "second": 42,
+          "value": 223.1
+        },
+        {
+          "time": "2025-02-04 07:23:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 23,
+          "second": 30,
+          "value": 234.6
+        },
+        {
+          "time": "2025-02-04 07:33:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 33,
+          "second": 26,
+          "value": 227.1
+        },
+        {
+          "time": "2025-02-04 09:58:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 9,
+          "minute": 58,
+          "second": 42,
+          "value": 214.1
+        },
+        {
+          "time": "2025-02-04 12:34:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 34,
+          "second": 12,
+          "value": 269.1
+        },
+        {
+          "time": "2025-02-04 12:53:49",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 53,
+          "second": 49,
+          "value": 269.5
+        },
+        {
+          "time": "2025-02-04 12:59:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 59,
+          "second": 46,
+          "value": 269.6
+        },
+        {
+          "time": "2025-02-04 13:05:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 13,
+          "minute": 5,
+          "second": 46,
+          "value": 268.8
+        },
+        {
+          "time": "2025-02-04 14:51:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 14,
+          "minute": 51,
+          "second": 11,
+          "value": 274.6
+        },
+        {
+          "time": "2025-02-04 15:19:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 15,
+          "minute": 19,
+          "second": 3,
+          "value": 275.4
+        },
+        {
+          "time": "2025-02-04 16:42:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 42,
+          "second": 38,
+          "value": 266.1
+        },
+        {
+          "time": "2025-02-04 16:48:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 48,
+          "second": 35,
+          "value": 261.9
+        },
+        {
+          "time": "2025-02-04 16:54:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 54,
+          "second": 33,
+          "value": 276.9
+        },
+        {
+          "time": "2025-02-04 17:00:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 0,
+          "second": 33,
+          "value": 275.6
+        },
+        {
+          "time": "2025-02-04 17:06:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 6,
+          "second": 30,
+          "value": 273.1
+        },
+        {
+          "time": "2025-02-04 17:12:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 12,
+          "second": 28,
+          "value": 272.1
+        },
+        {
+          "time": "2025-02-04 17:18:27",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 18,
+          "second": 27,
+          "value": 269.3
+        },
+        {
+          "time": "2025-02-04 17:52:16",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 52,
+          "second": 16,
+          "value": 227.7
+        },
+        {
+          "time": "2025-02-04 18:46:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 46,
+          "second": 30,
+          "value": 221.4
+        },
+        {
+          "time": "2025-02-04 18:52:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 52,
+          "second": 28,
+          "value": 233.2
+        },
+        {
+          "time": "2025-02-04 18:58:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 58,
+          "second": 26,
+          "value": 220.2
+        },
+        {
+          "time": "2025-02-04 19:04:24",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 4,
+          "second": 24,
+          "value": 225.5
+        },
+        {
+          "time": "2025-02-04 19:10:23",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 10,
+          "second": 23,
+          "value": 217.2
+        },
+        {
+          "time": "2025-02-04 19:16:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 16,
+          "second": 22,
+          "value": 210.7
+        },
+        {
+          "time": "2025-02-04 19:22:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 22,
+          "second": 18,
+          "value": 203.4
+        },
+        {
+          "time": "2025-02-04 19:28:17",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 28,
+          "second": 17,
+          "value": 216.2
+        },
+        {
+          "time": "2025-02-04 19:34:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 34,
+          "second": 15,
+          "value": 204.0
+        },
+        {
+          "time": "2025-02-04 19:40:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 40,
+          "second": 15,
+          "value": 212.5
+        },
+        {
+          "time": "2025-02-04 19:46:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 46,
+          "second": 12,
+          "value": 213.9
+        },
+        {
+          "time": "2025-02-04 19:52:09",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 52,
+          "second": 9,
+          "value": 196.1
+        },
+        {
+          "time": "2025-02-04 19:58:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 58,
+          "second": 8,
+          "value": 159.8
+        },
+        {
+          "time": "2025-02-04 20:04:07",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 4,
+          "second": 7,
+          "value": 78.0
+        },
+        {
+          "time": "2025-02-04 20:10:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 10,
+          "second": 5,
+          "value": 37.8
+        },
+        {
+          "time": "2025-02-04 20:16:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 16,
+          "second": 3,
+          "value": 29.0
+        },
+        {
+          "time": "2025-02-04 20:22:01",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 22,
+          "second": 1,
+          "value": 28.4
+        },
+        {
+          "time": "2025-02-04 20:27:59",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 27,
+          "second": 59,
+          "value": 28.6
+        },
+        {
+          "time": "2025-02-04 20:33:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 33,
+          "second": 58,
+          "value": 28.9
+        },
+        {
+          "time": "2025-02-04 20:39:55",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 39,
+          "second": 55,
+          "value": 29.1
+        },
+        {
+          "time": "2025-02-04 20:45:53",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 45,
+          "second": 53,
+          "value": 28.9
+        },
+        {
+          "time": "2025-02-04 20:51:54",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 51,
+          "second": 54,
+          "value": 29.3
+        },
+        {
+          "time": "2025-02-04 20:57:52",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 57,
+          "second": 52,
+          "value": 28.9
+        },
+        {
+          "time": "2025-02-04 21:05:50",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 5,
+          "second": 50,
+          "value": 28.2
+        },
+        {
+          "time": "2025-02-04 21:11:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 11,
+          "second": 46,
+          "value": 27.3
+        },
+        {
+          "time": "2025-02-04 21:17:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 17,
+          "second": 45,
+          "value": 26.7
+        },
+        {
+          "time": "2025-02-04 21:23:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 23,
+          "second": 43,
+          "value": 26.6
+        },
+        {
+          "time": "2025-02-04 21:29:41",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 29,
+          "second": 41,
+          "value": 26.3
+        },
+        {
+          "time": "2025-02-04 21:35:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 35,
+          "second": 38,
+          "value": 26.8
+        },
+        {
+          "time": "2025-02-04 21:41:36",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 41,
+          "second": 36,
+          "value": 26.9
+        },
+        {
+          "time": "2025-02-04 21:47:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 47,
+          "second": 35,
+          "value": 26.9
+        },
+        {
+          "time": "2025-02-04 21:53:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 53,
+          "second": 33,
+          "value": 26.5
+        },
+        {
+          "time": "2025-02-04 21:59:32",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 59,
+          "second": 32,
+          "value": 26.6
+        },
+        {
+          "time": "2025-02-04 22:05:31",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 5,
+          "second": 31,
+          "value": 26.5
+        },
+        {
+          "time": "2025-02-04 22:11:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 11,
+          "second": 29,
+          "value": 26.6
+        },
+        {
+          "time": "2025-02-04 22:17:25",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 17,
+          "second": 25,
+          "value": 27.2
+        },
+        {
+          "time": "2025-02-04 22:23:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 23,
+          "second": 26,
+          "value": 28.1
+        },
+        {
+          "time": "2025-02-04 22:29:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 29,
+          "second": 22,
+          "value": 28.7
+        },
+        {
+          "time": "2025-02-04 22:35:21",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 35,
+          "second": 21,
+          "value": 28.5
+        },
+        {
+          "time": "2025-02-04 22:41:19",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 41,
+          "second": 19,
+          "value": 28.9
+        },
+        {
+          "time": "2025-02-04 22:47:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 47,
+          "second": 18,
+          "value": 28.8
+        },
+        {
+          "time": "2025-02-04 22:53:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 53,
+          "second": 15,
+          "value": 29.0
+        },
+        {
+          "time": "2025-02-04 22:59:13",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 59,
+          "second": 13,
+          "value": 29.3
+        },
+        {
+          "time": "2025-02-04 23:05:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 5,
+          "second": 11,
+          "value": 29.4
+        },
+        {
+          "time": "2025-02-04 23:13:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 13,
+          "second": 8,
+          "value": 29.5
+        },
+        {
+          "time": "2025-02-04 23:19:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 19,
+          "second": 8,
+          "value": 29.5
+        },
+        {
+          "time": "2025-02-04 23:25:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 25,
+          "second": 5,
+          "value": 29.8
+        },
+        {
+          "time": "2025-02-04 23:31:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 31,
+          "second": 3,
+          "value": 29.9
+        },
+        {
+          "time": "2025-02-04 23:37:02",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 37,
+          "second": 2,
+          "value": 29.6
+        },
+        {
+          "time": "2025-02-04 23:43:00",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 43,
+          "second": 0,
+          "value": 29.9
+        },
+        {
+          "time": "2025-02-04 23:48:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 48,
+          "second": 58,
+          "value": 30.0
+        },
+        {
+          "time": "2025-02-04 23:54:56",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 54,
+          "second": 56,
+          "value": 30.0
+        }
+      ]
+    },
+    "vpv2": {
+      "unit": "V",
+      "maxValueText": "281.2",
+      "avgValueText": "117.3",
+      "points": [
+        {
+          "time": "2025-02-04 00:45:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 45,
+          "second": 30,
+          "value": 28.1
+        },
+        {
+          "time": "2025-02-04 00:51:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 51,
+          "second": 29,
+          "value": 27.2
+        },
+        {
+          "time": "2025-02-04 03:06:48",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 6,
+          "second": 48,
+          "value": 41.9
+        },
+        {
+          "time": "2025-02-04 03:12:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 12,
+          "second": 45,
+          "value": 41.5
+        },
+        {
+          "time": "2025-02-04 03:18:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 18,
+          "second": 43,
+          "value": 42.3
+        },
+        {
+          "time": "2025-02-04 05:02:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 5,
+          "minute": 2,
+          "second": 12,
+          "value": 41.9
+        },
+        {
+          "time": "2025-02-04 06:37:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 6,
+          "minute": 37,
+          "second": 42,
+          "value": 226.3
+        },
+        {
+          "time": "2025-02-04 07:23:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 23,
+          "second": 30,
+          "value": 236.1
+        },
+        {
+          "time": "2025-02-04 07:33:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 33,
+          "second": 26,
+          "value": 231.7
+        },
+        {
+          "time": "2025-02-04 09:58:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 9,
+          "minute": 58,
+          "second": 42,
+          "value": 220.1
+        },
+        {
+          "time": "2025-02-04 12:34:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 34,
+          "second": 12,
+          "value": 273.1
+        },
+        {
+          "time": "2025-02-04 12:53:49",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 53,
+          "second": 49,
+          "value": 272.7
+        },
+        {
+          "time": "2025-02-04 12:59:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 59,
+          "second": 46,
+          "value": 273.3
+        },
+        {
+          "time": "2025-02-04 13:05:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 13,
+          "minute": 5,
+          "second": 46,
+          "value": 272.1
+        },
+        {
+          "time": "2025-02-04 14:51:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 14,
+          "minute": 51,
+          "second": 11,
+          "value": 277.0
+        },
+        {
+          "time": "2025-02-04 15:19:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 15,
+          "minute": 19,
+          "second": 3,
+          "value": 275.5
+        },
+        {
+          "time": "2025-02-04 16:42:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 42,
+          "second": 38,
+          "value": 270.2
+        },
+        {
+          "time": "2025-02-04 16:48:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 48,
+          "second": 35,
+          "value": 268.9
+        },
+        {
+          "time": "2025-02-04 16:54:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 54,
+          "second": 33,
+          "value": 281.2
+        },
+        {
+          "time": "2025-02-04 17:00:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 0,
+          "second": 33,
+          "value": 276.8
+        },
+        {
+          "time": "2025-02-04 17:06:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 6,
+          "second": 30,
+          "value": 275.3
+        },
+        {
+          "time": "2025-02-04 17:12:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 12,
+          "second": 28,
+          "value": 275.7
+        },
+        {
+          "time": "2025-02-04 17:18:27",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 18,
+          "second": 27,
+          "value": 276.2
+        },
+        {
+          "time": "2025-02-04 17:52:16",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 52,
+          "second": 16,
+          "value": 253.4
+        },
+        {
+          "time": "2025-02-04 18:46:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 46,
+          "second": 30,
+          "value": 226.7
+        },
+        {
+          "time": "2025-02-04 18:52:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 52,
+          "second": 28,
+          "value": 234.0
+        },
+        {
+          "time": "2025-02-04 18:58:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 58,
+          "second": 26,
+          "value": 218.0
+        },
+        {
+          "time": "2025-02-04 19:04:24",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 4,
+          "second": 24,
+          "value": 223.8
+        },
+        {
+          "time": "2025-02-04 19:10:23",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 10,
+          "second": 23,
+          "value": 221.7
+        },
+        {
+          "time": "2025-02-04 19:16:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 16,
+          "second": 22,
+          "value": 216.3
+        },
+        {
+          "time": "2025-02-04 19:22:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 22,
+          "second": 18,
+          "value": 223.1
+        },
+        {
+          "time": "2025-02-04 19:28:17",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 28,
+          "second": 17,
+          "value": 221.4
+        },
+        {
+          "time": "2025-02-04 19:34:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 34,
+          "second": 15,
+          "value": 218.3
+        },
+        {
+          "time": "2025-02-04 19:40:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 40,
+          "second": 15,
+          "value": 215.7
+        },
+        {
+          "time": "2025-02-04 19:46:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 46,
+          "second": 12,
+          "value": 220.0
+        },
+        {
+          "time": "2025-02-04 19:52:09",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 52,
+          "second": 9,
+          "value": 206.3
+        },
+        {
+          "time": "2025-02-04 19:58:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 58,
+          "second": 8,
+          "value": 179.3
+        },
+        {
+          "time": "2025-02-04 20:04:07",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 4,
+          "second": 7,
+          "value": 105.4
+        },
+        {
+          "time": "2025-02-04 20:10:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 10,
+          "second": 5,
+          "value": 49.2
+        },
+        {
+          "time": "2025-02-04 20:16:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 16,
+          "second": 3,
+          "value": 29.7
+        },
+        {
+          "time": "2025-02-04 20:22:01",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 22,
+          "second": 1,
+          "value": 27.4
+        },
+        {
+          "time": "2025-02-04 20:27:59",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 27,
+          "second": 59,
+          "value": 26.3
+        },
+        {
+          "time": "2025-02-04 20:33:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 33,
+          "second": 58,
+          "value": 26.4
+        },
+        {
+          "time": "2025-02-04 20:39:55",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 39,
+          "second": 55,
+          "value": 26.8
+        },
+        {
+          "time": "2025-02-04 20:45:53",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 45,
+          "second": 53,
+          "value": 26.6
+        },
+        {
+          "time": "2025-02-04 20:51:54",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 51,
+          "second": 54,
+          "value": 27.3
+        },
+        {
+          "time": "2025-02-04 20:57:52",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 57,
+          "second": 52,
+          "value": 27.0
+        },
+        {
+          "time": "2025-02-04 21:05:50",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 5,
+          "second": 50,
+          "value": 27.3
+        },
+        {
+          "time": "2025-02-04 21:11:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 11,
+          "second": 46,
+          "value": 26.5
+        },
+        {
+          "time": "2025-02-04 21:17:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 17,
+          "second": 45,
+          "value": 26.4
+        },
+        {
+          "time": "2025-02-04 21:23:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 23,
+          "second": 43,
+          "value": 26.7
+        },
+        {
+          "time": "2025-02-04 21:29:41",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 29,
+          "second": 41,
+          "value": 26.5
+        },
+        {
+          "time": "2025-02-04 21:35:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 35,
+          "second": 38,
+          "value": 26.3
+        },
+        {
+          "time": "2025-02-04 21:41:36",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 41,
+          "second": 36,
+          "value": 26.5
+        },
+        {
+          "time": "2025-02-04 21:47:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 47,
+          "second": 35,
+          "value": 26.7
+        },
+        {
+          "time": "2025-02-04 21:53:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 53,
+          "second": 33,
+          "value": 26.2
+        },
+        {
+          "time": "2025-02-04 21:59:32",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 59,
+          "second": 32,
+          "value": 26.5
+        },
+        {
+          "time": "2025-02-04 22:05:31",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 5,
+          "second": 31,
+          "value": 26.2
+        },
+        {
+          "time": "2025-02-04 22:11:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 11,
+          "second": 29,
+          "value": 26.1
+        },
+        {
+          "time": "2025-02-04 22:17:25",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 17,
+          "second": 25,
+          "value": 26.4
+        },
+        {
+          "time": "2025-02-04 22:23:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 23,
+          "second": 26,
+          "value": 26.9
+        },
+        {
+          "time": "2025-02-04 22:29:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 29,
+          "second": 22,
+          "value": 26.6
+        },
+        {
+          "time": "2025-02-04 22:35:21",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 35,
+          "second": 21,
+          "value": 25.5
+        },
+        {
+          "time": "2025-02-04 22:41:19",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 41,
+          "second": 19,
+          "value": 25.7
+        },
+        {
+          "time": "2025-02-04 22:47:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 47,
+          "second": 18,
+          "value": 25.4
+        },
+        {
+          "time": "2025-02-04 22:53:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 53,
+          "second": 15,
+          "value": 25.3
+        },
+        {
+          "time": "2025-02-04 22:59:13",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 59,
+          "second": 13,
+          "value": 25.4
+        },
+        {
+          "time": "2025-02-04 23:05:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 5,
+          "second": 11,
+          "value": 25.8
+        },
+        {
+          "time": "2025-02-04 23:13:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 13,
+          "second": 8,
+          "value": 25.8
+        },
+        {
+          "time": "2025-02-04 23:19:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 19,
+          "second": 8,
+          "value": 26.3
+        },
+        {
+          "time": "2025-02-04 23:25:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 25,
+          "second": 5,
+          "value": 26.7
+        },
+        {
+          "time": "2025-02-04 23:31:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 31,
+          "second": 3,
+          "value": 26.5
+        },
+        {
+          "time": "2025-02-04 23:37:02",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 37,
+          "second": 2,
+          "value": 25.9
+        },
+        {
+          "time": "2025-02-04 23:43:00",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 43,
+          "second": 0,
+          "value": 25.6
+        },
+        {
+          "time": "2025-02-04 23:48:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 48,
+          "second": 58,
+          "value": 25.8
+        },
+        {
+          "time": "2025-02-04 23:54:56",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 54,
+          "second": 56,
+          "value": 25.7
+        }
+      ]
+    },
+    "vBat": {
+      "unit": "V",
+      "maxValueText": "53.5",
+      "avgValueText": "52.8",
+      "points": [
+        {
+          "time": "2025-02-04 00:45:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 45,
+          "second": 30,
+          "value": 51.5
+        },
+        {
+          "time": "2025-02-04 00:51:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 51,
+          "second": 29,
+          "value": 51.5
+        },
+        {
+          "time": "2025-02-04 03:06:48",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 6,
+          "second": 48,
+          "value": 53.3
+        },
+        {
+          "time": "2025-02-04 03:12:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 12,
+          "second": 45,
+          "value": 53.0
+        },
+        {
+          "time": "2025-02-04 03:18:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 18,
+          "second": 43,
+          "value": 53.0
+        },
+        {
+          "time": "2025-02-04 05:02:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 5,
+          "minute": 2,
+          "second": 12,
+          "value": 52.2
+        },
+        {
+          "time": "2025-02-04 06:37:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 6,
+          "minute": 37,
+          "second": 42,
+          "value": 52.9
+        },
+        {
+          "time": "2025-02-04 07:23:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 23,
+          "second": 30,
+          "value": 53.4
+        },
+        {
+          "time": "2025-02-04 07:33:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 33,
+          "second": 26,
+          "value": 53.5
+        },
+        {
+          "time": "2025-02-04 09:58:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 9,
+          "minute": 58,
+          "second": 42,
+          "value": 53.4
+        },
+        {
+          "time": "2025-02-04 12:34:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 34,
+          "second": 12,
+          "value": 53.4
+        },
+        {
+          "time": "2025-02-04 12:53:49",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 53,
+          "second": 49,
+          "value": 53.4
+        },
+        {
+          "time": "2025-02-04 12:59:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 59,
+          "second": 46,
+          "value": 53.4
+        },
+        {
+          "time": "2025-02-04 13:05:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 13,
+          "minute": 5,
+          "second": 46,
+          "value": 53.4
+        },
+        {
+          "time": "2025-02-04 14:51:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 14,
+          "minute": 51,
+          "second": 11,
+          "value": 53.4
+        },
+        {
+          "time": "2025-02-04 15:19:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 15,
+          "minute": 19,
+          "second": 3,
+          "value": 53.4
+        },
+        {
+          "time": "2025-02-04 16:42:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 42,
+          "second": 38,
+          "value": 53.4
+        },
+        {
+          "time": "2025-02-04 16:48:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 48,
+          "second": 35,
+          "value": 53.3
+        },
+        {
+          "time": "2025-02-04 16:54:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 54,
+          "second": 33,
+          "value": 53.5
+        },
+        {
+          "time": "2025-02-04 17:00:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 0,
+          "second": 33,
+          "value": 53.4
+        },
+        {
+          "time": "2025-02-04 17:06:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 6,
+          "second": 30,
+          "value": 53.4
+        },
+        {
+          "time": "2025-02-04 17:12:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 12,
+          "second": 28,
+          "value": 53.4
+        },
+        {
+          "time": "2025-02-04 17:18:27",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 18,
+          "second": 27,
+          "value": 53.4
+        },
+        {
+          "time": "2025-02-04 17:52:16",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 52,
+          "second": 16,
+          "value": 52.9
+        },
+        {
+          "time": "2025-02-04 18:46:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 46,
+          "second": 30,
+          "value": 53.2
+        },
+        {
+          "time": "2025-02-04 18:52:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 52,
+          "second": 28,
+          "value": 53.1
+        },
+        {
+          "time": "2025-02-04 18:58:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 58,
+          "second": 26,
+          "value": 53.1
+        },
+        {
+          "time": "2025-02-04 19:04:24",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 4,
+          "second": 24,
+          "value": 53.1
+        },
+        {
+          "time": "2025-02-04 19:10:23",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 10,
+          "second": 23,
+          "value": 53.1
+        },
+        {
+          "time": "2025-02-04 19:16:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 16,
+          "second": 22,
+          "value": 53.1
+        },
+        {
+          "time": "2025-02-04 19:22:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 22,
+          "second": 18,
+          "value": 53.1
+        },
+        {
+          "time": "2025-02-04 19:28:17",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 28,
+          "second": 17,
+          "value": 53.0
+        },
+        {
+          "time": "2025-02-04 19:34:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 34,
+          "second": 15,
+          "value": 53.0
+        },
+        {
+          "time": "2025-02-04 19:40:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 40,
+          "second": 15,
+          "value": 53.0
+        },
+        {
+          "time": "2025-02-04 19:46:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 46,
+          "second": 12,
+          "value": 53.0
+        },
+        {
+          "time": "2025-02-04 19:52:09",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 52,
+          "second": 9,
+          "value": 53.0
+        },
+        {
+          "time": "2025-02-04 19:58:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 58,
+          "second": 8,
+          "value": 52.9
+        },
+        {
+          "time": "2025-02-04 20:04:07",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 4,
+          "second": 7,
+          "value": 52.9
+        },
+        {
+          "time": "2025-02-04 20:10:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 10,
+          "second": 5,
+          "value": 52.9
+        },
+        {
+          "time": "2025-02-04 20:16:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 16,
+          "second": 3,
+          "value": 52.9
+        },
+        {
+          "time": "2025-02-04 20:22:01",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 22,
+          "second": 1,
+          "value": 52.8
+        },
+        {
+          "time": "2025-02-04 20:27:59",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 27,
+          "second": 59,
+          "value": 52.7
+        },
+        {
+          "time": "2025-02-04 20:33:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 33,
+          "second": 58,
+          "value": 52.6
+        },
+        {
+          "time": "2025-02-04 20:39:55",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 39,
+          "second": 55,
+          "value": 52.5
+        },
+        {
+          "time": "2025-02-04 20:45:53",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 45,
+          "second": 53,
+          "value": 52.5
+        },
+        {
+          "time": "2025-02-04 20:51:54",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 51,
+          "second": 54,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 20:57:52",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 57,
+          "second": 52,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 21:05:50",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 5,
+          "second": 50,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 21:11:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 11,
+          "second": 46,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 21:17:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 17,
+          "second": 45,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 21:23:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 23,
+          "second": 43,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 21:29:41",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 29,
+          "second": 41,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 21:35:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 35,
+          "second": 38,
+          "value": 52.3
+        },
+        {
+          "time": "2025-02-04 21:41:36",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 41,
+          "second": 36,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 21:47:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 47,
+          "second": 35,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 21:53:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 53,
+          "second": 33,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 21:59:32",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 59,
+          "second": 32,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 22:05:31",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 5,
+          "second": 31,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 22:11:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 11,
+          "second": 29,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 22:17:25",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 17,
+          "second": 25,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 22:23:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 23,
+          "second": 26,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 22:29:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 29,
+          "second": 22,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 22:35:21",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 35,
+          "second": 21,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 22:41:19",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 41,
+          "second": 19,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 22:47:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 47,
+          "second": 18,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 22:53:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 53,
+          "second": 15,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 22:59:13",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 59,
+          "second": 13,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 23:05:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 5,
+          "second": 11,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 23:13:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 13,
+          "second": 8,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 23:19:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 19,
+          "second": 8,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 23:25:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 25,
+          "second": 5,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 23:31:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 31,
+          "second": 3,
+          "value": 52.3
+        },
+        {
+          "time": "2025-02-04 23:37:02",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 37,
+          "second": 2,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 23:43:00",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 43,
+          "second": 0,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 23:48:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 48,
+          "second": 58,
+          "value": 52.4
+        },
+        {
+          "time": "2025-02-04 23:54:56",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 54,
+          "second": 56,
+          "value": 52.3
+        }
+      ]
+    },
+    "soc": {
+      "unit": "%",
+      "maxValueText": "100",
+      "avgValueText": "73",
+      "points": [
+        {
+          "time": "2025-02-04 00:45:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 45,
+          "second": 30,
+          "value": 36.0
+        },
+        {
+          "time": "2025-02-04 00:51:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 51,
+          "second": 29,
+          "value": 35.0
+        },
+        {
+          "time": "2025-02-04 03:06:48",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 6,
+          "second": 48,
+          "value": 50.0
+        },
+        {
+          "time": "2025-02-04 03:12:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 12,
+          "second": 45,
+          "value": 51.0
+        },
+        {
+          "time": "2025-02-04 03:18:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 18,
+          "second": 43,
+          "value": 51.0
+        },
+        {
+          "time": "2025-02-04 05:02:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 5,
+          "minute": 2,
+          "second": 12,
+          "value": 43.0
+        },
+        {
+          "time": "2025-02-04 06:37:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 6,
+          "minute": 37,
+          "second": 42,
+          "value": 31.0
+        },
+        {
+          "time": "2025-02-04 07:23:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 23,
+          "second": 30,
+          "value": 43.0
+        },
+        {
+          "time": "2025-02-04 07:33:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 33,
+          "second": 26,
+          "value": 46.0
+        },
+        {
+          "time": "2025-02-04 09:58:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 9,
+          "minute": 58,
+          "second": 42,
+          "value": 58.0
+        },
+        {
+          "time": "2025-02-04 12:34:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 34,
+          "second": 12,
+          "value": 99.0
+        },
+        {
+          "time": "2025-02-04 12:53:49",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 53,
+          "second": 49,
+          "value": 100.0
+        },
+        {
+          "time": "2025-02-04 12:59:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 59,
+          "second": 46,
+          "value": 100.0
+        },
+        {
+          "time": "2025-02-04 13:05:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 13,
+          "minute": 5,
+          "second": 46,
+          "value": 100.0
+        },
+        {
+          "time": "2025-02-04 14:51:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 14,
+          "minute": 51,
+          "second": 11,
+          "value": 99.0
+        },
+        {
+          "time": "2025-02-04 15:19:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 15,
+          "minute": 19,
+          "second": 3,
+          "value": 100.0
+        },
+        {
+          "time": "2025-02-04 16:42:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 42,
+          "second": 38,
+          "value": 100.0
+        },
+        {
+          "time": "2025-02-04 16:48:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 48,
+          "second": 35,
+          "value": 99.0
+        },
+        {
+          "time": "2025-02-04 16:54:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 54,
+          "second": 33,
+          "value": 100.0
+        },
+        {
+          "time": "2025-02-04 17:00:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 0,
+          "second": 33,
+          "value": 100.0
+        },
+        {
+          "time": "2025-02-04 17:06:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 6,
+          "second": 30,
+          "value": 100.0
+        },
+        {
+          "time": "2025-02-04 17:12:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 12,
+          "second": 28,
+          "value": 100.0
+        },
+        {
+          "time": "2025-02-04 17:18:27",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 18,
+          "second": 27,
+          "value": 100.0
+        },
+        {
+          "time": "2025-02-04 17:52:16",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 52,
+          "second": 16,
+          "value": 99.0
+        },
+        {
+          "time": "2025-02-04 18:46:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 46,
+          "second": 30,
+          "value": 92.0
+        },
+        {
+          "time": "2025-02-04 18:52:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 52,
+          "second": 28,
+          "value": 91.0
+        },
+        {
+          "time": "2025-02-04 18:58:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 58,
+          "second": 26,
+          "value": 90.0
+        },
+        {
+          "time": "2025-02-04 19:04:24",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 4,
+          "second": 24,
+          "value": 90.0
+        },
+        {
+          "time": "2025-02-04 19:10:23",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 10,
+          "second": 23,
+          "value": 89.0
+        },
+        {
+          "time": "2025-02-04 19:16:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 16,
+          "second": 22,
+          "value": 89.0
+        },
+        {
+          "time": "2025-02-04 19:22:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 22,
+          "second": 18,
+          "value": 88.0
+        },
+        {
+          "time": "2025-02-04 19:28:17",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 28,
+          "second": 17,
+          "value": 87.0
+        },
+        {
+          "time": "2025-02-04 19:34:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 34,
+          "second": 15,
+          "value": 86.0
+        },
+        {
+          "time": "2025-02-04 19:40:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 40,
+          "second": 15,
+          "value": 86.0
+        },
+        {
+          "time": "2025-02-04 19:46:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 46,
+          "second": 12,
+          "value": 85.0
+        },
+        {
+          "time": "2025-02-04 19:52:09",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 52,
+          "second": 9,
+          "value": 84.0
+        },
+        {
+          "time": "2025-02-04 19:58:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 58,
+          "second": 8,
+          "value": 83.0
+        },
+        {
+          "time": "2025-02-04 20:04:07",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 4,
+          "second": 7,
+          "value": 82.0
+        },
+        {
+          "time": "2025-02-04 20:10:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 10,
+          "second": 5,
+          "value": 82.0
+        },
+        {
+          "time": "2025-02-04 20:16:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 16,
+          "second": 3,
+          "value": 81.0
+        },
+        {
+          "time": "2025-02-04 20:22:01",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 22,
+          "second": 1,
+          "value": 80.0
+        },
+        {
+          "time": "2025-02-04 20:27:59",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 27,
+          "second": 59,
+          "value": 79.0
+        },
+        {
+          "time": "2025-02-04 20:33:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 33,
+          "second": 58,
+          "value": 78.0
+        },
+        {
+          "time": "2025-02-04 20:39:55",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 39,
+          "second": 55,
+          "value": 77.0
+        },
+        {
+          "time": "2025-02-04 20:45:53",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 45,
+          "second": 53,
+          "value": 76.0
+        },
+        {
+          "time": "2025-02-04 20:51:54",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 51,
+          "second": 54,
+          "value": 76.0
+        },
+        {
+          "time": "2025-02-04 20:57:52",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 57,
+          "second": 52,
+          "value": 75.0
+        },
+        {
+          "time": "2025-02-04 21:05:50",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 5,
+          "second": 50,
+          "value": 74.0
+        },
+        {
+          "time": "2025-02-04 21:11:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 11,
+          "second": 46,
+          "value": 72.0
+        },
+        {
+          "time": "2025-02-04 21:17:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 17,
+          "second": 45,
+          "value": 71.0
+        },
+        {
+          "time": "2025-02-04 21:23:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 23,
+          "second": 43,
+          "value": 71.0
+        },
+        {
+          "time": "2025-02-04 21:29:41",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 29,
+          "second": 41,
+          "value": 70.0
+        },
+        {
+          "time": "2025-02-04 21:35:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 35,
+          "second": 38,
+          "value": 68.0
+        },
+        {
+          "time": "2025-02-04 21:41:36",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 41,
+          "second": 36,
+          "value": 67.0
+        },
+        {
+          "time": "2025-02-04 21:47:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 47,
+          "second": 35,
+          "value": 66.0
+        },
+        {
+          "time": "2025-02-04 21:53:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 53,
+          "second": 33,
+          "value": 65.0
+        },
+        {
+          "time": "2025-02-04 21:59:32",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 59,
+          "second": 32,
+          "value": 64.0
+        },
+        {
+          "time": "2025-02-04 22:05:31",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 5,
+          "second": 31,
+          "value": 63.0
+        },
+        {
+          "time": "2025-02-04 22:11:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 11,
+          "second": 29,
+          "value": 63.0
+        },
+        {
+          "time": "2025-02-04 22:17:25",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 17,
+          "second": 25,
+          "value": 62.0
+        },
+        {
+          "time": "2025-02-04 22:23:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 23,
+          "second": 26,
+          "value": 61.0
+        },
+        {
+          "time": "2025-02-04 22:29:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 29,
+          "second": 22,
+          "value": 61.0
+        },
+        {
+          "time": "2025-02-04 22:35:21",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 35,
+          "second": 21,
+          "value": 60.0
+        },
+        {
+          "time": "2025-02-04 22:41:19",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 41,
+          "second": 19,
+          "value": 60.0
+        },
+        {
+          "time": "2025-02-04 22:47:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 47,
+          "second": 18,
+          "value": 59.0
+        },
+        {
+          "time": "2025-02-04 22:53:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 53,
+          "second": 15,
+          "value": 58.0
+        },
+        {
+          "time": "2025-02-04 22:59:13",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 59,
+          "second": 13,
+          "value": 58.0
+        },
+        {
+          "time": "2025-02-04 23:05:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 5,
+          "second": 11,
+          "value": 57.0
+        },
+        {
+          "time": "2025-02-04 23:13:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 13,
+          "second": 8,
+          "value": 56.0
+        },
+        {
+          "time": "2025-02-04 23:19:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 19,
+          "second": 8,
+          "value": 56.0
+        },
+        {
+          "time": "2025-02-04 23:25:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 25,
+          "second": 5,
+          "value": 55.0
+        },
+        {
+          "time": "2025-02-04 23:31:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 31,
+          "second": 3,
+          "value": 54.0
+        },
+        {
+          "time": "2025-02-04 23:37:02",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 37,
+          "second": 2,
+          "value": 53.0
+        },
+        {
+          "time": "2025-02-04 23:43:00",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 43,
+          "second": 0,
+          "value": 53.0
+        },
+        {
+          "time": "2025-02-04 23:48:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 48,
+          "second": 58,
+          "value": 52.0
+        },
+        {
+          "time": "2025-02-04 23:54:56",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 54,
+          "second": 56,
+          "value": 52.0
+        }
+      ]
+    },
+    "pToUser": {
+      "unit": "W",
+      "maxValueText": "2723",
+      "avgValueText": "123",
+      "points": [
+        {
+          "time": "2025-02-04 00:45:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 45,
+          "second": 30,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 00:51:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 51,
+          "second": 29,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 03:06:48",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 6,
+          "second": 48,
+          "value": 2013.0
+        },
+        {
+          "time": "2025-02-04 03:12:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 12,
+          "second": 45,
+          "value": 463.0
+        },
+        {
+          "time": "2025-02-04 03:18:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 18,
+          "second": 43,
+          "value": 464.0
+        },
+        {
+          "time": "2025-02-04 05:02:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 5,
+          "minute": 2,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 06:37:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 6,
+          "minute": 37,
+          "second": 42,
+          "value": 1802.0
+        },
+        {
+          "time": "2025-02-04 07:23:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 23,
+          "second": 30,
+          "value": 2723.0
+        },
+        {
+          "time": "2025-02-04 07:33:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 33,
+          "second": 26,
+          "value": 1882.0
+        },
+        {
+          "time": "2025-02-04 09:58:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 9,
+          "minute": 58,
+          "second": 42,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 12:34:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 34,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 12:53:49",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 53,
+          "second": 49,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 12:59:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 59,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 13:05:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 13,
+          "minute": 5,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 14:51:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 14,
+          "minute": 51,
+          "second": 11,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 15:19:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 15,
+          "minute": 19,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 16:42:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 42,
+          "second": 38,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 16:48:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 48,
+          "second": 35,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 16:54:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 54,
+          "second": 33,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:00:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 0,
+          "second": 33,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:06:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 6,
+          "second": 30,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:12:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 12,
+          "second": 28,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:18:27",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 18,
+          "second": 27,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:52:16",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 52,
+          "second": 16,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 18:46:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 46,
+          "second": 30,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 18:52:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 52,
+          "second": 28,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 18:58:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 58,
+          "second": 26,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:04:24",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 4,
+          "second": 24,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:10:23",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 10,
+          "second": 23,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:16:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 16,
+          "second": 22,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:22:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 22,
+          "second": 18,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:28:17",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 28,
+          "second": 17,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:34:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 34,
+          "second": 15,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:40:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 40,
+          "second": 15,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:46:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 46,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:52:09",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 52,
+          "second": 9,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:58:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 58,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:04:07",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 4,
+          "second": 7,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:10:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 10,
+          "second": 5,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:16:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 16,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:22:01",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 22,
+          "second": 1,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:27:59",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 27,
+          "second": 59,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:33:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 33,
+          "second": 58,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:39:55",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 39,
+          "second": 55,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:45:53",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 45,
+          "second": 53,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:51:54",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 51,
+          "second": 54,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:57:52",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 57,
+          "second": 52,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:05:50",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 5,
+          "second": 50,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:11:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 11,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:17:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 17,
+          "second": 45,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:23:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 23,
+          "second": 43,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:29:41",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 29,
+          "second": 41,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:35:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 35,
+          "second": 38,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:41:36",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 41,
+          "second": 36,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:47:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 47,
+          "second": 35,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:53:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 53,
+          "second": 33,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:59:32",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 59,
+          "second": 32,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:05:31",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 5,
+          "second": 31,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:11:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 11,
+          "second": 29,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:17:25",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 17,
+          "second": 25,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:23:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 23,
+          "second": 26,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:29:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 29,
+          "second": 22,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:35:21",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 35,
+          "second": 21,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:41:19",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 41,
+          "second": 19,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:47:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 47,
+          "second": 18,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:53:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 53,
+          "second": 15,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:59:13",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 59,
+          "second": 13,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:05:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 5,
+          "second": 11,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:13:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 13,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:19:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 19,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:25:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 25,
+          "second": 5,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:31:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 31,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:37:02",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 37,
+          "second": 2,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:43:00",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 43,
+          "second": 0,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:48:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 48,
+          "second": 58,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:54:56",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 54,
+          "second": 56,
+          "value": 0.0
+        }
+      ]
+    },
+    "pToGrid": {
+      "unit": "W",
+      "maxValueText": "0",
+      "avgValueText": "0",
+      "points": [
+        {
+          "time": "2025-02-04 00:45:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 45,
+          "second": 30,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 00:51:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 51,
+          "second": 29,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 03:06:48",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 6,
+          "second": 48,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 03:12:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 12,
+          "second": 45,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 03:18:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 18,
+          "second": 43,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 05:02:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 5,
+          "minute": 2,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 06:37:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 6,
+          "minute": 37,
+          "second": 42,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 07:23:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 23,
+          "second": 30,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 07:33:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 33,
+          "second": 26,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 09:58:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 9,
+          "minute": 58,
+          "second": 42,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 12:34:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 34,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 12:53:49",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 53,
+          "second": 49,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 12:59:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 59,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 13:05:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 13,
+          "minute": 5,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 14:51:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 14,
+          "minute": 51,
+          "second": 11,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 15:19:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 15,
+          "minute": 19,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 16:42:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 42,
+          "second": 38,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 16:48:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 48,
+          "second": 35,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 16:54:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 54,
+          "second": 33,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:00:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 0,
+          "second": 33,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:06:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 6,
+          "second": 30,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:12:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 12,
+          "second": 28,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:18:27",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 18,
+          "second": 27,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:52:16",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 52,
+          "second": 16,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 18:46:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 46,
+          "second": 30,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 18:52:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 52,
+          "second": 28,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 18:58:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 58,
+          "second": 26,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:04:24",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 4,
+          "second": 24,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:10:23",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 10,
+          "second": 23,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:16:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 16,
+          "second": 22,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:22:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 22,
+          "second": 18,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:28:17",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 28,
+          "second": 17,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:34:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 34,
+          "second": 15,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:40:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 40,
+          "second": 15,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:46:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 46,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:52:09",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 52,
+          "second": 9,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:58:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 58,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:04:07",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 4,
+          "second": 7,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:10:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 10,
+          "second": 5,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:16:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 16,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:22:01",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 22,
+          "second": 1,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:27:59",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 27,
+          "second": 59,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:33:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 33,
+          "second": 58,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:39:55",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 39,
+          "second": 55,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:45:53",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 45,
+          "second": 53,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:51:54",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 51,
+          "second": 54,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:57:52",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 57,
+          "second": 52,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:05:50",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 5,
+          "second": 50,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:11:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 11,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:17:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 17,
+          "second": 45,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:23:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 23,
+          "second": 43,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:29:41",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 29,
+          "second": 41,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:35:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 35,
+          "second": 38,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:41:36",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 41,
+          "second": 36,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:47:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 47,
+          "second": 35,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:53:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 53,
+          "second": 33,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:59:32",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 59,
+          "second": 32,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:05:31",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 5,
+          "second": 31,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:11:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 11,
+          "second": 29,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:17:25",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 17,
+          "second": 25,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:23:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 23,
+          "second": 26,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:29:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 29,
+          "second": 22,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:35:21",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 35,
+          "second": 21,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:41:19",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 41,
+          "second": 19,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:47:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 47,
+          "second": 18,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:53:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 53,
+          "second": 15,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:59:13",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 59,
+          "second": 13,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:05:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 5,
+          "second": 11,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:13:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 13,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:19:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 19,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:25:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 25,
+          "second": 5,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:31:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 31,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:37:02",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 37,
+          "second": 2,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:43:00",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 43,
+          "second": 0,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:48:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 48,
+          "second": 58,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:54:56",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 54,
+          "second": 56,
+          "value": 0.0
+        }
+      ]
+    },
+    "pCharge": {
+      "unit": "W",
+      "maxValueText": "1962",
+      "avgValueText": "109.2",
+      "points": [
+        {
+          "time": "2025-02-04 00:45:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 45,
+          "second": 30,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 00:51:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 51,
+          "second": 29,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 03:06:48",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 6,
+          "second": 48,
+          "value": 1316.0
+        },
+        {
+          "time": "2025-02-04 03:12:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 12,
+          "second": 45,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 03:18:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 18,
+          "second": 43,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 05:02:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 5,
+          "minute": 2,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 06:37:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 6,
+          "minute": 37,
+          "second": 42,
+          "value": 1473.0
+        },
+        {
+          "time": "2025-02-04 07:23:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 23,
+          "second": 30,
+          "value": 1820.0
+        },
+        {
+          "time": "2025-02-04 07:33:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 33,
+          "second": 26,
+          "value": 1962.0
+        },
+        {
+          "time": "2025-02-04 09:58:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 9,
+          "minute": 58,
+          "second": 42,
+          "value": 1730.0
+        },
+        {
+          "time": "2025-02-04 12:34:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 34,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 12:53:49",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 53,
+          "second": 49,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 12:59:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 59,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 13:05:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 13,
+          "minute": 5,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 14:51:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 14,
+          "minute": 51,
+          "second": 11,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 15:19:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 15,
+          "minute": 19,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 16:42:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 42,
+          "second": 38,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 16:48:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 48,
+          "second": 35,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 16:54:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 54,
+          "second": 33,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:00:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 0,
+          "second": 33,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:06:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 6,
+          "second": 30,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:12:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 12,
+          "second": 28,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:18:27",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 18,
+          "second": 27,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:52:16",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 52,
+          "second": 16,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 18:46:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 46,
+          "second": 30,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 18:52:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 52,
+          "second": 28,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 18:58:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 58,
+          "second": 26,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:04:24",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 4,
+          "second": 24,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:10:23",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 10,
+          "second": 23,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:16:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 16,
+          "second": 22,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:22:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 22,
+          "second": 18,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:28:17",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 28,
+          "second": 17,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:34:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 34,
+          "second": 15,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:40:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 40,
+          "second": 15,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:46:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 46,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:52:09",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 52,
+          "second": 9,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 19:58:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 58,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:04:07",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 4,
+          "second": 7,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:10:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 10,
+          "second": 5,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:16:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 16,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:22:01",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 22,
+          "second": 1,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:27:59",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 27,
+          "second": 59,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:33:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 33,
+          "second": 58,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:39:55",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 39,
+          "second": 55,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:45:53",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 45,
+          "second": 53,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:51:54",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 51,
+          "second": 54,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 20:57:52",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 57,
+          "second": 52,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:05:50",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 5,
+          "second": 50,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:11:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 11,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:17:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 17,
+          "second": 45,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:23:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 23,
+          "second": 43,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:29:41",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 29,
+          "second": 41,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:35:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 35,
+          "second": 38,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:41:36",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 41,
+          "second": 36,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:47:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 47,
+          "second": 35,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:53:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 53,
+          "second": 33,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 21:59:32",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 59,
+          "second": 32,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:05:31",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 5,
+          "second": 31,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:11:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 11,
+          "second": 29,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:17:25",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 17,
+          "second": 25,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:23:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 23,
+          "second": 26,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:29:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 29,
+          "second": 22,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:35:21",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 35,
+          "second": 21,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:41:19",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 41,
+          "second": 19,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:47:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 47,
+          "second": 18,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:53:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 53,
+          "second": 15,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 22:59:13",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 59,
+          "second": 13,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:05:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 5,
+          "second": 11,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:13:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 13,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:19:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 19,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:25:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 25,
+          "second": 5,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:31:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 31,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:37:02",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 37,
+          "second": 2,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:43:00",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 43,
+          "second": 0,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:48:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 48,
+          "second": 58,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 23:54:56",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 54,
+          "second": 56,
+          "value": 0.0
+        }
+      ]
+    },
+    "pDischarge": {
+      "unit": "",
+      "maxValueText": "1645",
+      "avgValueText": "582.2",
+      "points": [
+        {
+          "time": "2025-02-04 00:45:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 45,
+          "second": 30,
+          "value": 1535.0
+        },
+        {
+          "time": "2025-02-04 00:51:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 0,
+          "minute": 51,
+          "second": 29,
+          "value": 1521.0
+        },
+        {
+          "time": "2025-02-04 03:06:48",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 6,
+          "second": 48,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 03:12:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 12,
+          "second": 45,
+          "value": 14.0
+        },
+        {
+          "time": "2025-02-04 03:18:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 3,
+          "minute": 18,
+          "second": 43,
+          "value": 14.0
+        },
+        {
+          "time": "2025-02-04 05:02:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 5,
+          "minute": 2,
+          "second": 12,
+          "value": 737.0
+        },
+        {
+          "time": "2025-02-04 06:37:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 6,
+          "minute": 37,
+          "second": 42,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 07:23:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 23,
+          "second": 30,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 07:33:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 7,
+          "minute": 33,
+          "second": 26,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 09:58:42",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 9,
+          "minute": 58,
+          "second": 42,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 12:34:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 34,
+          "second": 12,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 12:53:49",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 53,
+          "second": 49,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 12:59:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 12,
+          "minute": 59,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 13:05:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 13,
+          "minute": 5,
+          "second": 46,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 14:51:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 14,
+          "minute": 51,
+          "second": 11,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 15:19:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 15,
+          "minute": 19,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 16:42:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 42,
+          "second": 38,
+          "value": 362.0
+        },
+        {
+          "time": "2025-02-04 16:48:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 48,
+          "second": 35,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 16:54:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 16,
+          "minute": 54,
+          "second": 33,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:00:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 0,
+          "second": 33,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:06:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 6,
+          "second": 30,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:12:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 12,
+          "second": 28,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:18:27",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 18,
+          "second": 27,
+          "value": 0.0
+        },
+        {
+          "time": "2025-02-04 17:52:16",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 17,
+          "minute": 52,
+          "second": 16,
+          "value": 1645.0
+        },
+        {
+          "time": "2025-02-04 18:46:30",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 46,
+          "second": 30,
+          "value": 307.0
+        },
+        {
+          "time": "2025-02-04 18:52:28",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 52,
+          "second": 28,
+          "value": 414.0
+        },
+        {
+          "time": "2025-02-04 18:58:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 18,
+          "minute": 58,
+          "second": 26,
+          "value": 605.0
+        },
+        {
+          "time": "2025-02-04 19:04:24",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 4,
+          "second": 24,
+          "value": 620.0
+        },
+        {
+          "time": "2025-02-04 19:10:23",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 10,
+          "second": 23,
+          "value": 636.0
+        },
+        {
+          "time": "2025-02-04 19:16:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 16,
+          "second": 22,
+          "value": 634.0
+        },
+        {
+          "time": "2025-02-04 19:22:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 22,
+          "second": 18,
+          "value": 689.0
+        },
+        {
+          "time": "2025-02-04 19:28:17",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 28,
+          "second": 17,
+          "value": 739.0
+        },
+        {
+          "time": "2025-02-04 19:34:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 34,
+          "second": 15,
+          "value": 718.0
+        },
+        {
+          "time": "2025-02-04 19:40:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 40,
+          "second": 15,
+          "value": 848.0
+        },
+        {
+          "time": "2025-02-04 19:46:12",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 46,
+          "second": 12,
+          "value": 880.0
+        },
+        {
+          "time": "2025-02-04 19:52:09",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 52,
+          "second": 9,
+          "value": 874.0
+        },
+        {
+          "time": "2025-02-04 19:58:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 19,
+          "minute": 58,
+          "second": 8,
+          "value": 884.0
+        },
+        {
+          "time": "2025-02-04 20:04:07",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 4,
+          "second": 7,
+          "value": 871.0
+        },
+        {
+          "time": "2025-02-04 20:10:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 10,
+          "second": 5,
+          "value": 836.0
+        },
+        {
+          "time": "2025-02-04 20:16:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 16,
+          "second": 3,
+          "value": 833.0
+        },
+        {
+          "time": "2025-02-04 20:22:01",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 22,
+          "second": 1,
+          "value": 913.0
+        },
+        {
+          "time": "2025-02-04 20:27:59",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 27,
+          "second": 59,
+          "value": 938.0
+        },
+        {
+          "time": "2025-02-04 20:33:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 33,
+          "second": 58,
+          "value": 951.0
+        },
+        {
+          "time": "2025-02-04 20:39:55",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 39,
+          "second": 55,
+          "value": 960.0
+        },
+        {
+          "time": "2025-02-04 20:45:53",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 45,
+          "second": 53,
+          "value": 954.0
+        },
+        {
+          "time": "2025-02-04 20:51:54",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 51,
+          "second": 54,
+          "value": 939.0
+        },
+        {
+          "time": "2025-02-04 20:57:52",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 20,
+          "minute": 57,
+          "second": 52,
+          "value": 948.0
+        },
+        {
+          "time": "2025-02-04 21:05:50",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 5,
+          "second": 50,
+          "value": 796.0
+        },
+        {
+          "time": "2025-02-04 21:11:46",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 11,
+          "second": 46,
+          "value": 827.0
+        },
+        {
+          "time": "2025-02-04 21:17:45",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 17,
+          "second": 45,
+          "value": 837.0
+        },
+        {
+          "time": "2025-02-04 21:23:43",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 23,
+          "second": 43,
+          "value": 801.0
+        },
+        {
+          "time": "2025-02-04 21:29:41",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 29,
+          "second": 41,
+          "value": 901.0
+        },
+        {
+          "time": "2025-02-04 21:35:38",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 35,
+          "second": 38,
+          "value": 860.0
+        },
+        {
+          "time": "2025-02-04 21:41:36",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 41,
+          "second": 36,
+          "value": 886.0
+        },
+        {
+          "time": "2025-02-04 21:47:35",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 47,
+          "second": 35,
+          "value": 904.0
+        },
+        {
+          "time": "2025-02-04 21:53:33",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 53,
+          "second": 33,
+          "value": 848.0
+        },
+        {
+          "time": "2025-02-04 21:59:32",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 21,
+          "minute": 59,
+          "second": 32,
+          "value": 822.0
+        },
+        {
+          "time": "2025-02-04 22:05:31",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 5,
+          "second": 31,
+          "value": 817.0
+        },
+        {
+          "time": "2025-02-04 22:11:29",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 11,
+          "second": 29,
+          "value": 667.0
+        },
+        {
+          "time": "2025-02-04 22:17:25",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 17,
+          "second": 25,
+          "value": 645.0
+        },
+        {
+          "time": "2025-02-04 22:23:26",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 23,
+          "second": 26,
+          "value": 650.0
+        },
+        {
+          "time": "2025-02-04 22:29:22",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 29,
+          "second": 22,
+          "value": 638.0
+        },
+        {
+          "time": "2025-02-04 22:35:21",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 35,
+          "second": 21,
+          "value": 641.0
+        },
+        {
+          "time": "2025-02-04 22:41:19",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 41,
+          "second": 19,
+          "value": 643.0
+        },
+        {
+          "time": "2025-02-04 22:47:18",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 47,
+          "second": 18,
+          "value": 626.0
+        },
+        {
+          "time": "2025-02-04 22:53:15",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 53,
+          "second": 15,
+          "value": 625.0
+        },
+        {
+          "time": "2025-02-04 22:59:13",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 22,
+          "minute": 59,
+          "second": 13,
+          "value": 630.0
+        },
+        {
+          "time": "2025-02-04 23:05:11",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 5,
+          "second": 11,
+          "value": 623.0
+        },
+        {
+          "time": "2025-02-04 23:13:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 13,
+          "second": 8,
+          "value": 644.0
+        },
+        {
+          "time": "2025-02-04 23:19:08",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 19,
+          "second": 8,
+          "value": 634.0
+        },
+        {
+          "time": "2025-02-04 23:25:05",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 25,
+          "second": 5,
+          "value": 628.0
+        },
+        {
+          "time": "2025-02-04 23:31:03",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 31,
+          "second": 3,
+          "value": 654.0
+        },
+        {
+          "time": "2025-02-04 23:37:02",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 37,
+          "second": 2,
+          "value": 562.0
+        },
+        {
+          "time": "2025-02-04 23:43:00",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 43,
+          "second": 0,
+          "value": 546.0
+        },
+        {
+          "time": "2025-02-04 23:48:58",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 48,
+          "second": 58,
+          "value": 542.0
+        },
+        {
+          "time": "2025-02-04 23:54:56",
+          "year": 2025,
+          "month": 1,
+          "day": 4,
+          "hour": 23,
+          "minute": 54,
+          "second": 56,
+          "value": 534.0
+        }
+      ]
+    }
+  }
+}

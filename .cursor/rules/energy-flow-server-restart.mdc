@@ -1,0 +1,45 @@
+---
+description: Restart energy-flow dashboard server after backend edits (port 8765)
+globs: "**/energy_flow/**,**/luxpower_fetch*.py"
+alwaysApply: false
+---
+
+# Energy-flow dashboard — restart server after changes
+
+When you **create or edit** files that affect the local dashboard at `http://127.0.0.1:8765/`, **stop and restart the server yourself** before telling the user to test. Do not ask the user to restart manually.
+
+## When to restart
+
+**Always restart** after changes to:
+
+- `energy_flow/server.py`
+- Any other `energy_flow/*.py` (e.g. `modbus_client.py`, `history_loader.py`, `live_buffer.py`)
+- `luxpower_fetch_month.py` or other modules imported by the server
+
+**Static-only changes** (`energy_flow/static/**` — HTML, JS, CSS): server restart not required; remind user to **Ctrl+F5** hard refresh. Still restart if you also changed Python in the same task.
+
+## How to restart (Windows — run yourself)
+
+```powershell
+$p = (Get-NetTCPConnection -LocalPort 8765 -State Listen -ErrorAction SilentlyContinue | Select-Object -First 1).OwningProcess
+if ($p) { Stop-Process -Id $p -Force }
+Start-Sleep -Seconds 1
+cd "C:\Users\User\Ai Projects\Business Ideas\energy_flow"
+Start-Process python -ArgumentList "server.py" -WindowStyle Hidden
+```
+
+Verify it is listening:
+
+```powershell
+curl.exe -s -o NUL -w "%{http_code}" http://127.0.0.1:8765/api/history/sync
+```
+
+Expect `200`.
+
+## Report back
+
+After restarting, tell the user:
+
+- That the server was restarted on port **8765**
+- For static/JS changes, to **Ctrl+F5** the browser
+- If sync/API behaviour changed, to try **Sync cloud data** again

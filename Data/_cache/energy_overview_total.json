@@ -1,0 +1,36 @@
+{
+  "ok": true,
+  "mode": "total",
+  "source": "luxpower",
+  "label": "Total",
+  "years": [
+    {
+      "year": 2023,
+      "solarKwh": 868.1,
+      "batteryDischargeKwh": 757.5,
+      "importToUserKwh": 3719.1,
+      "consumptionKwh": 4100.3
+    },
+    {
+      "year": 2024,
+      "solarKwh": 4783.8,
+      "batteryDischargeKwh": 1608.4,
+      "importToUserKwh": 2542.1,
+      "consumptionKwh": 6040.5
+    },
+    {
+      "year": 2025,
+      "solarKwh": 6615.6,
+      "batteryDischargeKwh": 2619.0,
+      "importToUserKwh": 1391.3,
+      "consumptionKwh": 6400.2
+    },
+    {
+      "year": 2026,
+      "solarKwh": 2750.5,
+      "batteryDischargeKwh": 1100.8,
+      "importToUserKwh": 242.1,
+      "consumptionKwh": 2371.5
+    }
+  ]
+}

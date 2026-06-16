@@ -1,0 +1,87 @@
+{
+  "updatedAt": "2026-05-29 15:42:09 UTC",
+  "inverter": {
+    "name": "Luxpower SNA5000",
+    "powerKw": 5.0,
+    "maxVocV": 480.0,
+    "mpptVoltageMinV": 120.0,
+    "mpptVoltageMaxV": 385.0,
+    "stringCount": 2,
+    "maxChargeCurrentA": 110.0
+  },
+  "solar": {
+    "installed": true,
+    "sameBrandOnAllStrings": true,
+    "stringCount": 2,
+    "shared": {
+      "brand": "Ja 460W",
+      "panelMaxPowerW": 460.0,
+      "maxPowerCurrentImpA": 11.2,
+      "maxOpenCircuitVoltageVocV": 50.0,
+      "panelsPerString": 6
+    },
+    "strings": [
+      {
+        "stringIndex": 1,
+        "label": "PV1",
+        "facingDirection": "N",
+        "tiltDegrees": 30.0,
+        "brand": "JA 460W",
+        "panelMaxPowerW": 460.0,
+        "maxPowerCurrentImpA": 11.2,
+        "maxOpenCircuitVoltageVocV": 49.5,
+        "panelsPerString": 6
+      },
+      {
+        "stringIndex": 2,
+        "label": "PV2",
+        "facingDirection": "W",
+        "tiltDegrees": 25.0,
+        "brand": "JA West",
+        "panelMaxPowerW": 460.0,
+        "maxPowerCurrentImpA": 11.2,
+        "maxOpenCircuitVoltageVocV": 49.5,
+        "panelsPerString": 6
+      },
+      {
+        "stringIndex": 3,
+        "label": "PV3",
+        "facingDirection": "",
+        "tiltDegrees": null,
+        "brand": "",
+        "panelMaxPowerW": null,
+        "maxPowerCurrentImpA": null,
+        "maxOpenCircuitVoltageVocV": null,
+        "panelsPerString": null
+      },
+      {
+        "stringIndex": 4,
+        "label": "PV4",
+        "facingDirection": "",
+        "tiltDegrees": null,
+        "brand": "",
+        "panelMaxPowerW": null,
+        "maxPowerCurrentImpA": null,
+        "maxOpenCircuitVoltageVocV": null,
+        "panelsPerString": null
+      }
+    ],
+    "tiltChangeLog": [
+      {
+        "stringIndex": 1,
+        "effectiveDate": "2026-04-01",
+        "previousTiltDegrees": 20.0,
+        "newTiltDegrees": 25.0,
+        "recordedAt": "2026-05-29 15:18:59 UTC"
+      },
+      {
+        "stringIndex": 1,
+        "effectiveDate": "2025-08-01",
+        "previousTiltDegrees": 25.0,
+        "newTiltDegrees": 30.0,
+        "recordedAt": "2026-05-29 15:20:28 UTC"
+      }
+    ],
+    "notes": "PV1 north,  PV2 west"
+  }
+}

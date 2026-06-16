@@ -1,0 +1,3381 @@
+{
+  "date": "2024-10-19",
+  "series": {
+    "ppv": {
+      "unit": "",
+      "maxValueText": "",
+      "avgValueText": "",
+      "points": []
+    },
+    "ppv1": {
+      "unit": "W",
+      "maxValueText": "600",
+      "avgValueText": "156.6",
+      "points": [
+        {
+          "time": "2024-10-19 00:39:13",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 0,
+          "minute": 39,
+          "second": 13,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:14:03",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 14,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:23:59",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 23,
+          "second": 59,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:28:58",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 28,
+          "second": 58,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:38:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 38,
+          "second": 51,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:53:50",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 53,
+          "second": 50,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:03:49",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 3,
+          "second": 49,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:18:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 18,
+          "second": 41,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:23:38",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 23,
+          "second": 38,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:48:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 48,
+          "second": 34,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:58:35",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 58,
+          "second": 35,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:08:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 21,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:13:19",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 13,
+          "second": 19,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:18:17",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 18,
+          "second": 17,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:53:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 53,
+          "second": 21,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:58:08",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 58,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 04:32:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 4,
+          "minute": 32,
+          "second": 56,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 05:07:44",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 7,
+          "second": 44,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 05:12:52",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 12,
+          "second": 52,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 05:27:48",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 27,
+          "second": 48,
+          "value": 17.0
+        },
+        {
+          "time": "2024-10-19 06:22:33",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 6,
+          "minute": 22,
+          "second": 33,
+          "value": 15.0
+        },
+        {
+          "time": "2024-10-19 07:17:18",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 7,
+          "minute": 17,
+          "second": 18,
+          "value": 141.0
+        },
+        {
+          "time": "2024-10-19 08:12:00",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 12,
+          "second": 0,
+          "value": 340.0
+        },
+        {
+          "time": "2024-10-19 08:26:57",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 26,
+          "second": 57,
+          "value": 575.0
+        },
+        {
+          "time": "2024-10-19 08:56:53",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 56,
+          "second": 53,
+          "value": 366.0
+        },
+        {
+          "time": "2024-10-19 09:41:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 41,
+          "second": 41,
+          "value": 519.0
+        },
+        {
+          "time": "2024-10-19 09:56:30",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 56,
+          "second": 30,
+          "value": 600.0
+        },
+        {
+          "time": "2024-10-19 10:11:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 10,
+          "minute": 11,
+          "second": 34,
+          "value": 369.0
+        },
+        {
+          "time": "2024-10-19 11:30:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 30,
+          "second": 56,
+          "value": 474.0
+        },
+        {
+          "time": "2024-10-19 11:35:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 35,
+          "second": 54,
+          "value": 456.0
+        },
+        {
+          "time": "2024-10-19 11:40:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 40,
+          "second": 54,
+          "value": 409.0
+        },
+        {
+          "time": "2024-10-19 11:45:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 45,
+          "second": 51,
+          "value": 417.0
+        },
+        {
+          "time": "2024-10-19 15:14:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 15,
+          "minute": 14,
+          "second": 51,
+          "value": 471.0
+        }
+      ]
+    },
+    "ppv2": {
+      "unit": "W",
+      "maxValueText": "635",
+      "avgValueText": "168.4",
+      "points": [
+        {
+          "time": "2024-10-19 00:39:13",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 0,
+          "minute": 39,
+          "second": 13,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:14:03",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 14,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:23:59",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 23,
+          "second": 59,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:28:58",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 28,
+          "second": 58,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:38:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 38,
+          "second": 51,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:53:50",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 53,
+          "second": 50,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:03:49",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 3,
+          "second": 49,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:18:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 18,
+          "second": 41,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:23:38",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 23,
+          "second": 38,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:48:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 48,
+          "second": 34,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:58:35",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 58,
+          "second": 35,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:08:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 21,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:13:19",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 13,
+          "second": 19,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:18:17",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 18,
+          "second": 17,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:53:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 53,
+          "second": 21,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:58:08",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 58,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 04:32:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 4,
+          "minute": 32,
+          "second": 56,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 05:07:44",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 7,
+          "second": 44,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 05:12:52",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 12,
+          "second": 52,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 05:27:48",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 27,
+          "second": 48,
+          "value": 38.0
+        },
+        {
+          "time": "2024-10-19 06:22:33",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 6,
+          "minute": 22,
+          "second": 33,
+          "value": 23.0
+        },
+        {
+          "time": "2024-10-19 07:17:18",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 7,
+          "minute": 17,
+          "second": 18,
+          "value": 165.0
+        },
+        {
+          "time": "2024-10-19 08:12:00",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 12,
+          "second": 0,
+          "value": 368.0
+        },
+        {
+          "time": "2024-10-19 08:26:57",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 26,
+          "second": 57,
+          "value": 582.0
+        },
+        {
+          "time": "2024-10-19 08:56:53",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 56,
+          "second": 53,
+          "value": 415.0
+        },
+        {
+          "time": "2024-10-19 09:41:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 41,
+          "second": 41,
+          "value": 568.0
+        },
+        {
+          "time": "2024-10-19 09:56:30",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 56,
+          "second": 30,
+          "value": 635.0
+        },
+        {
+          "time": "2024-10-19 10:11:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 10,
+          "minute": 11,
+          "second": 34,
+          "value": 384.0
+        },
+        {
+          "time": "2024-10-19 11:30:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 30,
+          "second": 56,
+          "value": 511.0
+        },
+        {
+          "time": "2024-10-19 11:35:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 35,
+          "second": 54,
+          "value": 473.0
+        },
+        {
+          "time": "2024-10-19 11:40:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 40,
+          "second": 54,
+          "value": 426.0
+        },
+        {
+          "time": "2024-10-19 11:45:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 45,
+          "second": 51,
+          "value": 453.0
+        },
+        {
+          "time": "2024-10-19 15:14:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 15,
+          "minute": 14,
+          "second": 51,
+          "value": 517.0
+        }
+      ]
+    },
+    "vpv1": {
+      "unit": "V",
+      "maxValueText": "248",
+      "avgValueText": "127.2",
+      "points": [
+        {
+          "time": "2024-10-19 00:39:13",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 0,
+          "minute": 39,
+          "second": 13,
+          "value": 48.4
+        },
+        {
+          "time": "2024-10-19 01:14:03",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 14,
+          "second": 3,
+          "value": 43.6
+        },
+        {
+          "time": "2024-10-19 01:23:59",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 23,
+          "second": 59,
+          "value": 43.8
+        },
+        {
+          "time": "2024-10-19 01:28:58",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 28,
+          "second": 58,
+          "value": 53.5
+        },
+        {
+          "time": "2024-10-19 01:38:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 38,
+          "second": 51,
+          "value": 55.1
+        },
+        {
+          "time": "2024-10-19 01:53:50",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 53,
+          "second": 50,
+          "value": 52.3
+        },
+        {
+          "time": "2024-10-19 02:03:49",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 3,
+          "second": 49,
+          "value": 51.1
+        },
+        {
+          "time": "2024-10-19 02:18:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 18,
+          "second": 41,
+          "value": 53.6
+        },
+        {
+          "time": "2024-10-19 02:23:38",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 23,
+          "second": 38,
+          "value": 57.9
+        },
+        {
+          "time": "2024-10-19 02:48:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 48,
+          "second": 34,
+          "value": 54.2
+        },
+        {
+          "time": "2024-10-19 02:58:35",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 58,
+          "second": 35,
+          "value": 50.9
+        },
+        {
+          "time": "2024-10-19 03:08:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 21,
+          "value": 48.9
+        },
+        {
+          "time": "2024-10-19 03:13:19",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 13,
+          "second": 19,
+          "value": 48.4
+        },
+        {
+          "time": "2024-10-19 03:18:17",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 18,
+          "second": 17,
+          "value": 48.0
+        },
+        {
+          "time": "2024-10-19 03:53:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 53,
+          "second": 21,
+          "value": 46.0
+        },
+        {
+          "time": "2024-10-19 03:58:08",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 58,
+          "second": 8,
+          "value": 45.9
+        },
+        {
+          "time": "2024-10-19 04:32:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 4,
+          "minute": 32,
+          "second": 56,
+          "value": 44.8
+        },
+        {
+          "time": "2024-10-19 05:07:44",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 7,
+          "second": 44,
+          "value": 37.3
+        },
+        {
+          "time": "2024-10-19 05:12:52",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 12,
+          "second": 52,
+          "value": 38.5
+        },
+        {
+          "time": "2024-10-19 05:27:48",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 27,
+          "second": 48,
+          "value": 144.8
+        },
+        {
+          "time": "2024-10-19 06:22:33",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 6,
+          "minute": 22,
+          "second": 33,
+          "value": 220.7
+        },
+        {
+          "time": "2024-10-19 07:17:18",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 7,
+          "minute": 17,
+          "second": 18,
+          "value": 237.0
+        },
+        {
+          "time": "2024-10-19 08:12:00",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 12,
+          "second": 0,
+          "value": 241.0
+        },
+        {
+          "time": "2024-10-19 08:26:57",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 26,
+          "second": 57,
+          "value": 248.0
+        },
+        {
+          "time": "2024-10-19 08:56:53",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 56,
+          "second": 53,
+          "value": 244.5
+        },
+        {
+          "time": "2024-10-19 09:41:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 41,
+          "second": 41,
+          "value": 243.5
+        },
+        {
+          "time": "2024-10-19 09:56:30",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 56,
+          "second": 30,
+          "value": 244.9
+        },
+        {
+          "time": "2024-10-19 10:11:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 10,
+          "minute": 11,
+          "second": 34,
+          "value": 243.0
+        },
+        {
+          "time": "2024-10-19 11:30:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 30,
+          "second": 56,
+          "value": 241.0
+        },
+        {
+          "time": "2024-10-19 11:35:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 35,
+          "second": 54,
+          "value": 242.9
+        },
+        {
+          "time": "2024-10-19 11:40:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 40,
+          "second": 54,
+          "value": 242.0
+        },
+        {
+          "time": "2024-10-19 11:45:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 45,
+          "second": 51,
+          "value": 237.5
+        },
+        {
+          "time": "2024-10-19 15:14:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 15,
+          "minute": 14,
+          "second": 51,
+          "value": 246.0
+        }
+      ]
+    },
+    "vpv2": {
+      "unit": "V",
+      "maxValueText": "247.7",
+      "avgValueText": "113.7",
+      "points": [
+        {
+          "time": "2024-10-19 00:39:13",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 0,
+          "minute": 39,
+          "second": 13,
+          "value": 21.9
+        },
+        {
+          "time": "2024-10-19 01:14:03",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 14,
+          "second": 3,
+          "value": 18.4
+        },
+        {
+          "time": "2024-10-19 01:23:59",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 23,
+          "second": 59,
+          "value": 18.0
+        },
+        {
+          "time": "2024-10-19 01:28:58",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 28,
+          "second": 58,
+          "value": 24.0
+        },
+        {
+          "time": "2024-10-19 01:38:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 38,
+          "second": 51,
+          "value": 26.1
+        },
+        {
+          "time": "2024-10-19 01:53:50",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 53,
+          "second": 50,
+          "value": 23.9
+        },
+        {
+          "time": "2024-10-19 02:03:49",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 3,
+          "second": 49,
+          "value": 22.6
+        },
+        {
+          "time": "2024-10-19 02:18:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 18,
+          "second": 41,
+          "value": 23.6
+        },
+        {
+          "time": "2024-10-19 02:23:38",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 23,
+          "second": 38,
+          "value": 35.7
+        },
+        {
+          "time": "2024-10-19 02:48:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 48,
+          "second": 34,
+          "value": 25.5
+        },
+        {
+          "time": "2024-10-19 02:58:35",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 58,
+          "second": 35,
+          "value": 22.3
+        },
+        {
+          "time": "2024-10-19 03:08:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 21,
+          "value": 20.8
+        },
+        {
+          "time": "2024-10-19 03:13:19",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 13,
+          "second": 19,
+          "value": 20.5
+        },
+        {
+          "time": "2024-10-19 03:18:17",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 18,
+          "second": 17,
+          "value": 19.9
+        },
+        {
+          "time": "2024-10-19 03:53:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 53,
+          "second": 21,
+          "value": 18.2
+        },
+        {
+          "time": "2024-10-19 03:58:08",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 58,
+          "second": 8,
+          "value": 18.0
+        },
+        {
+          "time": "2024-10-19 04:32:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 4,
+          "minute": 32,
+          "second": 56,
+          "value": 17.3
+        },
+        {
+          "time": "2024-10-19 05:07:44",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 7,
+          "second": 44,
+          "value": 16.3
+        },
+        {
+          "time": "2024-10-19 05:12:52",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 12,
+          "second": 52,
+          "value": 23.1
+        },
+        {
+          "time": "2024-10-19 05:27:48",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 27,
+          "second": 48,
+          "value": 168.5
+        },
+        {
+          "time": "2024-10-19 06:22:33",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 6,
+          "minute": 22,
+          "second": 33,
+          "value": 233.7
+        },
+        {
+          "time": "2024-10-19 07:17:18",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 7,
+          "minute": 17,
+          "second": 18,
+          "value": 239.7
+        },
+        {
+          "time": "2024-10-19 08:12:00",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 12,
+          "second": 0,
+          "value": 247.3
+        },
+        {
+          "time": "2024-10-19 08:26:57",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 26,
+          "second": 57,
+          "value": 245.8
+        },
+        {
+          "time": "2024-10-19 08:56:53",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 56,
+          "second": 53,
+          "value": 245.6
+        },
+        {
+          "time": "2024-10-19 09:41:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 41,
+          "second": 41,
+          "value": 244.6
+        },
+        {
+          "time": "2024-10-19 09:56:30",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 56,
+          "second": 30,
+          "value": 247.7
+        },
+        {
+          "time": "2024-10-19 10:11:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 10,
+          "minute": 11,
+          "second": 34,
+          "value": 243.7
+        },
+        {
+          "time": "2024-10-19 11:30:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 30,
+          "second": 56,
+          "value": 242.2
+        },
+        {
+          "time": "2024-10-19 11:35:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 35,
+          "second": 54,
+          "value": 245.2
+        },
+        {
+          "time": "2024-10-19 11:40:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 40,
+          "second": 54,
+          "value": 241.8
+        },
+        {
+          "time": "2024-10-19 11:45:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 45,
+          "second": 51,
+          "value": 243.2
+        },
+        {
+          "time": "2024-10-19 15:14:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 15,
+          "minute": 14,
+          "second": 51,
+          "value": 245.7
+        }
+      ]
+    },
+    "vBat": {
+      "unit": "V",
+      "maxValueText": "52.5",
+      "avgValueText": "51.6",
+      "points": [
+        {
+          "time": "2024-10-19 00:39:13",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 0,
+          "minute": 39,
+          "second": 13,
+          "value": 52.0
+        },
+        {
+          "time": "2024-10-19 01:14:03",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 14,
+          "second": 3,
+          "value": 51.8
+        },
+        {
+          "time": "2024-10-19 01:23:59",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 23,
+          "second": 59,
+          "value": 51.8
+        },
+        {
+          "time": "2024-10-19 01:28:58",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 28,
+          "second": 58,
+          "value": 51.8
+        },
+        {
+          "time": "2024-10-19 01:38:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 38,
+          "second": 51,
+          "value": 51.8
+        },
+        {
+          "time": "2024-10-19 01:53:50",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 53,
+          "second": 50,
+          "value": 51.7
+        },
+        {
+          "time": "2024-10-19 02:03:49",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 3,
+          "second": 49,
+          "value": 51.6
+        },
+        {
+          "time": "2024-10-19 02:18:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 18,
+          "second": 41,
+          "value": 51.6
+        },
+        {
+          "time": "2024-10-19 02:23:38",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 23,
+          "second": 38,
+          "value": 51.6
+        },
+        {
+          "time": "2024-10-19 02:48:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 48,
+          "second": 34,
+          "value": 51.5
+        },
+        {
+          "time": "2024-10-19 02:58:35",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 58,
+          "second": 35,
+          "value": 51.4
+        },
+        {
+          "time": "2024-10-19 03:08:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 21,
+          "value": 51.3
+        },
+        {
+          "time": "2024-10-19 03:13:19",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 13,
+          "second": 19,
+          "value": 51.3
+        },
+        {
+          "time": "2024-10-19 03:18:17",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 18,
+          "second": 17,
+          "value": 51.2
+        },
+        {
+          "time": "2024-10-19 03:53:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 53,
+          "second": 21,
+          "value": 51.0
+        },
+        {
+          "time": "2024-10-19 03:58:08",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 58,
+          "second": 8,
+          "value": 50.9
+        },
+        {
+          "time": "2024-10-19 04:32:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 4,
+          "minute": 32,
+          "second": 56,
+          "value": 50.8
+        },
+        {
+          "time": "2024-10-19 05:07:44",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 7,
+          "second": 44,
+          "value": 50.7
+        },
+        {
+          "time": "2024-10-19 05:12:52",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 12,
+          "second": 52,
+          "value": 50.6
+        },
+        {
+          "time": "2024-10-19 05:27:48",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 27,
+          "second": 48,
+          "value": 50.5
+        },
+        {
+          "time": "2024-10-19 06:22:33",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 6,
+          "minute": 22,
+          "second": 33,
+          "value": 51.7
+        },
+        {
+          "time": "2024-10-19 07:17:18",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 7,
+          "minute": 17,
+          "second": 18,
+          "value": 51.5
+        },
+        {
+          "time": "2024-10-19 08:12:00",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 12,
+          "second": 0,
+          "value": 51.5
+        },
+        {
+          "time": "2024-10-19 08:26:57",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 26,
+          "second": 57,
+          "value": 51.8
+        },
+        {
+          "time": "2024-10-19 08:56:53",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 56,
+          "second": 53,
+          "value": 51.8
+        },
+        {
+          "time": "2024-10-19 09:41:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 41,
+          "second": 41,
+          "value": 52.1
+        },
+        {
+          "time": "2024-10-19 09:56:30",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 56,
+          "second": 30,
+          "value": 52.1
+        },
+        {
+          "time": "2024-10-19 10:11:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 10,
+          "minute": 11,
+          "second": 34,
+          "value": 52.2
+        },
+        {
+          "time": "2024-10-19 11:30:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 30,
+          "second": 56,
+          "value": 52.3
+        },
+        {
+          "time": "2024-10-19 11:35:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 35,
+          "second": 54,
+          "value": 52.3
+        },
+        {
+          "time": "2024-10-19 11:40:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 40,
+          "second": 54,
+          "value": 52.3
+        },
+        {
+          "time": "2024-10-19 11:45:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 45,
+          "second": 51,
+          "value": 52.3
+        },
+        {
+          "time": "2024-10-19 15:14:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 15,
+          "minute": 14,
+          "second": 51,
+          "value": 52.5
+        }
+      ]
+    },
+    "soc": {
+      "unit": "%",
+      "maxValueText": "48",
+      "avgValueText": "34.2",
+      "points": [
+        {
+          "time": "2024-10-19 00:39:13",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 0,
+          "minute": 39,
+          "second": 13,
+          "value": 48.0
+        },
+        {
+          "time": "2024-10-19 01:14:03",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 14,
+          "second": 3,
+          "value": 45.0
+        },
+        {
+          "time": "2024-10-19 01:23:59",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 23,
+          "second": 59,
+          "value": 43.0
+        },
+        {
+          "time": "2024-10-19 01:28:58",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 28,
+          "second": 58,
+          "value": 43.0
+        },
+        {
+          "time": "2024-10-19 01:38:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 38,
+          "second": 51,
+          "value": 42.0
+        },
+        {
+          "time": "2024-10-19 01:53:50",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 53,
+          "second": 50,
+          "value": 41.0
+        },
+        {
+          "time": "2024-10-19 02:03:49",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 3,
+          "second": 49,
+          "value": 40.0
+        },
+        {
+          "time": "2024-10-19 02:18:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 18,
+          "second": 41,
+          "value": 40.0
+        },
+        {
+          "time": "2024-10-19 02:23:38",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 23,
+          "second": 38,
+          "value": 40.0
+        },
+        {
+          "time": "2024-10-19 02:48:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 48,
+          "second": 34,
+          "value": 38.0
+        },
+        {
+          "time": "2024-10-19 02:58:35",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 58,
+          "second": 35,
+          "value": 37.0
+        },
+        {
+          "time": "2024-10-19 03:08:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 21,
+          "value": 37.0
+        },
+        {
+          "time": "2024-10-19 03:13:19",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 13,
+          "second": 19,
+          "value": 36.0
+        },
+        {
+          "time": "2024-10-19 03:18:17",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 18,
+          "second": 17,
+          "value": 36.0
+        },
+        {
+          "time": "2024-10-19 03:53:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 53,
+          "second": 21,
+          "value": 33.0
+        },
+        {
+          "time": "2024-10-19 03:58:08",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 58,
+          "second": 8,
+          "value": 33.0
+        },
+        {
+          "time": "2024-10-19 04:32:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 4,
+          "minute": 32,
+          "second": 56,
+          "value": 30.0
+        },
+        {
+          "time": "2024-10-19 05:07:44",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 7,
+          "second": 44,
+          "value": 27.0
+        },
+        {
+          "time": "2024-10-19 05:12:52",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 12,
+          "second": 52,
+          "value": 27.0
+        },
+        {
+          "time": "2024-10-19 05:27:48",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 27,
+          "second": 48,
+          "value": 26.0
+        },
+        {
+          "time": "2024-10-19 06:22:33",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 6,
+          "minute": 22,
+          "second": 33,
+          "value": 27.0
+        },
+        {
+          "time": "2024-10-19 07:17:18",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 7,
+          "minute": 17,
+          "second": 18,
+          "value": 27.0
+        },
+        {
+          "time": "2024-10-19 08:12:00",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 12,
+          "second": 0,
+          "value": 27.0
+        },
+        {
+          "time": "2024-10-19 08:26:57",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 26,
+          "second": 57,
+          "value": 27.0
+        },
+        {
+          "time": "2024-10-19 08:56:53",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 56,
+          "second": 53,
+          "value": 28.0
+        },
+        {
+          "time": "2024-10-19 09:41:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 41,
+          "second": 41,
+          "value": 29.0
+        },
+        {
+          "time": "2024-10-19 09:56:30",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 56,
+          "second": 30,
+          "value": 30.0
+        },
+        {
+          "time": "2024-10-19 10:11:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 10,
+          "minute": 11,
+          "second": 34,
+          "value": 31.0
+        },
+        {
+          "time": "2024-10-19 11:30:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 30,
+          "second": 56,
+          "value": 31.0
+        },
+        {
+          "time": "2024-10-19 11:35:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 35,
+          "second": 54,
+          "value": 32.0
+        },
+        {
+          "time": "2024-10-19 11:40:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 40,
+          "second": 54,
+          "value": 32.0
+        },
+        {
+          "time": "2024-10-19 11:45:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 45,
+          "second": 51,
+          "value": 32.0
+        },
+        {
+          "time": "2024-10-19 15:14:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 15,
+          "minute": 14,
+          "second": 51,
+          "value": 34.0
+        }
+      ]
+    },
+    "pToUser": {
+      "unit": "W",
+      "maxValueText": "598",
+      "avgValueText": "29.4",
+      "points": [
+        {
+          "time": "2024-10-19 00:39:13",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 0,
+          "minute": 39,
+          "second": 13,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:14:03",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 14,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:23:59",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 23,
+          "second": 59,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:28:58",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 28,
+          "second": 58,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:38:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 38,
+          "second": 51,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:53:50",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 53,
+          "second": 50,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:03:49",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 3,
+          "second": 49,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:18:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 18,
+          "second": 41,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:23:38",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 23,
+          "second": 38,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:48:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 48,
+          "second": 34,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:58:35",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 58,
+          "second": 35,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:08:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 21,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:13:19",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 13,
+          "second": 19,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:18:17",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 18,
+          "second": 17,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:53:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 53,
+          "second": 21,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:58:08",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 58,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 04:32:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 4,
+          "minute": 32,
+          "second": 56,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 05:07:44",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 7,
+          "second": 44,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 05:12:52",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 12,
+          "second": 52,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 05:27:48",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 27,
+          "second": 48,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 06:22:33",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 6,
+          "minute": 22,
+          "second": 33,
+          "value": 598.0
+        },
+        {
+          "time": "2024-10-19 07:17:18",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 7,
+          "minute": 17,
+          "second": 18,
+          "value": 371.0
+        },
+        {
+          "time": "2024-10-19 08:12:00",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 12,
+          "second": 0,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 08:26:57",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 26,
+          "second": 57,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 08:56:53",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 56,
+          "second": 53,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 09:41:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 41,
+          "second": 41,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 09:56:30",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 56,
+          "second": 30,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 10:11:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 10,
+          "minute": 11,
+          "second": 34,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 11:30:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 30,
+          "second": 56,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 11:35:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 35,
+          "second": 54,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 11:40:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 40,
+          "second": 54,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 11:45:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 45,
+          "second": 51,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 15:14:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 15,
+          "minute": 14,
+          "second": 51,
+          "value": 0.0
+        }
+      ]
+    },
+    "pToGrid": {
+      "unit": "W",
+      "maxValueText": "0",
+      "avgValueText": "0",
+      "points": [
+        {
+          "time": "2024-10-19 00:39:13",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 0,
+          "minute": 39,
+          "second": 13,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:14:03",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 14,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:23:59",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 23,
+          "second": 59,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:28:58",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 28,
+          "second": 58,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:38:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 38,
+          "second": 51,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:53:50",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 53,
+          "second": 50,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:03:49",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 3,
+          "second": 49,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:18:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 18,
+          "second": 41,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:23:38",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 23,
+          "second": 38,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:48:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 48,
+          "second": 34,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:58:35",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 58,
+          "second": 35,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:08:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 21,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:13:19",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 13,
+          "second": 19,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:18:17",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 18,
+          "second": 17,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:53:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 53,
+          "second": 21,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:58:08",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 58,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 04:32:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 4,
+          "minute": 32,
+          "second": 56,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 05:07:44",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 7,
+          "second": 44,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 05:12:52",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 12,
+          "second": 52,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 05:27:48",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 27,
+          "second": 48,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 06:22:33",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 6,
+          "minute": 22,
+          "second": 33,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 07:17:18",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 7,
+          "minute": 17,
+          "second": 18,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 08:12:00",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 12,
+          "second": 0,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 08:26:57",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 26,
+          "second": 57,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 08:56:53",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 56,
+          "second": 53,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 09:41:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 41,
+          "second": 41,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 09:56:30",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 56,
+          "second": 30,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 10:11:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 10,
+          "minute": 11,
+          "second": 34,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 11:30:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 30,
+          "second": 56,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 11:35:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 35,
+          "second": 54,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 11:40:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 40,
+          "second": 54,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 11:45:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 45,
+          "second": 51,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 15:14:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 15,
+          "minute": 14,
+          "second": 51,
+          "value": 0.0
+        }
+      ]
+    },
+    "pCharge": {
+      "unit": "W",
+      "maxValueText": "569",
+      "avgValueText": "124.8",
+      "points": [
+        {
+          "time": "2024-10-19 00:39:13",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 0,
+          "minute": 39,
+          "second": 13,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:14:03",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 14,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:23:59",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 23,
+          "second": 59,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:28:58",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 28,
+          "second": 58,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:38:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 38,
+          "second": 51,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 01:53:50",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 53,
+          "second": 50,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:03:49",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 3,
+          "second": 49,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:18:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 18,
+          "second": 41,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:23:38",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 23,
+          "second": 38,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:48:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 48,
+          "second": 34,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 02:58:35",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 58,
+          "second": 35,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:08:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 21,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:13:19",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 13,
+          "second": 19,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:18:17",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 18,
+          "second": 17,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:53:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 53,
+          "second": 21,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 03:58:08",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 58,
+          "second": 8,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 04:32:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 4,
+          "minute": 32,
+          "second": 56,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 05:07:44",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 7,
+          "second": 44,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 05:12:52",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 12,
+          "second": 52,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 05:27:48",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 27,
+          "second": 48,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 06:22:33",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 6,
+          "minute": 22,
+          "second": 33,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 07:17:18",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 7,
+          "minute": 17,
+          "second": 18,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 08:12:00",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 12,
+          "second": 0,
+          "value": 223.0
+        },
+        {
+          "time": "2024-10-19 08:26:57",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 26,
+          "second": 57,
+          "value": 569.0
+        },
+        {
+          "time": "2024-10-19 08:56:53",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 56,
+          "second": 53,
+          "value": 320.0
+        },
+        {
+          "time": "2024-10-19 09:41:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 41,
+          "second": 41,
+          "value": 481.0
+        },
+        {
+          "time": "2024-10-19 09:56:30",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 56,
+          "second": 30,
+          "value": 550.0
+        },
+        {
+          "time": "2024-10-19 10:11:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 10,
+          "minute": 11,
+          "second": 34,
+          "value": 206.0
+        },
+        {
+          "time": "2024-10-19 11:30:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 30,
+          "second": 56,
+          "value": 486.0
+        },
+        {
+          "time": "2024-10-19 11:35:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 35,
+          "second": 54,
+          "value": 324.0
+        },
+        {
+          "time": "2024-10-19 11:40:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 40,
+          "second": 54,
+          "value": 248.0
+        },
+        {
+          "time": "2024-10-19 11:45:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 45,
+          "second": 51,
+          "value": 299.0
+        },
+        {
+          "time": "2024-10-19 15:14:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 15,
+          "minute": 14,
+          "second": 51,
+          "value": 413.0
+        }
+      ]
+    },
+    "pDischarge": {
+      "unit": "",
+      "maxValueText": "795",
+      "avgValueText": "434.3",
+      "points": [
+        {
+          "time": "2024-10-19 00:39:13",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 0,
+          "minute": 39,
+          "second": 13,
+          "value": 717.0
+        },
+        {
+          "time": "2024-10-19 01:14:03",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 14,
+          "second": 3,
+          "value": 767.0
+        },
+        {
+          "time": "2024-10-19 01:23:59",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 23,
+          "second": 59,
+          "value": 769.0
+        },
+        {
+          "time": "2024-10-19 01:28:58",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 28,
+          "second": 58,
+          "value": 677.0
+        },
+        {
+          "time": "2024-10-19 01:38:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 38,
+          "second": 51,
+          "value": 689.0
+        },
+        {
+          "time": "2024-10-19 01:53:50",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 1,
+          "minute": 53,
+          "second": 50,
+          "value": 795.0
+        },
+        {
+          "time": "2024-10-19 02:03:49",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 3,
+          "second": 49,
+          "value": 641.0
+        },
+        {
+          "time": "2024-10-19 02:18:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 18,
+          "second": 41,
+          "value": 644.0
+        },
+        {
+          "time": "2024-10-19 02:23:38",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 23,
+          "second": 38,
+          "value": 664.0
+        },
+        {
+          "time": "2024-10-19 02:48:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 48,
+          "second": 34,
+          "value": 542.0
+        },
+        {
+          "time": "2024-10-19 02:58:35",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 2,
+          "minute": 58,
+          "second": 35,
+          "value": 771.0
+        },
+        {
+          "time": "2024-10-19 03:08:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 21,
+          "value": 763.0
+        },
+        {
+          "time": "2024-10-19 03:13:19",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 13,
+          "second": 19,
+          "value": 762.0
+        },
+        {
+          "time": "2024-10-19 03:18:17",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 18,
+          "second": 17,
+          "value": 764.0
+        },
+        {
+          "time": "2024-10-19 03:53:21",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 53,
+          "second": 21,
+          "value": 676.0
+        },
+        {
+          "time": "2024-10-19 03:58:08",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 3,
+          "minute": 58,
+          "second": 8,
+          "value": 672.0
+        },
+        {
+          "time": "2024-10-19 04:32:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 4,
+          "minute": 32,
+          "second": 56,
+          "value": 766.0
+        },
+        {
+          "time": "2024-10-19 05:07:44",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 7,
+          "second": 44,
+          "value": 765.0
+        },
+        {
+          "time": "2024-10-19 05:12:52",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 12,
+          "second": 52,
+          "value": 757.0
+        },
+        {
+          "time": "2024-10-19 05:27:48",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 5,
+          "minute": 27,
+          "second": 48,
+          "value": 729.0
+        },
+        {
+          "time": "2024-10-19 06:22:33",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 6,
+          "minute": 22,
+          "second": 33,
+          "value": 1.0
+        },
+        {
+          "time": "2024-10-19 07:17:18",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 7,
+          "minute": 17,
+          "second": 18,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 08:12:00",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 12,
+          "second": 0,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 08:26:57",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 26,
+          "second": 57,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 08:56:53",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 8,
+          "minute": 56,
+          "second": 53,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 09:41:41",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 41,
+          "second": 41,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 09:56:30",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 9,
+          "minute": 56,
+          "second": 30,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 10:11:34",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 10,
+          "minute": 11,
+          "second": 34,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 11:30:56",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 30,
+          "second": 56,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 11:35:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 35,
+          "second": 54,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 11:40:54",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 40,
+          "second": 54,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 11:45:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 11,
+          "minute": 45,
+          "second": 51,
+          "value": 0.0
+        },
+        {
+          "time": "2024-10-19 15:14:51",
+          "year": 2024,
+          "month": 9,
+          "day": 19,
+          "hour": 15,
+          "minute": 14,
+          "second": 51,
+          "value": 0.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,881 @@
+{
+  "date": "2025-03-19",
+  "series": {
+    "ppv": {
+      "unit": "",
+      "maxValueText": "",
+      "avgValueText": "",
+      "points": []
+    },
+    "ppv1": {
+      "unit": "W",
+      "maxValueText": "2176",
+      "avgValueText": "785.8",
+      "points": [
+        {
+          "time": "2025-03-19 00:45:25",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 0,
+          "minute": 45,
+          "second": 25,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 03:08:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 44,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 03:14:41",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 14,
+          "second": 41,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 03:20:40",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 20,
+          "second": 40,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 05:30:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 5,
+          "minute": 30,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 11:50:13",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 11,
+          "minute": 50,
+          "second": 13,
+          "value": 2176.0
+        },
+        {
+          "time": "2025-03-19 12:40:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 12,
+          "minute": 40,
+          "second": 3,
+          "value": 2143.0
+        },
+        {
+          "time": "2025-03-19 13:39:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 13,
+          "minute": 39,
+          "second": 44,
+          "value": 1967.0
+        }
+      ]
+    },
+    "ppv2": {
+      "unit": "W",
+      "maxValueText": "2145",
+      "avgValueText": "764.1",
+      "points": [
+        {
+          "time": "2025-03-19 00:45:25",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 0,
+          "minute": 45,
+          "second": 25,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 03:08:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 44,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 03:14:41",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 14,
+          "second": 41,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 03:20:40",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 20,
+          "second": 40,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 05:30:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 5,
+          "minute": 30,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 11:50:13",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 11,
+          "minute": 50,
+          "second": 13,
+          "value": 1880.0
+        },
+        {
+          "time": "2025-03-19 12:40:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 12,
+          "minute": 40,
+          "second": 3,
+          "value": 2088.0
+        },
+        {
+          "time": "2025-03-19 13:39:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 13,
+          "minute": 39,
+          "second": 44,
+          "value": 2145.0
+        }
+      ]
+    },
+    "vpv1": {
+      "unit": "V",
+      "maxValueText": "210.7",
+      "avgValueText": "100",
+      "points": [
+        {
+          "time": "2025-03-19 00:45:25",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 0,
+          "minute": 45,
+          "second": 25,
+          "value": 31.0
+        },
+        {
+          "time": "2025-03-19 03:08:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 44,
+          "value": 34.3
+        },
+        {
+          "time": "2025-03-19 03:14:41",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 14,
+          "second": 41,
+          "value": 34.4
+        },
+        {
+          "time": "2025-03-19 03:20:40",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 20,
+          "second": 40,
+          "value": 34.7
+        },
+        {
+          "time": "2025-03-19 05:30:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 5,
+          "minute": 30,
+          "second": 3,
+          "value": 39.0
+        },
+        {
+          "time": "2025-03-19 11:50:13",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 11,
+          "minute": 50,
+          "second": 13,
+          "value": 207.5
+        },
+        {
+          "time": "2025-03-19 12:40:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 12,
+          "minute": 40,
+          "second": 3,
+          "value": 208.1
+        },
+        {
+          "time": "2025-03-19 13:39:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 13,
+          "minute": 39,
+          "second": 44,
+          "value": 210.7
+        }
+      ]
+    },
+    "vpv2": {
+      "unit": "V",
+      "maxValueText": "213.8",
+      "avgValueText": "94.9",
+      "points": [
+        {
+          "time": "2025-03-19 00:45:25",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 0,
+          "minute": 45,
+          "second": 25,
+          "value": 21.5
+        },
+        {
+          "time": "2025-03-19 03:08:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 44,
+          "value": 24.2
+        },
+        {
+          "time": "2025-03-19 03:14:41",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 14,
+          "second": 41,
+          "value": 23.9
+        },
+        {
+          "time": "2025-03-19 03:20:40",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 20,
+          "second": 40,
+          "value": 24.0
+        },
+        {
+          "time": "2025-03-19 05:30:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 5,
+          "minute": 30,
+          "second": 3,
+          "value": 27.9
+        },
+        {
+          "time": "2025-03-19 11:50:13",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 11,
+          "minute": 50,
+          "second": 13,
+          "value": 211.2
+        },
+        {
+          "time": "2025-03-19 12:40:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 12,
+          "minute": 40,
+          "second": 3,
+          "value": 213.8
+        },
+        {
+          "time": "2025-03-19 13:39:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 13,
+          "minute": 39,
+          "second": 44,
+          "value": 212.9
+        }
+      ]
+    },
+    "vBat": {
+      "unit": "V",
+      "maxValueText": "54.7",
+      "avgValueText": "52.8",
+      "points": [
+        {
+          "time": "2025-03-19 00:45:25",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 0,
+          "minute": 45,
+          "second": 25,
+          "value": 52.1
+        },
+        {
+          "time": "2025-03-19 03:08:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 44,
+          "value": 52.0
+        },
+        {
+          "time": "2025-03-19 03:14:41",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 14,
+          "second": 41,
+          "value": 52.0
+        },
+        {
+          "time": "2025-03-19 03:20:40",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 20,
+          "second": 40,
+          "value": 52.0
+        },
+        {
+          "time": "2025-03-19 05:30:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 5,
+          "minute": 30,
+          "second": 3,
+          "value": 52.0
+        },
+        {
+          "time": "2025-03-19 11:50:13",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 11,
+          "minute": 50,
+          "second": 13,
+          "value": 53.7
+        },
+        {
+          "time": "2025-03-19 12:40:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 12,
+          "minute": 40,
+          "second": 3,
+          "value": 54.1
+        },
+        {
+          "time": "2025-03-19 13:39:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 13,
+          "minute": 39,
+          "second": 44,
+          "value": 54.7
+        }
+      ]
+    },
+    "soc": {
+      "unit": "%",
+      "maxValueText": "99",
+      "avgValueText": "51.2",
+      "points": [
+        {
+          "time": "2025-03-19 00:45:25",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 0,
+          "minute": 45,
+          "second": 25,
+          "value": 39.0
+        },
+        {
+          "time": "2025-03-19 03:08:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 44,
+          "value": 30.0
+        },
+        {
+          "time": "2025-03-19 03:14:41",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 14,
+          "second": 41,
+          "value": 29.0
+        },
+        {
+          "time": "2025-03-19 03:20:40",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 20,
+          "second": 40,
+          "value": 30.0
+        },
+        {
+          "time": "2025-03-19 05:30:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 5,
+          "minute": 30,
+          "second": 3,
+          "value": 30.0
+        },
+        {
+          "time": "2025-03-19 11:50:13",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 11,
+          "minute": 50,
+          "second": 13,
+          "value": 69.0
+        },
+        {
+          "time": "2025-03-19 12:40:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 12,
+          "minute": 40,
+          "second": 3,
+          "value": 84.0
+        },
+        {
+          "time": "2025-03-19 13:39:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 13,
+          "minute": 39,
+          "second": 44,
+          "value": 99.0
+        }
+      ]
+    },
+    "pToUser": {
+      "unit": "W",
+      "maxValueText": "748",
+      "avgValueText": "350",
+      "points": [
+        {
+          "time": "2025-03-19 00:45:25",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 0,
+          "minute": 45,
+          "second": 25,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 03:08:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 44,
+          "value": 748.0
+        },
+        {
+          "time": "2025-03-19 03:14:41",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 14,
+          "second": 41,
+          "value": 735.0
+        },
+        {
+          "time": "2025-03-19 03:20:40",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 20,
+          "second": 40,
+          "value": 692.0
+        },
+        {
+          "time": "2025-03-19 05:30:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 5,
+          "minute": 30,
+          "second": 3,
+          "value": 625.0
+        },
+        {
+          "time": "2025-03-19 11:50:13",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 11,
+          "minute": 50,
+          "second": 13,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 12:40:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 12,
+          "minute": 40,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 13:39:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 13,
+          "minute": 39,
+          "second": 44,
+          "value": 0.0
+        }
+      ]
+    },
+    "pToGrid": {
+      "unit": "W",
+      "maxValueText": "0",
+      "avgValueText": "0",
+      "points": [
+        {
+          "time": "2025-03-19 00:45:25",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 0,
+          "minute": 45,
+          "second": 25,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 03:08:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 44,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 03:14:41",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 14,
+          "second": 41,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 03:20:40",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 20,
+          "second": 40,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 05:30:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 5,
+          "minute": 30,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 11:50:13",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 11,
+          "minute": 50,
+          "second": 13,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 12:40:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 12,
+          "minute": 40,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 13:39:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 13,
+          "minute": 39,
+          "second": 44,
+          "value": 0.0
+        }
+      ]
+    },
+    "pCharge": {
+      "unit": "W",
+      "maxValueText": "3110",
+      "avgValueText": "1104.1",
+      "points": [
+        {
+          "time": "2025-03-19 00:45:25",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 0,
+          "minute": 45,
+          "second": 25,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 03:08:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 44,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 03:14:41",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 14,
+          "second": 41,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 03:20:40",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 20,
+          "second": 40,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 05:30:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 5,
+          "minute": 30,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 11:50:13",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 11,
+          "minute": 50,
+          "second": 13,
+          "value": 2792.0
+        },
+        {
+          "time": "2025-03-19 12:40:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 12,
+          "minute": 40,
+          "second": 3,
+          "value": 3110.0
+        },
+        {
+          "time": "2025-03-19 13:39:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 13,
+          "minute": 39,
+          "second": 44,
+          "value": 2931.0
+        }
+      ]
+    },
+    "pDischarge": {
+      "unit": "",
+      "maxValueText": "685",
+      "avgValueText": "90.5",
+      "points": [
+        {
+          "time": "2025-03-19 00:45:25",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 0,
+          "minute": 45,
+          "second": 25,
+          "value": 685.0
+        },
+        {
+          "time": "2025-03-19 03:08:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 8,
+          "second": 44,
+          "value": 5.0
+        },
+        {
+          "time": "2025-03-19 03:14:41",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 14,
+          "second": 41,
+          "value": 19.0
+        },
+        {
+          "time": "2025-03-19 03:20:40",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 3,
+          "minute": 20,
+          "second": 40,
+          "value": 15.0
+        },
+        {
+          "time": "2025-03-19 05:30:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 5,
+          "minute": 30,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 11:50:13",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 11,
+          "minute": 50,
+          "second": 13,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 12:40:03",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 12,
+          "minute": 40,
+          "second": 3,
+          "value": 0.0
+        },
+        {
+          "time": "2025-03-19 13:39:44",
+          "year": 2025,
+          "month": 2,
+          "day": 19,
+          "hour": 13,
+          "minute": 39,
+          "second": 44,
+          "value": 0.0
+        }
+      ]
+    }
+  }
+}
