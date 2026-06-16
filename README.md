@@ -39,6 +39,31 @@ Please do the following:
 
 Tell the AI: "Do not hardcode my values in source code; keep everything in `.env`."
 
+## Windows Quick Start
+
+After `.env` is configured, you can start the dashboard on Windows in either way:
+
+### Option 1: Double-click
+
+1. Open the project folder.
+2. Double-click `start-local-server.bat`.
+3. Wait a few seconds for the server to start.
+4. Open `http://127.0.0.1:8765/` in your browser.
+
+### Option 2: PowerShell
+
+From the project root:
+
+```powershell
+.\start-local-server.bat
+```
+
+If the batch script fails, run the Python server directly:
+
+```powershell
+python .\energy_flow\server.py
+```
+
 ## How It Works For A New User
 
 - The app reads user-specific settings from `.env`.
