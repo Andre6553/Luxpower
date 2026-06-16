@@ -1,0 +1,36 @@
+# Luxpower AI setup rule
+
+Apply this rule when an AI agent is asked to set up this Luxpower project for a new user.
+
+## Goal
+
+Get the user's local dashboard running at `http://127.0.0.1:8765/` with the user's own inverter details, without hardcoding secrets into code.
+
+## Required setup flow
+
+1. Confirm Python is installed and available in PATH.
+2. Install dependency:
+   - `pip install requests`
+3. Ensure config file exists:
+   - If `.env` is missing, copy `.env.example` to `.env`.
+4. Read `.env` and check required fields:
+   - `username`
+   - `password`
+   - `station`
+   - `inverter_sn`
+   - `dongle_sn`
+   - `inverter_ip`
+5. If any required field is missing, ask the user only for missing fields.
+6. Start the server:
+   - Preferred: run `start-local-server.bat`
+   - Fallback: `python energy_flow/server.py`
+7. Verify server health:
+   - Check `http://127.0.0.1:8765/api/history/sync` returns HTTP 200.
+8. If errors occur, fix them and explain exactly what was changed.
+
+## Safety and quality
+
+- Never commit or print real secrets from `.env`.
+- Never hardcode user-specific values (serials, IPs, credentials) in source files.
+- Keep user-specific values in `.env` only.
+- If Python files are changed under `energy_flow/`, restart the server before handing back.
