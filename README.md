@@ -2,6 +2,43 @@
 
 This project lets any LuxPower user run the dashboard with their own inverter by updating only `.env` values (no code edits needed).
 
+## Use AI To Help With Setup (Recommended First)
+
+If you use Cursor, Google Antigravity, or Claude on your PC, you can ask the AI to do most of the setup steps for you.
+
+### AI-assisted quick start
+
+1. Download/clone this repo.
+2. Open the project folder in your AI coding tool.
+3. Paste the prompt below.
+4. Let the AI run commands, create `.env`, and verify the local server.
+
+Prompt you can copy:
+
+```text
+Set up this Luxpower project so I can run the dashboard with my own inverter.
+
+Please do the following:
+1) Check Python is available.
+2) Install required dependency: requests.
+3) Copy .env.example to .env (if .env does not exist).
+4) Ask me only for missing required values:
+   - username
+   - password
+   - station
+   - inverter_sn
+   - dongle_sn
+   - inverter_ip
+5) Validate .env has all required fields.
+6) Start the local server using start-local-server.bat (or python energy_flow/server.py).
+7) Verify http://127.0.0.1:8765/ responds.
+8) If something fails, fix it and explain exactly what to change.
+```
+
+### Tip
+
+Tell the AI: "Do not hardcode my values in source code; keep everything in `.env`."
+
 ## How It Works For A New User
 
 - The app reads user-specific settings from `.env`.
@@ -9,7 +46,7 @@ This project lets any LuxPower user run the dashboard with their own inverter by
 - Local live data is read from the user's inverter on their own LAN (`inverter_ip` + `dongle_sn`).
 - The local dashboard runs on `http://127.0.0.1:8765/`.
 
-## Setup Guide (New Users)
+## Manual Setup (Step-by-Step)
 
 ### 1) Download The Project
 
@@ -108,43 +145,6 @@ Then open:
 - **Live local data missing**
   - Verify `inverter_ip` and `dongle_sn`.
   - Confirm PC and inverter are on the same network.
-
-## Use AI To Help With Setup
-
-If you use Cursor, Google Antigravity, or Claude on your PC, you can ask the AI to do most of the setup steps for you.
-
-### AI-assisted quick start
-
-1. Download/clone this repo.
-2. Open the project folder in your AI coding tool.
-3. Paste the prompt below.
-4. Let the AI run commands, create `.env`, and verify the local server.
-
-Prompt you can copy:
-
-```text
-Set up this Luxpower project so I can run the dashboard with my own inverter.
-
-Please do the following:
-1) Check Python is available.
-2) Install required dependency: requests.
-3) Copy .env.example to .env (if .env does not exist).
-4) Ask me only for missing required values:
-   - username
-   - password
-   - station
-   - inverter_sn
-   - dongle_sn
-   - inverter_ip
-5) Validate .env has all required fields.
-6) Start the local server using start-local-server.bat (or python energy_flow/server.py).
-7) Verify http://127.0.0.1:8765/ responds.
-8) If something fails, fix it and explain exactly what to change.
-```
-
-### Tip
-
-Tell the AI: "Do not hardcode my values in source code; keep everything in `.env`."
 
 ## Security Notes
 
