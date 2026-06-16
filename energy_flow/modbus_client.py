@@ -14,6 +14,7 @@ DEFAULT_HOST = "192.168.10.67"
 DEFAULT_PORT = 8000
 DEFAULT_DONGLE = "BA24401521"
 DEFAULT_INVERTER = "2453530335"
+DEFAULT_STATION = "LuxPower Station"
 READ_TIMEOUT = 5
 RESPONSE_OVERHEAD = 37
 
@@ -53,9 +54,9 @@ def load_config() -> InverterConfig:
     return InverterConfig(
         host=cfg.get("inverter_ip", DEFAULT_HOST),
         port=DEFAULT_PORT,
-        dongle_sn=DEFAULT_DONGLE,
-        inverter_sn=DEFAULT_INVERTER,
-        station_name=cfg.get("station", "Andre Huis"),
+        dongle_sn=cfg.get("dongle_sn", DEFAULT_DONGLE),
+        inverter_sn=cfg.get("inverter_sn", DEFAULT_INVERTER),
+        station_name=cfg.get("station", DEFAULT_STATION),
     )
 
 

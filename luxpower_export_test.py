@@ -7,7 +7,9 @@ s = requests.Session()
 b = "https://af.luxpowertek.com"
 h = {"Content-Type": "application/x-www-form-urlencoded; charset=UTF-8", "Accept": "application/json"}
 s.post(b + "/WManage/api/login", data={"account": cfg["username"], "password": cfg["password"], "language": "ENGLISH"}, headers=h)
-sn = "2453530335"
+sn = cfg.get("inverter_sn", "").strip()
+if not sn:
+    raise RuntimeError("Missing inverter_sn in .env")
 for d in ["2026-05-26", "2026-05-23"]:
     r = s.get(f"{b}/WManage/web/analyze/data/export/{sn}/{d}", timeout=60)
     print(d, "export status", r.status_code, "bytes", len(r.content), "type", r.headers.get("Content-Type", "")[:40])

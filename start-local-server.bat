@@ -1,8 +1,8 @@
 @echo off
 setlocal
 
-set "BASE_DIR=C:\Users\User\Ai Projects\Luxpower"
-set "SERVER_DIR=%BASE_DIR%\energy_flow"
+set "BASE_DIR=%~dp0"
+set "SERVER_DIR=%BASE_DIR%energy_flow"
 set "URL=http://127.0.0.1:8765/"
 
 if not exist "%SERVER_DIR%\server.py" (

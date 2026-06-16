@@ -1,4 +1,4 @@
-"""Load saved LuxPower history for a single inverter (2453530335)."""
+"""Load saved LuxPower history for a configured inverter."""
 from __future__ import annotations
 
 import csv
@@ -8,7 +8,8 @@ from pathlib import Path
 
 from load_source import load_source_series, luxpower_rows_from_series
 
-INVERTER_SN = "2453530335"
+ENV_PATH = Path(__file__).resolve().parent.parent / ".env"
+DEFAULT_INVERTER_SN = "2453530335"
 DATA_ROOT = Path(__file__).resolve().parent.parent / "Data"
 DEFAULT_YEAR = 2026
 DAY_SERIES = (
@@ -26,6 +27,22 @@ DAY_SERIES = (
 MAX_DAY_POINTS = 240
 CHART_KWH_CACHE = DATA_ROOT / "_cache" / "chart_solar_kwh.json"
 _chart_kwh_cache: dict[str, float] | None = None
+
+
+def _load_env() -> dict[str, str]:
+    cfg: dict[str, str] = {}
+    if not ENV_PATH.exists():
+        return cfg
+    for line in ENV_PATH.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        k, v = line.split("=", 1)
+        cfg[k.strip().lower().replace(" ", "_")] = v.strip()
+    return cfg
+
+
+INVERTER_SN = _load_env().get("inverter_sn", DEFAULT_INVERTER_SN)
 
 
 def _load_chart_kwh_cache() -> dict[str, float]:
